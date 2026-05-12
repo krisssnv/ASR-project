@@ -1,0 +1,64 @@
+@UTF8
+@PID:	11312/a-00090506-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|69;|female|ProbableAD||Participant|19||
+@Media:	310-0, audio
+@G:	Cookie
+*INV:	I'd like you to tell me all the action that you see going on in that picture .
+%mor:	intj|if verb|like-Fin-Ind-Pres-S1 pron|you-Prs-Acc-S2 part|to verb|tell-Inf-S pron|I-Prs-Acc-S1 det|all-Def-Tot det|the-Def-Art noun|action-Acc pron|that-Rel pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|go-Ger-S adp|on adp|in det|that-Def-Dem-Sing noun|picture .
+%gra:	1|2|DISCOURSE 2|0|ROOT 3|2|OBJ 4|5|MARK 5|2|XCOMP 6|5|IOBJ 7|9|DET-PREDET 8|9|DET 9|5|OBJ 10|13|OBJ 11|12|NSUBJ 12|9|ACL-RELCL 13|12|XCOMP 14|13|COMPOUND-PRT 15|17|CASE 16|17|DET 17|13|OBL 18|2|PUNCT
+*PAR:	(.) well the boy's climbing a [/] &+la a stool . 12180_12337
+%mor:	intj|well det|the-Def-Art noun|boy-Plur verb|climb-Ger-S det|a-Ind-Art noun|stool-Acc .
+%gra:	1|3|DISCOURSE 2|3|DET 3|0|ROOT 4|3|ACL 5|6|DET 6|4|OBJ 7|3|PUNCT
+*PAR:	and it's gonna upset .
+%mor:	cconj|and pron|its-Prs-Gen-S3 adv|gonna verb|upset-Part-Past-S-irr .
+%gra:	1|4|CC 2|4|NMOD-POSS 3|4|ADVMOD 4|0|ROOT 5|4|PUNCT
+*PAR:	he's tryin(g) to get a cookie . 14003_14705
+%mor:	noun|he-Plur verb|try-Part-Pres-S part|to verb|get-Inf-S det|a-Ind-Art noun|cookie-Acc .
+%gra:	1|0|ROOT 2|1|ACL 3|4|MARK 4|2|XCOMP 5|6|DET 6|4|OBJ 7|1|PUNCT
+*PAR:	and the sink is runnin(g) over . 15627_17327
+%mor:	cconj|and det|the-Def-Art noun|sink aux|be-Fin-Ind-Pres-S3 verb|run-Part-Pres-S adv|over .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|5|ADVMOD 7|5|PUNCT
+*PAR:	the mother's dryin(g) a dish . 18333_19599
+%mor:	det|the-Def-Art noun|mother-Plur verb|drying-Ger-S det|a-Ind-Art noun|dish-Acc .
+%gra:	1|2|DET 2|3|NSUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*PAR:	(.) and the little girl is reachin(g) up for a cookie . 23606_25150
+%mor:	cconj|and det|the-Def-Art adj|little-S1 noun|girl aux|be-Fin-Ind-Pres-S3 verb|reach-Part-Pres-S adp|up adp|for det|a-Ind-Art noun|cookie .
+%gra:	1|6|CC 2|4|DET 3|4|AMOD 4|6|NSUBJ 5|6|AUX 6|0|ROOT 7|6|COMPOUND-PRT 8|10|CASE 9|10|DET 10|6|OBL 11|6|PUNCT
+*INV:	(..) anything else ? 33683_33959
+%mor:	pron|anything-Ind-S1 adj|else-S1 ?
+%gra:	1|0|ROOT 2|1|AMOD 3|1|PUNCT
+*INV:	(..) is there anything else going on in that picture ? 50760_52406
+%mor:	verb|be-Fin-Ind-Pres-S3 pron|there-Int-S1 pron|anything-Ind-S1 adj|else-S1 verb|go-Ger-S adp|on adp|in det|that-Def-Dem-Sing noun|picture ?
+%gra:	1|0|ROOT 2|1|EXPL 3|1|NSUBJ 4|3|AMOD 5|3|ACL 6|5|COMPOUND-PRT 7|9|CASE 8|9|DET 9|5|OBL 10|1|PUNCT
+*PAR:	hmhunh . [+ exc]
+%mor:	intj|hmhunh .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	xxx the mother over there she's doing the dishes .
+%mor:	det|the-Def-Art noun|mother adp|over adv|there noun|she-Plur verb|do-Part-Pres-S det|the-Def-Art noun|dish-Plur-Acc .
+%gra:	1|2|DET 2|6|NSUBJ 3|4|CASE 4|2|NMOD 5|6|NSUBJ 6|0|ROOT 7|8|DET 8|6|OBJ 9|6|PUNCT
+*PAR:	and the sink's runnin(g) xxx . 59200_59941
+%mor:	cconj|and det|the-Def-Art adj|sinks-S1 noun|running-Ger .
+%gra:	1|4|CC 2|4|DET 3|4|AMOD 4|0|ROOT 5|4|PUNCT
+*PAR:	the boy's getting the cookies . 60983_61884
+%mor:	det|the-Def-Art noun|boy-Plur verb|get-Ger-S det|the-Def-Art noun|cookie-Plur-Acc .
+%gra:	1|2|DET 2|0|ROOT 3|2|ACL 4|5|DET 5|3|OBJ 6|2|PUNCT
+*PAR:	stool's on that step xxx . [+ jar]
+%mor:	verb|stool-Fin-Imp-S2 adp|on det|that-Def-Dem-Sing noun|step .
+%gra:	1|0|ROOT 2|4|CASE 3|4|DET 4|1|OBL 5|1|PUNCT
+*PAR:	&=sighs window's open . [+ gram]
+%mor:	noun|window-Plur adj|open-S1 .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|PUNCT
+*PAR:	maybe the wind is blowing in . 68879_70279
+%mor:	adv|maybe det|the-Def-Art noun|wind aux|be-Fin-Ind-Pres-S3 verb|blow-Part-Pres-S adp|in .
+%gra:	1|5|ADVMOD 2|3|DET 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|5|COMPOUND-PRT 7|5|PUNCT
+*INV:	okay .
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	(..) okay .
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+@End

@@ -1,0 +1,88 @@
+@UTF8
+@PID:	11312/a-00090327-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|66;|male|ProbableAD||Participant|20||
+@Media:	010-0, audio
+@G:	Cookie
+*INV:	here's the picture .
+%mor:	verb|here-Fin-Ind-Pres-S3 det|the-Def-Art noun|picture-Acc .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*PAR:	oh boy . [+ exc]
+%mor:	intj|oh intj|boy .
+%gra:	1|2|DISCOURSE 2|0|ROOT 3|2|PUNCT
+*PAR:	wowie the boy's going up on a cookiejar [: stool] [* s:r] to get cookies and he's falling off the jar [: stool] [* s:r] and his sister is just wondering about it . 5477_11877
+%mor:	verb|wowie-Fin-Imp-S det|the-Def-Art noun|boy-Plur-Acc verb|go-Ger-S adp|up adp|on det|a-Ind-Art noun|stool part|to verb|get-Inf-S noun|cookie-Plur-Acc cconj|and noun|he-Plur verb|fall-Ger-S adp|off det|the-Def-Art noun|stool cconj|and pron|his-Prs-Gen-S3 noun|sister aux|be-Fin-Ind-Pres-S3 adv|just verb|wonder-Part-Pres-S adp|about pron|it-Prs-Acc-S3 .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|3|ACL 5|4|COMPOUND-PRT 6|8|CASE 7|8|DET 8|4|OBL 9|10|MARK 10|4|ADVCL 11|10|OBJ 12|13|CC 13|11|CONJ 14|10|XCOMP 15|17|CASE 16|17|DET 17|14|OBL 18|23|CC 19|20|NMOD-POSS 20|23|NSUBJ 21|23|AUX 22|23|ADVMOD 23|1|CONJ 24|25|CASE 25|23|OBL 26|1|PUNCT
+*PAR:	will he hit the bottom ? 12022_12802
+%mor:	aux|will-Fin-S pron|he-Prs-Nom-S3 verb|hit-Inf-S det|the-Def-Art noun|bottom-Acc ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*PAR:	mama has an [//] &+ov a sink that's overrunning with [/] with &-uh water splashin(g) down onto her shoes . 13840_20770
+%mor:	noun|mama verb|have-Fin-Ind-Pres-S3 det|a-Ind-Art noun|sink noun|that-Acc verb|overrunn-Ger-S adp|with noun|water verb|splash-Ger-S adp|down adp|onto pron|her-Prs-Gen-S3 noun|shoe-Plur .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|5|DET 4|5|COMPOUND 5|2|OBJ 6|5|ACL 7|8|CASE 8|6|OBL 9|6|ADVCL 10|9|COMPOUND-PRT 11|13|CASE 12|13|NMOD-POSS 13|9|OBL 14|2|PUNCT
+*PAR:	she's in the process of drying dishes . 21731_23828
+%mor:	noun|she-Plur adp|in det|the-Def-Art noun|process adp|of verb|drying-Ger-S noun|dish-Plur .
+%gra:	1|0|ROOT 2|4|CASE 3|4|DET 4|1|NMOD 5|7|CASE 6|7|AMOD 7|4|NMOD 8|1|PUNCT
+*PAR:	she's looking out an open window at the same time . 25079_27479
+%mor:	noun|she verb|look-Part-Pres-S adp|out det|a-Ind-Art adj|open-S1 noun|window-Acc adp|at det|the-Def-Art adj|same-S1 noun|time .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|COMPOUND-PRT 4|6|DET 5|6|AMOD 6|2|OBJ 7|10|CASE 8|10|DET 9|10|AMOD 10|2|OBL 11|2|PUNCT
+*PAR:	the cookie jar is open . 28419_29259
+%mor:	det|the-Def-Art noun|cookie noun|jar aux|be-Fin-Ind-Pres-S3 adj|open-S1 .
+%gra:	1|3|DET 2|3|COMPOUND 3|5|NSUBJ 4|5|COP 5|0|ROOT 6|5|PUNCT
+*PAR:	and the girl has her finger to her lips . 30282_33278
+%mor:	cconj|and det|the-Def-Art noun|girl verb|have-Fin-Ind-Pres-S3 pron|her-Prs-Gen-S3 noun|finger-Acc adp|to pron|her-Prs-Gen-S3 noun|lip-Plur .
+%gra:	1|4|CC 2|3|DET 3|4|NSUBJ 4|0|ROOT 5|6|NMOD-POSS 6|4|OBJ 7|9|CASE 8|9|NMOD-POSS 9|4|OBL 10|4|PUNCT
+*PAR:	well let me see . [+ exc] 35231_35927
+%mor:	intj|well verb|let-Fin-Imp-S pron|I-Prs-Acc-S1 verb|see-Inf-S .
+%gra:	1|2|DISCOURSE 2|0|ROOT 3|2|OBJ 4|2|XCOMP 5|2|PUNCT
+*PAR:	&-uh everything that's going to happen , huh ? [+ exc] 36300_37480
+%mor:	pron|everything-Tot-S1 aux|that-Fin-Ind-Pres-S3 verb|go-Part-Pres-S part|to verb|happen-Inf-S cm|cm intj|huh ?
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|5|MARK 5|3|XCOMP 6|7|PUNCT 7|5|OBJ 8|3|PUNCT
+*INV:	mhm . 37916_38177
+%mor:	intj|mhm .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	looking out the window <maybe it> [//] I don't know if it's &-uh the breeze blowin(g) the curtains because <the curtains look a little wee bit> [//] &+th <over the> [/] <over the window blind> [//] over the window they look a little wee bit puffy .
+%mor:	verb|look-Part-Pres-S adp|out det|the-Def-Art noun|window-Acc pron|I-Prs-Nom-S1 adv|dont verb|know-Fin-Ind-Pres-S1 sconj|if pron|its-Prs-Gen-S3 det|the-Def-Art noun|breeze verb|blow-Ger-S det|the-Def-Art noun|curtain-Plur-Acc sconj|because adp|over det|the-Def-Art noun|window pron|they-Prs-Nom-P3 verb|look-Fin-Ind-Pres-P3 det|a-Ind-Art adj|little-S1 adj|wee-S1 noun|bit adj|puffy-S1 .
+%gra:	1|7|ADVCL 2|1|COMPOUND-PRT 3|4|DET 4|1|OBJ 5|7|NSUBJ 6|7|ADVMOD 7|0|ROOT 8|12|MARK 9|11|NMOD-POSS 10|11|DET 11|12|NSUBJ 12|7|CCOMP 13|14|DET 14|12|OBJ 15|20|MARK 16|18|CASE 17|18|DET 18|20|OBL 19|20|NSUBJ 20|7|ADVCL 21|24|DET 22|24|AMOD 23|24|AMOD 24|25|OBL-UNMARKED 25|20|XCOMP 26|7|PUNCT
+*PAR:	so maybe there's a slight breeze coming <in the> [/] in the kitchen window . 51454_54247
+%mor:	adv|so adv|maybe verb|there-Fin-Ind-Pres-S3 det|a-Ind-Art adj|slight-S1 noun|breeze verb|come-Ger-S adp|in det|the-Def-Art noun|kitchen noun|window .
+%gra:	1|3|DISCOURSE 2|3|ADVMOD 3|0|ROOT 4|6|DET 5|6|AMOD 6|3|NSUBJ 7|6|ACL 8|11|CASE 9|11|DET 10|11|COMPOUND 11|7|OBL 12|3|PUNCT
+*PAR:	mama's drying the dishes and she forgettin(g) herself and the water is overflowing from the sink down onto the floor splashing into her shoes .
+%mor:	noun|mama-Plur verb|drying-Ger-S det|the-Def-Art noun|dish-Plur-Acc cconj|and pron|she-Prs-Nom-S3 verb|forget-Part-Pres-S pron|herself-Prs-Acc-reflx-S3 cconj|and det|the-Def-Art noun|water aux|be-Fin-Ind-Pres-S3 verb|overflow-Part-Pres-S adp|from det|the-Def-Art noun|sink adv|down adp|onto det|the-Def-Art noun|floor verb|splash-Part-Pres-S adp|into pron|her-Prs-Gen-S3 noun|shoe-Plur .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|7|CC 6|7|NSUBJ 7|2|CONJ 8|7|OBJ 9|13|CC 10|11|DET 11|13|NSUBJ 12|13|AUX 13|2|CONJ 14|16|CASE 15|16|DET 16|13|OBL 17|13|ADVMOD 18|20|CASE 19|20|DET 20|13|OBL 21|13|ADVCL 22|24|CASE 23|24|NMOD-POSS 24|21|OBL 25|2|PUNCT
+*PAR:	alright there are two cups and a plate on the counter to the right of the sink . 64472_71332
+%mor:	intj|alright pron|there-Int-S1 aux|be-Fin-Ind-Pres-P3 num|two noun|cup-Plur cconj|and det|a-Ind-Art noun|plate adp|on det|the-Def-Art noun|counter adp|to det|the-Def-Art noun|right adp|of det|the-Def-Art noun|sink .
+%gra:	1|3|DISCOURSE 2|3|EXPL 3|0|ROOT 4|5|NUMMOD 5|3|NSUBJ 6|8|CC 7|8|DET 8|5|CONJ 9|11|CASE 10|11|DET 11|8|NMOD 12|14|CASE 13|14|DET 14|5|NMOD 15|17|CASE 16|17|DET 17|14|NMOD 18|3|PUNCT
+*PAR:	and &-uh <the boy> [//] well I did tell you the boy is gettin(g) ready to fall off of the chair [: stool] [* s:r] . 73881_79571
+%mor:	cconj|and intj|well pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Past-S1-irr verb|tell-Inf-S pron|you-Prs-Acc-S2 det|the-Def-Art noun|boy aux|be-Fin-Ind-Pres-S3 verb|get-Part-Pres-S adj|ready-S1 part|to verb|fall-Inf-S adp|off adp|of det|the-Def-Art noun|stool .
+%gra:	1|5|CC 2|5|DISCOURSE 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|5|IOBJ 7|8|DET 8|10|NSUBJ 9|10|AUX 10|5|CCOMP 11|10|XCOMP 12|13|MARK 13|11|XCOMP 14|17|CASE 15|17|CASE 16|17|DET 17|13|OBL 18|5|PUNCT
+*PAR:	his sister is reaching up for a cookie , gettin(g) it from the cookie jar .
+%mor:	pron|his-Prs-Gen-S3 noun|sister aux|be-Fin-Ind-Pres-S3 verb|reach-Part-Pres-S adp|up adp|for det|a-Ind-Art noun|cookie cm|cm verb|get-Part-Pres-S pron|it-Prs-Acc-S3 adp|from det|the-Def-Art noun|cookie noun|jar .
+%gra:	1|2|NMOD-POSS 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|4|COMPOUND-PRT 6|8|CASE 7|8|DET 8|4|OBL 9|10|PUNCT 10|4|ADVCL 11|10|OBJ 12|15|CASE 13|15|DET 14|15|COMPOUND 15|10|OBL 16|4|PUNCT
+*PAR:	so what else ? [+ exc] 85605_86435
+%mor:	adv|so pron|what-Int-S1 adv|else ?
+%gra:	1|2|DISCOURSE 2|0|ROOT 3|2|ADVMOD 4|2|PUNCT
+*PAR:	the [/] the door is open of course to get into the cupboard . 88013_89563
+%mor:	det|the-Def-Art noun|door aux|be-Fin-Ind-Pres-S3 adj|open-S1 adp|of noun|course part|to verb|get-Inf-S adp|into det|the-Def-Art noun|cupboard .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|COP 4|0|ROOT 5|8|MARK 6|5|FIXED 7|8|MARK 8|4|ADVCL 9|11|CASE 10|11|DET 11|8|OBL 12|4|PUNCT
+*PAR:	xxx doin(g) . [+ jar]
+%com:	PAR talking under his breath , inaudible .
+%mor:	verb|do-Part-Pres-S .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	xxx . [+ exc]
+%com:	PAR talking under his breath , inaudible .
+*PAR:	three [//] three legged stool . [+ gram] 102280_103600
+%mor:	num|three adj|legged-S1 noun|stool .
+%gra:	1|3|NUMMOD 2|3|AMOD 3|0|ROOT 4|3|PUNCT
+*INV:	and that's about it . 108407_108888
+%mor:	cconj|and pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adp|about pron|it-Prs-Acc-S3 .
+%gra:	1|5|CC 2|5|NSUBJ 3|5|COP 4|5|CASE 5|0|ROOT 6|5|PUNCT
+*PAR:	I would venture to say that is it . [+ exc] 109429_111022
+%mor:	pron|I-Prs-Nom-S1 aux|would-Fin-S verb|venture-Inf-S part|to verb|say-Inf-S pron|that-Dem aux|be-Fin-Ind-Pres-S3 pron|it-Prs-Nom-S3 .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|5|MARK 5|3|XCOMP 6|8|NSUBJ 7|8|COP 8|5|CCOMP 9|3|PUNCT
+*INV:	okay . 111552_111712
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+@End

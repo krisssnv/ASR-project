@@ -1,0 +1,44 @@
+@UTF8
+@PID:	11312/a-00090374-0
+@Window:	90_1179_895_833_-1_-1_191_0_191_0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|68;|male|MCI||Participant|25||
+@Media:	062-0, audio
+@G:	Cookie
+*INV:	there's the picture .
+%mor:	pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 det|the-Masc-Def-Art noun|picture .
+%gra:	1|2|EXPL 2|0|ROOT 3|4|DET 4|2|NSUBJ 5|2|PUNCT
+*PAR:	(..) now the boy <on the> [/] <on the> [//] standing on the stool is gonna fall . 9178_13303
+%mor:	adv|now det|the-Def-Art noun|boy noun|standing-Ger adp|on det|the-Def-Art noun|stool aux|be-Fin-Ind-Pres-S3 part|go verb|fall-Inf-S .
+%gra:	1|10|ADVMOD 2|4|DET 3|4|COMPOUND 4|10|NSUBJ 5|7|CASE 6|7|DET 7|4|NMOD 8|10|AUX 9|10|ADVMOD 10|0|ROOT 11|10|PUNCT
+*PAR:	he's reaching for a cookie . 15749_16939
+%mor:	noun|he-Plur verb|reach-Part-Pres-S adp|for det|a-Ind-Art noun|cookie .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|5|CASE 4|5|DET 5|2|OBL 6|2|PUNCT
+*PAR:	he's handling [: handing] [* p:w-ret] [//] handing a cookie to his sister I would imagine . 17091_20617
+%mor:	noun|he-Plur verb|hand-Part-Pres-S det|a-Ind-Art noun|cookie-Acc adp|to pron|his-Prs-Gen-S3 noun|sister pron|I-Prs-Nom-S1 aux|would-Fin-S verb|imagine-Inf-S .
+%gra:	1|10|NSUBJ 2|10|ADVCL 3|4|DET 4|2|OBJ 5|7|CASE 6|7|NMOD-POSS 7|2|OBL 8|10|NSUBJ 9|10|AUX 10|0|ROOT 11|10|PUNCT
+*PAR:	poor mother wasn't very attentive and the water was swepping [: x@n] [* n:uk] over the sink . 22681_27571
+%mor:	adj|poor-S1 noun|mother aux|wasnt-Fin-Ind-Pres-S3 adv|very adj|attentive-S1 cconj|and det|the-Def-Art noun|water aux|be-Fin-Ind-Past-S3-irr n|x adp|over det|the-Def-Art noun|sink .
+%gra:	1|2|AMOD 2|5|NSUBJ 3|5|COP 4|5|ADVMOD 5|0|ROOT 6|10|CC 7|8|DET 8|10|NSUBJ 9|10|COP 10|5|CONJ 11|13|CASE 12|13|DET 13|10|OBL 14|5|PUNCT
+*PAR:	(..) oh boy . [+ exc] 37438_37795
+%mor:	intj|oh intj|boy .
+%gra:	1|2|DISCOURSE 2|0|ROOT 3|2|PUNCT
+*PAR:	(..) something's missing and I don't know what it is . [+ exc]
+%mor:	noun|somethings-Plur adj|missing-S1 cconj|and pron|I-Prs-Nom-S1 adv|dont verb|know-Fin-Ind-Pres-S1 pron|what-Int-S1 pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Pres-S3 .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|6|CC 4|6|NSUBJ 5|6|ADVMOD 6|2|CONJ 7|6|OBJ 8|9|NSUBJ 9|7|ACL-RELCL 10|2|PUNCT
+*PAR:	(..) they have a nice backyard with a garage in the back and shrubbery . 38524_39008
+%mor:	pron|they-Prs-Nom-P3 verb|have-Fin-Ind-Pres-P3 det|a-Ind-Art adj|nice-S1 noun|backyard-Acc adp|with det|a-Ind-Art noun|garage adp|in det|the-Def-Art noun|back cconj|and noun|shrubbery .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|5|DET 4|5|AMOD 5|2|OBJ 6|8|CASE 7|8|DET 8|5|NMOD 9|11|CASE 10|11|DET 11|8|NMOD 12|13|CC 13|11|CONJ 14|2|PUNCT
+*INV:	(..) okay .
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	that's about it . [+ exc]
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adp|about pron|it-Prs-Acc-S3 .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|CASE 4|0|ROOT 5|4|PUNCT
+*INV:	okay . 71244_71334
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+@End

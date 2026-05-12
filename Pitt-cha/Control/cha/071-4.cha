@@ -1,0 +1,59 @@
+@UTF8
+@PID:	11312/a-00090689-0
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt|PAR|60;00.|male|Control||Participant|||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	071-4, audio
+@Comment:	age is educated estimate , extrapolated from incomplete demographic data
+@G:	Cookie
+*PAR:	&-uh badly damaged &=laughs sink . [+ gram] 610_2690
+%mor:	adv|badly verb|damage-Part-Past-S noun|sink .
+%gra:	1|2|ADVMOD 2|3|AMOD 3|0|ROOT 4|3|PUNCT
+*INV:	yep . 3054_3285
+%mor:	intj|yep .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	mother's drying dishes . 4275_5335
+%mor:	noun|mother-Plur noun|drying-Ger noun|dish-Plur .
+%gra:	1|3|COMPOUND 2|3|COMPOUND 3|0|ROOT 4|3|PUNCT
+*PAR:	&-uh is it action if she's standing in a puddle of water ? [+ exc] 5637_7849
+%mor:	aux|be-Fin-Ind-Pres-S3 pron|it-Prs-Nom-S3 noun|action sconj|if noun|she-Plur verb|stand-Part-Pres-S adp|in det|a-Ind-Art noun|puddle adp|of noun|water ?
+%gra:	1|3|COP 2|3|NSUBJ 3|0|ROOT 4|6|MARK 5|6|NSUBJ 6|3|ADVCL 7|9|CASE 8|9|DET 9|6|OBL 10|11|CASE 11|9|NMOD 12|3|PUNCT
+*PAR:	no , water <(i)s running over> [//] &+f is overflowing the sink . 8601_11076
+%mor:	intj|no cm|cm noun|water aux|be-Fin-Ind-Pres-S3 verb|overflow-Part-Pres-S det|the-Def-Art noun|sink-Acc .
+%gra:	1|5|DISCOURSE 2|1|PUNCT 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|7|DET 7|5|OBJ 8|5|PUNCT
+*PAR:	the window is open . 12407_13279
+%mor:	det|the-Def-Art noun|window aux|be-Fin-Ind-Pres-S3 adj|open-S1 .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|COP 4|0|ROOT 5|4|PUNCT
+*PAR:	it's blowing the curtain . 13308_14390
+%mor:	pron|its-Prs-Gen-S3 verb|blow-Ger-S det|the-Def-Art noun|curtain-Acc .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*PAR:	&-uh Billy's about to fall off the stool while handing cookies to his sister . 15451_20411
+%mor:	propn|Billys adv|about part|to verb|fall-Inf-S adp|off det|the-Def-Art noun|stool sconj|while verb|hand-Part-Pres-S noun|cookie-Plur-Acc adp|to pron|his-Prs-Gen-S3 noun|sister .
+%gra:	1|4|NSUBJ 2|4|ADVMOD 3|4|MARK 4|0|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|9|MARK 9|4|ADVCL 10|9|OBJ 11|13|CASE 12|13|NMOD-POSS 13|9|OBL 14|4|PUNCT
+*PAR:	that's another thing . [+ exc] 20476_21279
+%mor:	aux|that-Fin-Ind-Pres-S3 det|another-Def-Ind noun|thing-Ger .
+%gra:	1|3|COP 2|3|DET 3|0|ROOT 4|3|PUNCT
+*PAR:	and &-uh (.) water's running on the floor as well as out of the sink &=laughs . 23019_28097
+%mor:	cconj|and noun|water-Plur verb|run-Ger-S adp|on det|the-Def-Art noun|floor adv|as adv|well adp|as adp|out adp|of det|the-Def-Art noun|sink .
+%gra:	1|2|CC 2|0|ROOT 3|2|ACL 4|6|CASE 5|6|DET 6|3|OBL 7|13|CC 8|7|FIXED 9|7|FIXED 10|13|CASE 11|13|CASE 12|13|DET 13|6|CONJ 14|2|PUNCT
+*INV:	okay ?
+%mor:	intj|okay ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	water's running out of the faucet . 29823_30863
+%mor:	noun|water-Plur verb|run-Ger-S adp|out adp|of det|the-Def-Art noun|faucet .
+%gra:	1|0|ROOT 2|1|ACL 3|6|CASE 4|6|CASE 5|6|DET 6|2|OBL 7|1|PUNCT
+*PAR:	does that count too ? [+ exc] 31000_31750
+%mor:	aux|do-Fin-Ind-Pres-S3 det|that-Def-Dem-Sing noun|count adv|too ?
+%gra:	1|0|ROOT 2|3|DET 3|1|NSUBJ 4|1|ADVMOD 5|1|PUNCT
+*INV:	+< mhm . 31744_31924
+%mor:	intj|mhm .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	okay . [+ exc] 32332_32607
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	I don't see anything else happening . [+ exc] 34099_35003
+%mor:	pron|I-Prs-Nom-S1 adv|dont verb|see-Fin-Ind-Pres-S1 pron|anything-Ind-S1 adj|else-S1 verb|happen-Ger-S .
+%gra:	1|3|NSUBJ 2|3|ADVMOD 3|0|ROOT 4|3|OBJ 5|4|AMOD 6|4|ACL 7|3|PUNCT
+@End

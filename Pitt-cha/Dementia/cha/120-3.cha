@@ -1,0 +1,55 @@
+@UTF8
+@PID:	11312/a-00090400-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|80;|male|MCI||Participant|27||
+@Media:	120-3, audio
+@G:	Cookie
+*INV:	take a look at this picture and tell me everything that's happening here . 530_4410
+%mor:	verb|take-Fin-Imp-S det|a-Ind-Art noun|look-Acc adp|at det|this-Def-Dem-Sing noun|picture cconj|and verb|tell-Fin-Imp-S pron|I-Prs-Acc-S1 pron|everything-Tot-S1 aux|that-Fin-Ind-Pres-S3 verb|happen-Ger-S adv|here .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|6|CASE 5|6|DET 6|1|OBL 7|8|CC 8|1|CONJ 9|8|IOBJ 10|12|NSUBJ 11|12|AUX 12|8|CCOMP 13|12|ADVMOD 14|1|PUNCT
+*INV:	tell me everything that's going on in that picture . 4593_6751
+%mor:	verb|tell-Fin-Imp-S pron|I-Prs-Acc-S1 pron|everything-Tot-S1 pron|that-Rel-S1 verb|go-Ger-S adp|on adp|in det|that-Def-Dem-Sing noun|picture .
+%gra:	1|0|ROOT 2|1|IOBJ 3|1|OBJ 4|5|NSUBJ 5|3|ACL-RELCL 6|5|COMPOUND-PRT 7|9|CASE 8|9|DET 9|5|OBL 10|1|PUNCT
+*PAR:	okay . [+ exc] 7215_7715
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	the little boy is snitching a cookie while the mother's not looking . 8396_13060
+%mor:	det|the-Def-Art adj|little-S1 noun|boy aux|be-Fin-Ind-Pres-S3 verb|snitch-Part-Pres-S det|a-Ind-Art noun|cookie-Acc sconj|while det|the-Def-Art noun|mother-Plur part|not verb|look-Part-Pres-S .
+%gra:	1|3|DET 2|3|AMOD 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|7|DET 7|5|OBJ 8|12|MARK 9|10|DET 10|12|NSUBJ 11|12|ADVMOD 12|5|ADVCL 13|5|PUNCT
+*PAR:	he's snitching one for his sister also . 13613_16273
+%mor:	noun|he-Plur verb|snitch-Ger-S num|one adp|for pron|his-Prs-Gen-S3 noun|sister adv|also .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|OBJ 4|6|CASE 5|6|NMOD-POSS 6|3|NMOD 7|2|ADVMOD 8|2|PUNCT
+*PAR:	the little girl is saying “quiet shh” with her finger to her lips . 16998_23250
+%mor:	det|the-Def-Art adj|little-S1 noun|girl aux|be-Fin-Ind-Pres-S3 verb|say-Part-Pres-S adj|quiet-S1 intj|shh adp|with pron|her-Prs-Gen-S3 noun|finger adp|to pron|her-Prs-Gen-S3 noun|lip-Plur .
+%gra:	1|3|DET 2|3|AMOD 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|5|XCOMP 7|5|DISCOURSE 8|10|CASE 9|10|NMOD-POSS 10|5|OBL 11|13|CASE 12|13|NMOD-POSS 13|10|NMOD 14|5|PUNCT
+*PAR:	the stool is going to come topple over and their secret will be discovered . 23950_28117
+%mor:	det|the-Def-Art noun|stool aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S part|to verb|come-Inf-S verb|topple-Inf-S adp|over cconj|and pron|their-Prs-Gen-P3 noun|secret aux|will-Fin-S aux|be-Inf-S verb|discover-Part-Past-S .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|6|MARK 6|4|XCOMP 7|6|XCOMP 8|7|COMPOUND-PRT 9|14|CC 10|11|NMOD-POSS 11|14|NSUBJ-PASS 12|14|AUX 13|14|AUX-PASS 14|4|CONJ 15|4|PUNCT
+*PAR:	&-uh the woman is washing the dishes . 29308_32431
+%mor:	det|the-Def-Art noun|woman aux|be-Fin-Ind-Pres-S3 verb|wash-Part-Pres-S det|the-Def-Art noun|dish-Plur-Acc .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+*PAR:	and I think she's wiping (th)em . 33814_37920
+%mor:	cconj|and pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Pres-S1 noun|she verb|wipe-Ger-S pron|they-Prs-Acc-P3 .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|5|NSUBJ 5|3|CCOMP 6|5|OBJ 7|3|PUNCT
+*PAR:	and the faucet is running and the sink is running over and spilling onto the floor and she's walking in a puddle . 38529_44599
+%mor:	cconj|and det|the-Def-Art noun|faucet aux|be-Fin-Ind-Pres-S3 verb|run-Part-Pres-S cconj|and det|the-Def-Art noun|sink aux|be-Fin-Ind-Pres-S3 verb|run-Part-Pres-S adp|over cconj|and verb|spill-Part-Pres-S adp|onto det|the-Def-Art noun|floor cconj|and verb|she-Fin-Ind-Pres-S3 verb|walk-Part-Pres-S adp|in det|a-Ind-Art noun|puddle .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|10|CC 7|8|DET 8|10|NSUBJ 9|10|AUX 10|5|CONJ 11|10|COMPOUND-PRT 12|13|CC 13|10|CONJ 14|16|CASE 15|16|DET 16|13|OBL 17|18|CC 18|10|CONJ 19|18|XCOMP 20|22|CASE 21|22|DET 22|19|OBL 23|5|PUNCT
+*PAR:	and let's see things that are happening . [+ exc] 46003_47885
+%mor:	cconj|and pron|let-Prs-S1 verb|see-Fin-S noun|thing-Plur-Acc pron|that-Rel aux|be-Fin-Ind-Pres-P3 verb|happen-Part-Pres-S .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|3|OBJ 5|7|NSUBJ 6|7|AUX 7|4|ACL-RELCL 8|3|PUNCT
+*PAR:	I guess that's about all that's +... [+ exc] 47947_49330
+%mor:	pron|I-Prs-Nom-S1 verb|guess-Fin-Ind-Pres-S1 pron|that-Dem-S1 adp|about det|all-Def-Tot pron|that-Prs-S1 +...
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|OBJ 4|6|CASE 5|2|OBL 6|2|OBL 7|2|PUNCT
+*PAR:	well she's not [//] &+n has not yet noticed the children . 50391_53616
+%mor:	intj|well noun|she aux|have-Fin-Ind-Pres-S3 part|not adv|yet verb|notice-Part-Past-S det|the-Def-Art noun|child-Plur-Acc .
+%gra:	1|6|DISCOURSE 2|6|NSUBJ 3|6|AUX 4|6|ADVMOD 5|6|ADVMOD 6|0|ROOT 7|8|DET 8|6|OBJ 9|6|PUNCT
+*PAR:	and that's really all that's happening I guess . [+ exc] 56742_59854
+%mor:	cconj|and aux|that-Fin-Ind-Pres-S3 adv|really det|all-Def-Tot noun|that verb|happen-Part-Pres-S pron|I-Prs-Nom-S1 verb|guess-Fin-Ind-Pres-S1 .
+%gra:	1|5|CC 2|5|COP 3|5|ADVMOD 4|5|DET 5|0|ROOT 6|5|ACL 7|8|NSUBJ 8|5|ACL-RELCL 9|5|PUNCT
+*INV:	okay . 60189_60550
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+@End

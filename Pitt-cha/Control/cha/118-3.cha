@@ -1,0 +1,50 @@
+@UTF8
+@PID:	11312/a-00090726-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|69;00.|female|Control||Participant|||
+@Media:	118-3, audio
+@Comment:	age is educated estimate , extrapolated from incomplete demographic data
+@G:	Cookie
+*INV:	okay I'm gonna leave the tape recorder on . 450_2140
+%mor:	intj|okay pron|im-Prs-Nom-S2 adv|gonna verb|leave-Inf-S det|the-Def-Art noun|tape noun|recorder-Acc adp|on .
+%gra:	1|4|DISCOURSE 2|4|NSUBJ 3|4|ADVMOD 4|0|ROOT 5|7|DET 6|7|COMPOUND 7|4|OBJ 8|4|ADVMOD 9|4|PUNCT
+*INV:	and I'm gonna show you a picture . 2573_3904
+%mor:	cconj|and propn|Im adv|gonna verb|show-Inf-S pron|you-Prs-Acc-S2 det|a-Ind-Art noun|picture-Acc .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|ADVMOD 4|0|ROOT 5|4|IOBJ 6|7|DET 7|4|OBJ 8|4|PUNCT
+*INV:	has a lot of action going on in it . 4293_6083
+%mor:	verb|have-Fin-Ind-Pres-S3 det|a-Ind-Art noun|lot-Acc adp|of noun|action verb|go-Ger-S adp|on adp|in pron|it-Prs-Acc-S3 .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|5|CASE 5|3|NMOD 6|5|ACL 7|6|COMPOUND-PRT 8|9|CASE 9|6|OBL 10|1|PUNCT
+*INV:	<everything that you> [//] tell me everything that you see going on in the picture . 6202_9822
+%mor:	verb|tell-Fin-Imp-S pron|I-Prs-Acc-S1 pron|everything-Tot-S1 pron|that-Rel pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|go-Ger-S adp|on adp|in det|the-Def-Art noun|picture .
+%gra:	1|0|ROOT 2|1|IOBJ 3|1|OBJ 4|7|OBJ 5|6|NSUBJ 6|3|ACL-RELCL 7|6|XCOMP 8|7|COMPOUND-PRT 9|11|CASE 10|11|DET 11|7|OBL 12|1|PUNCT
+*INV:	(.) and there's the picture . 12330_13270
+%mor:	cconj|and verb|there-Fin-Ind-Pres-S3 det|the-Def-Art noun|picture-Acc .
+%gra:	1|2|CC 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*PAR:	&-uh &+ha there's a little boy's takin(g) a cookie out o(f) the &+c cookie jar and givin(g) it to his sister . 16834_24056
+%mor:	verb|there-Fin-Ind-Pres-S3 det|a-Ind-Art adj|little-S1 noun|boy-Plur-Acc verb|take-Ger-S det|a-Ind-Art noun|cookie-Acc adp|out adp|of det|the-Def-Art noun|cookie noun|jar cconj|and verb|give-Part-Pres-S pron|it-Prs-Acc-S3 adp|to pron|his-Prs-Gen-S3 noun|sister .
+%gra:	1|0|ROOT 2|4|DET 3|4|AMOD 4|1|OBJ 5|4|ACL 6|7|DET 7|5|OBJ 8|12|CASE 9|12|CASE 10|12|DET 11|12|COMPOUND 12|5|OBL 13|14|CC 14|5|CONJ 15|14|OBJ 16|18|CASE 17|18|NMOD-POSS 18|14|OBL 19|1|PUNCT
+*PAR:	and the [/] the stool that he's standin(g) on is gonna fall . 24144_27918
+%mor:	cconj|and det|the-Def-Art noun|stool pron|that-Rel verb|he-Fin-Ind-Pres-S3 noun|standing-Acc-Ger adp|on aux|be-Fin-Ind-Pres-S3 part|go verb|fall-Inf-S .
+%gra:	1|10|CC 2|3|DET 3|10|NSUBJ 4|5|NSUBJ 5|3|ACL-RELCL 6|5|OBJ 7|5|OBL 8|10|COP 9|10|ADVMOD 10|0|ROOT 11|10|PUNCT
+*PAR:	and the [/] the mother's back is turned . 28850_31580
+%mor:	cconj|and det|the-Def-Art noun|mother noun|back aux|be-Fin-Ind-Pres-S3 verb|turn-Part-Past-S .
+%gra:	1|6|CC 2|4|DET 3|4|COMPOUND 4|6|NSUBJ-PASS 5|6|AUX-PASS 6|0|ROOT 7|6|PUNCT
+*PAR:	and she's the water is overflowin(g) in the sink . 31854_35819
+%mor:	cconj|and noun|she det|the-Def-Art noun|water aux|be-Fin-Ind-Pres-S3 verb|overflow-Part-Pres-S adp|in det|the-Def-Art noun|sink .
+%gra:	1|6|CC 2|6|NSUBJ 3|4|DET 4|6|NSUBJ 5|6|AUX 6|0|ROOT 7|9|CASE 8|9|DET 9|6|OBL 10|6|PUNCT
+*PAR:	and &-uh she's wipin(g) the dish . 36801_39045
+%mor:	cconj|and noun|she verb|wipe-Part-Pres-S det|the-Def-Art noun|dish-Acc .
+%gra:	1|2|CC 2|0|ROOT 3|2|ACL 4|5|DET 5|3|OBJ 6|2|PUNCT
+*PAR:	and &-uh (.) the [/] &+wi the window's open . 40825_47005
+%mor:	cconj|and det|the-Def-Art noun|window~part|s adj|open-S1 .
+%gra:	1|5|CC 2|3|DET 3|5|NMOD-POSS 4|3|CASE 5|0|ROOT 6|5|PUNCT
+*PAR:	and she's probably lookin(g) out the window and missin(g) the water &+f overflowin(g) . 47919_52427
+%mor:	cconj|and verb|she-Fin-Ind-Pres-S3 adv|probably verb|look-Part-Pres-S adp|out det|the-Def-Art noun|window cconj|and verb|miss-Part-Pres-S det|the-Def-Art noun|water verb|overflow-Ger-S .
+%gra:	1|2|CC 2|0|ROOT 3|4|ADVMOD 4|2|XCOMP 5|7|CASE 6|7|DET 7|4|OBL 8|9|CC 9|4|CONJ 10|12|DET 11|12|COMPOUND 12|9|OBJ 13|2|PUNCT
+*INV:	okay .
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+@End

@@ -1,0 +1,40 @@
+@UTF8
+@PID:	11312/a-00090834-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|55;|male|Control||Participant|26||
+@Media:	274-1, audio
+@G:	Cookie
+*INV:	you see going on in this picture ? 490_2210
+%mor:	pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|go-Ger-S adp|on adp|in det|this-Def-Dem-Sing noun|picture ?
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|XCOMP 4|3|COMPOUND-PRT 5|7|CASE 6|7|DET 7|3|OBL 8|2|PUNCT
+*PAR:	(.) well the mother's &-uh doing the dishes and allowing the sink <to run> [/] &+o run over . 8116_13842
+%mor:	intj|well det|the-Def-Art noun|mother-Plur verb|do-Ger-S det|the-Def-Art noun|dish-Plur-Acc cconj|and verb|allow-Part-Pres-S det|the-Def-Art noun|sink noun|run-Acc adp|over .
+%gra:	1|3|DISCOURSE 2|3|DET 3|0|ROOT 4|3|ACL 5|6|DET 6|4|OBJ 7|8|CC 8|4|CONJ 9|11|DET 10|11|COMPOUND 11|8|OBJ 12|8|COMPOUND-PRT 13|3|PUNCT
+*PAR:	<the kids or> [//] the boy's in the cookie jar . 15348_18031
+%mor:	det|the-Def-Art noun|boy-Plur adp|in det|the-Def-Art noun|cookie noun|jar .
+%gra:	1|2|DET 2|0|ROOT 3|6|CASE 4|6|DET 5|6|COMPOUND 6|2|NMOD 7|2|PUNCT
+*PAR:	and the stand [: stool] [* s:r] that he's standing on is tilting over . [+ cir] 19374_21979
+%mor:	cconj|and det|the-Def-Art noun|stool pron|that-Rel noun|he-Plur noun|standing-Ger adp|on aux|be-Fin-Ind-Pres-S3 verb|tilt-Part-Pres-S adp|over .
+%gra:	1|9|CC 2|3|DET 3|9|NSUBJ 4|6|OBL 5|6|NSUBJ 6|3|ACL-RELCL 7|4|CASE 8|9|AUX 9|0|ROOT 10|9|COMPOUND-PRT 11|9|PUNCT
+*PAR:	and &-uh I don't know what the girl is doing . [+ exc] 24382_28429
+%mor:	cconj|and pron|I-Prs-Nom-S1 adv|dont verb|know-Fin-Ind-Pres-S1 pron|what-Int-S1 det|the-Def-Art noun|girl aux|be-Fin-Ind-Pres-S3 verb|do-Part-Pres-S .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|ADVMOD 4|0|ROOT 5|4|OBJ 6|7|DET 7|9|NSUBJ 8|9|AUX 9|5|ACL-RELCL 10|4|PUNCT
+*PAR:	gonna tell on him or do something . [+ gram] 29001_30381
+%mor:	adv|gonna verb|tell-Inf-Imp-S adp|on pron|he-Prs-Acc-S3 cconj|or verb|do-Fin-Imp-S pron|something-Ind-S1 .
+%gra:	1|2|ADVMOD 2|0|ROOT 3|4|CASE 4|2|OBL 5|6|CC 6|2|CONJ 7|6|OBJ 8|2|PUNCT
+*PAR:	and then there's some people out here behind the garage . 33589_35658
+%mor:	cconj|and adv|then verb|there-Fin-Ind-Pres-S3 det|some-Def-Ind noun|person-Plur-Acc adv|out adv|here adp|behind det|the-Def-Art noun|garage .
+%gra:	1|3|CC 2|3|ADVMOD 3|0|ROOT 4|5|DET 5|3|OBJ 6|7|ADVMOD 7|3|ADVMOD 8|10|CASE 9|10|DET 10|7|OBL 11|3|PUNCT
+*PAR:	I don't know what they are doing . [+ exc] 36634_37281
+%mor:	pron|I-Prs-Nom-S1 adv|dont verb|know-Fin-Ind-Pres-S1 pron|what-Rel-S1 pron|they-Prs-Nom-P3 aux|be-Fin-Ind-Pres-P3 verb|do-Part-Pres-S .
+%gra:	1|3|NSUBJ 2|3|ADVMOD 3|0|ROOT 4|3|OBJ 5|7|NSUBJ 6|7|AUX 7|4|ACL-RELCL 8|3|PUNCT
+*PAR:	do you see them ? [+ exc] 37416_37957
+%mor:	aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|see-Inf-S pron|they-Prs-Acc-P3 ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*INV:	mhm .
+%mor:	intj|mhm .
+%gra:	1|0|ROOT 2|1|PUNCT
+@End

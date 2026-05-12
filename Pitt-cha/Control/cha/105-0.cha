@@ -1,0 +1,52 @@
+@UTF8
+@PID:	11312/a-00090706-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|56;|female|Control||Participant|30||
+@Media:	105-0, audio
+@G:	Cookie
+*INV:	here's the picture .
+%mor:	verb|here-Fin-Ind-Pres-S3 det|the-Def-Art noun|picture-Acc .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*PAR:	alrightie . [+ exc] 2779_2980
+%mor:	propn|alrightie .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	&-uh the action I see is &-um &-uh the &-uh little girl &-uh with her finger up to her mouth and the one arm extended up &-uh looking up at the boy who's reaching up to the cookie jar . 3311_16108
+%mor:	det|the-Def-Art noun|action pron|I-Prs-Nom-S1 verb|see-Fin-Ind-Pres-S1 aux|be-Fin-Ind-Pres-S3 det|the-Def-Art adj|little-S1 noun|girl adp|with pron|her-Prs-Gen-S3 noun|finger adp|up adp|to pron|her-Prs-Gen-S3 noun|mouth cconj|and det|the-Def-Art num|one noun|arm verb|extend-Fin-Ind-Past-S3 adp|up verb|look-Ger-S adp|up adp|at det|the-Def-Art noun|boy noun|whose verb|reach-Ger-S adp|up adp|to det|the-Def-Art noun|cookie noun|jar .
+%gra:	1|2|DET 2|8|NSUBJ 3|4|NSUBJ 4|2|ACL-RELCL 5|8|COP 6|8|DET 7|8|AMOD 8|0|ROOT 9|11|CASE 10|11|NMOD-POSS 11|8|NMOD 12|8|ADVMOD 13|15|CASE 14|15|NMOD-POSS 15|8|NMOD 16|20|CC 17|19|DET 18|19|NUMMOD 19|20|NSUBJ 20|8|CONJ 21|20|COMPOUND-PRT 22|20|XCOMP 23|22|COMPOUND-PRT 24|27|CASE 25|27|DET 26|27|COMPOUND 27|22|OBL 28|22|ADVCL 29|28|COMPOUND-PRT 30|33|CASE 31|33|DET 32|33|COMPOUND 33|28|OBL 34|8|PUNCT
+*PAR:	with his right hand he's reaching for a cookie . 17360_19410
+%mor:	adp|with pron|his-Prs-Gen-S3 adj|right-S1 noun|hand noun|he-Plur verb|reach-Part-Pres-S adp|for det|a-Ind-Art noun|cookie .
+%gra:	1|5|CASE 2|5|NMOD-POSS 3|4|AMOD 4|5|COMPOUND 5|6|NSUBJ 6|0|ROOT 7|9|CASE 8|9|DET 9|6|OBL 10|6|PUNCT
+*PAR:	with his left hand he already has a cookie . 19898_20922
+%mor:	adp|with pron|his-Prs-Gen-S3 adj|left-S1 noun|hand pron|he-Prs-Nom-S3 adv|already verb|have-Fin-Ind-Pres-S3 det|a-Ind-Art noun|cookie-Acc .
+%gra:	1|4|CASE 2|4|NMOD-POSS 3|4|AMOD 4|7|OBL 5|7|NSUBJ 6|7|ADVMOD 7|0|ROOT 8|9|DET 9|7|OBJ 10|7|PUNCT
+*PAR:	it almost looks like the girl's trying to reach for the cookie in <the lower hand> [//] the left hand . 22143_23344
+%mor:	pron|it-Prs-Nom-S3 adv|almost verb|look-Fin-Ind-Pres-S3 sconj|like det|the-Def-Art noun|girl-Plur verb|try-Ger-S part|to verb|reach-Inf-S adp|for det|the-Def-Art noun|cookie adp|in det|the-Def-Art adj|left-S1 noun|hand .
+%gra:	1|3|NSUBJ 2|3|ADVMOD 3|0|ROOT 4|7|MARK 5|6|DET 6|7|NSUBJ 7|3|ADVCL 8|9|MARK 9|7|XCOMP 10|12|CASE 11|12|DET 12|9|OBL 13|16|CASE 14|16|DET 15|16|AMOD 16|9|OBL 17|3|PUNCT
+*PAR:	and he's standing on a stool that's tipping over . 26827_28027
+%mor:	cconj|and noun|he-Plur verb|stand-Ger-S adp|on det|a-Ind-Art noun|stool noun|that-Plur verb|tip-Ger-S adp|over .
+%gra:	1|3|CC 2|0|ROOT 3|2|ACL 4|7|CASE 5|7|DET 6|7|COMPOUND 7|3|OBL 8|7|ACL 9|8|COMPOUND-PRT 10|2|PUNCT
+*PAR:	and &-uh looks like he's about ready to fall . 31285_33259
+%mor:	cconj|and verb|look-Fin-Ind-Pres-S3 adp|like noun|he-Plur adv|about adj|ready-S1 part|to verb|fall-Inf-S .
+%gra:	1|2|CC 2|0|ROOT 3|4|CASE 4|2|OBL 5|6|ADVMOD 6|2|XCOMP 7|8|MARK 8|6|XCOMP 9|2|PUNCT
+*PAR:	the &-uh woman at the sink &-uh looks like she's washing [//] wiping a dish with a rag in her hand , holding the dish with the other hand as water's flowing into the sink and over the sink . 35447_46863
+%mor:	det|the-Def-Art noun|woman adp|at det|the-Def-Art noun|sink verb|look-Fin-Ind-Pres-S3 sconj|like noun|she-Plur verb|wipe-Part-Pres-S det|a-Ind-Art noun|dish-Acc adp|with det|a-Ind-Art noun|rag adp|in pron|her-Prs-Gen-S3 noun|hand cm|cm verb|hold-Part-Pres-S det|the-Def-Art noun|dish-Acc adp|with det|the-Def-Art adj|other-S1 noun|hand sconj|as noun|water-Plur verb|flow-Ger-S adp|into det|the-Def-Art noun|sink cconj|and adp|over det|the-Def-Art noun|sink .
+%gra:	1|2|DET 2|6|NSUBJ 3|5|CASE 4|5|DET 5|2|NMOD 6|0|ROOT 7|9|MARK 8|9|NSUBJ 9|6|ADVCL 10|11|DET 11|9|OBJ 12|14|CASE 13|14|DET 14|9|OBL 15|17|CASE 16|17|NMOD-POSS 17|9|OBL 18|19|PUNCT 19|9|ADVCL 20|21|DET 21|19|OBJ 22|25|CASE 23|25|DET 24|25|AMOD 25|19|OBL 26|28|MARK 27|28|NSUBJ 28|19|ADVCL 29|31|CASE 30|31|DET 31|28|OBL 32|35|CC 33|35|CASE 34|35|DET 35|31|CONJ 36|6|PUNCT
+*PAR:	it looks like she's not paying attention to the water just flowing out of the sink and all over the floor . 49290_52809
+%mor:	pron|it-Prs-Nom-S3 verb|look-Fin-Ind-Pres-S3 sconj|like noun|she part|not verb|pay-Part-Pres-S noun|attention-Acc adp|to det|the-Def-Art noun|water adv|just verb|flow-Part-Pres-S adp|out adp|of det|the-Def-Art noun|sink cconj|and det|all-Def-Tot adp|over det|the-Def-Art noun|floor .
+%gra:	1|2|EXPL 2|0|ROOT 3|6|MARK 4|6|NSUBJ 5|6|ADVMOD 6|2|ADVCL 7|6|OBJ 8|10|CASE 9|10|DET 10|6|OBL 11|12|ADVMOD 12|6|ADVCL 13|16|CASE 14|16|CASE 15|16|DET 16|12|OBL 17|21|CC 18|21|ADVMOD 19|21|CASE 20|21|DET 21|16|CONJ 22|2|PUNCT
+*PAR:	and she's stepping into the water too .
+%mor:	cconj|and noun|she verb|step-Part-Pres-S adp|into det|the-Def-Art noun|water adv|too .
+%gra:	1|2|CC 2|0|ROOT 3|2|ACL 4|6|CASE 5|6|DET 6|3|OBL 7|3|ADVMOD 8|2|PUNCT
+*PAR:	it's &-uh xxx . [+ exc] 59100_59138
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|PUNCT
+*PAR:	as far as action no action outside the window . 62035_64979
+%mor:	adv|as adv|far adp|as noun|action det|no-Def-Neg noun|action adp|outside det|the-Def-Art noun|window .
+%gra:	1|2|ADVMOD 2|0|ROOT 3|4|CASE 4|2|OBL 5|6|DET 6|2|OBL-UNMARKED 7|9|CASE 8|9|DET 9|6|NMOD 10|2|PUNCT
+*PAR:	&-um that's about it &*INV:okay . [+ exc] 67464_69625
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adp|about pron|it-Prs-Acc-S3 .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|CASE 4|0|ROOT 5|4|PUNCT
+@End

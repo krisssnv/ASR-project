@@ -1,0 +1,43 @@
+@UTF8
+@PID:	11312/a-00090418-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|54;|male|ProbableAD||Participant|24||
+@Media:	164-1, audio
+@G:	Cookie
+*INV:	just tell me all the action you see going on in the picture . 1040_4160
+%mor:	adv|just verb|tell-Fin-Imp-S pron|I-Prs-Acc-S1 det|all-Def-Tot det|the-Def-Art noun|action-Acc pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|go-Ger-S adp|on adp|in det|the-Def-Art noun|picture .
+%gra:	1|2|ADVMOD 2|0|ROOT 3|2|IOBJ 4|6|DET-PREDET 5|6|DET 6|2|OBJ 7|8|NSUBJ 8|6|ACL-RELCL 9|8|XCOMP 10|9|COMPOUND-PRT 11|13|CASE 12|13|DET 13|9|OBL 14|2|PUNCT
+*PAR:	and there's the picture . 4443_5650
+%mor:	cconj|and verb|there-Fin-Ind-Pres-S3 det|the-Def-Art noun|picture-Acc .
+%gra:	1|2|CC 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*PAR:	all the action . [+ exc] [+ gram] 8929_9652
+%mor:	det|all-Def-Tot det|the-Def-Art noun|action .
+%gra:	1|3|DET-PREDET 2|3|DET 3|0|ROOT 4|3|PUNCT
+*INV:	+< mhm . 10515_10635
+%mor:	intj|mhm .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	+< okay the [/] &+m the sink's running over . 11592_13214
+%mor:	intj|okay det|the-Def-Art noun|sink-Plur noun|running-Ger adp|over .
+%gra:	1|4|DISCOURSE 2|3|DET 3|4|NSUBJ 4|0|ROOT 5|4|COMPOUND-PRT 6|4|PUNCT
+*PAR:	&+w water's on the floor . 16423_17523
+%mor:	noun|water-Plur adp|on det|the-Def-Art noun|floor .
+%gra:	1|0|ROOT 2|4|CASE 3|4|DET 4|1|NMOD 5|1|PUNCT
+*PAR:	the [/] the boy's standin(g) on a (.) stool . 19025_24371
+%mor:	det|the-Def-Art noun|boy-Plur verb|stand-Ger-S adp|on det|a-Ind-Art noun|stool .
+%gra:	1|2|DET 2|0|ROOT 3|2|ACL 4|6|CASE 5|6|DET 6|3|OBL 7|2|PUNCT
+*PAR:	it's gonna tipple [: topple] [* p:w] over . 26205_27335
+%mor:	pron|its-Prs-Gen-S3 adv|gonna verb|topple-Inf-S adp|over .
+%gra:	1|3|NMOD-POSS 2|3|ADVMOD 3|0|ROOT 4|3|COMPOUND-PRT 5|3|PUNCT
+*PAR:	(.) the lid's off the &+cock cookie jar . 34561_36411
+%mor:	det|the-Def-Art noun|lid-Plur adp|off det|the-Def-Art noun|cookie noun|jar .
+%gra:	1|2|DET 2|0|ROOT 3|6|CASE 4|6|DET 5|6|COMPOUND 6|2|NMOD 7|2|PUNCT
+*PAR:	that's it . [+ exc] 43721_44085
+%mor:	aux|that-Fin-Ind-Pres-S3 pron|it-Prs-Nom-S3 .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+*INV:	okay ? 44746_44903
+%mor:	intj|okay ?
+%gra:	1|0|ROOT 2|1|PUNCT
+@End

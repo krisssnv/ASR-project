@@ -1,0 +1,36 @@
+@UTF8
+@PID:	11312/a-00090847-0
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|Pitt|PAR|64;|male|Control||Participant|30||
+@Media:	297-1, audio
+@G:	Cookie
+*PAR:	well , there's a kid stealin(g) cookies from the cookie jar and his stool's about to topple over . 3450_9550
+%mor:	intj|well cm|cm verb|there-Fin-Ind-Pres-S3 det|a-Ind-Art noun|kid-Acc verb|steal-Ger-S noun|cookie-Plur-Acc adp|from det|the-Def-Art noun|cookie noun|jar cconj|and pron|his-Prs-Gen-S3 noun|stool-Plur adv|about part|to verb|topple-Inf-S adp|over .
+%gra:	1|3|DISCOURSE 2|1|PUNCT 3|0|ROOT 4|5|DET 5|3|OBJ 6|5|ACL 7|6|OBJ 8|11|CASE 9|11|DET 10|11|COMPOUND 11|6|OBL 12|14|CC 13|14|NMOD-POSS 14|11|CONJ 15|17|ADVMOD 16|17|MARK 17|14|ACL 18|17|COMPOUND-PRT 19|3|PUNCT
+*PAR:	his [/] his sister's asking for one . 9596_14602
+%mor:	pron|his-Prs-Gen-S3 noun|sister-Plur verb|ask-Ger-S adp|for num|one .
+%gra:	1|2|NMOD-POSS 2|0|ROOT 3|2|ACL 4|5|CASE 5|3|OBL 6|2|PUNCT
+*PAR:	the cookie jar is open of course the cupboard's open . 16650_19090
+%mor:	det|the-Def-Art noun|cookie noun|jar aux|be-Fin-Ind-Pres-S3 adj|open-S1 adp|of noun|course det|the-Def-Art noun|cupboard-Plur adj|open-S1 .
+%gra:	1|3|DET 2|3|COMPOUND 3|5|NSUBJ 4|5|COP 5|0|ROOT 6|10|ADVMOD 7|6|FIXED 8|9|DET 9|10|COMPOUND 10|5|ADVCL 11|5|PUNCT
+*PAR:	the mother's drying dishes the sink is overflowin(g) . 21273_23796
+%mor:	det|the-Def-Art noun|mother noun|drying-Ger noun|dish-Plur det|the-Def-Art noun|sink aux|be-Fin-Ind-Pres-S3 verb|overflow-Part-Pres-S .
+%gra:	1|4|DET 2|4|COMPOUND 3|4|COMPOUND 4|8|NSUBJ 5|6|DET 6|8|NSUBJ 7|8|COP 8|0|ROOT 9|8|PUNCT
+*PAR:	there are some dishes on the side board . 25754_28634
+%mor:	pron|there-Int-S1 verb|be-Fin-Ind-Pres-P3 det|some-Def-Ind noun|dish-Plur adp|on det|the-Def-Art noun|side noun|board .
+%gra:	1|2|EXPL 2|0|ROOT 3|4|DET 4|2|NSUBJ 5|8|CASE 6|8|DET 7|8|COMPOUND 8|4|NMOD 9|2|PUNCT
+*PAR:	window's open . [+ gram] 29642_30682
+%mor:	noun|window-Plur adj|open-S1 .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|PUNCT
+*PAR:	I don't know what else you want . [+ exc] 36600_37920
+%mor:	pron|I-Prs-Nom-S1 adv|dont verb|know-Fin-Ind-Pres-S1 pron|what-Int-S1 adj|else-S1 pron|you-Prs-Nom-S2 verb|want-Fin-Ind-Pres-S2 .
+%gra:	1|3|NSUBJ 2|3|ADVMOD 3|0|ROOT 4|3|OBJ 5|4|AMOD 6|7|NSUBJ 7|4|ACL-RELCL 8|3|PUNCT
+*PAR:	there are curtains in the window . 38363_39633
+%mor:	pron|there-Int-S1 verb|be-Fin-Ind-Pres-P3 noun|curtain-Plur adp|in det|the-Def-Art noun|window .
+%gra:	1|2|EXPL 2|0|ROOT 3|2|NSUBJ 4|6|CASE 5|6|DET 6|2|OBL 7|2|PUNCT
+*PAR:	I don't know if there's any +/. [+ exc] 39744_40446
+%mor:	pron|I-Prs-Nom-S1 adv|dont verb|know-Fin-Ind-Pres-S1 sconj|if verb|there-Fin-Ind-Pres-S3 det|any-Def-Ind +/.
+%gra:	1|3|NSUBJ 2|3|ADVMOD 3|0|ROOT 4|5|MARK 5|3|CCOMP 6|5|OBJ 7|3|PUNCT
+@End

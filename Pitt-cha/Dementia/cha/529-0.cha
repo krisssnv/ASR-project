@@ -1,0 +1,46 @@
+@UTF8
+@PID:	11312/a-00090574-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|50;|female|MCI||Participant|27||
+@Media:	529-0, audio
+@G:	Cookie
+*INV:	I'd like for you to take a look at this picture . 100_1780
+%mor:	verb|if-Fin-Ind-Pres-S1 intj|like sconj|for pron|you-Prs-Acc-S2 part|to verb|take-Inf-S det|a-Ind-Art noun|look-Acc adp|at det|this-Def-Dem-Sing noun|picture .
+%gra:	1|0|ROOT 2|1|DISCOURSE 3|6|MARK 4|6|NSUBJ 5|6|MARK 6|1|ADVCL 7|8|DET 8|6|OBJ 9|11|CASE 10|11|DET 11|8|NMOD 12|1|PUNCT
+*INV:	and I want you to tell me everything that's happening in this picture . 2403_5549
+%mor:	cconj|and pron|I-Prs-Nom-S1 verb|want-Fin-Ind-Pres-S1 pron|you-Prs-Acc-S2 part|to verb|tell-Inf-S pron|I-Prs-Acc-S1 pron|everything-Tot-S1 sconj|thats verb|happen-Ger-S adp|in det|this-Def-Dem-Sing noun|picture .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|3|OBJ 5|6|MARK 6|3|XCOMP 7|6|IOBJ 8|6|OBJ 9|10|MARK 10|6|ADVCL 11|13|CASE 12|13|DET 13|10|OBL 14|3|PUNCT
+*INV:	everything that you see going on there . 6169_8041
+%mor:	pron|everything-Tot-S1 pron|that-Rel pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|go-Ger-S adp|on adv|there .
+%gra:	1|0|ROOT 2|5|OBL 3|4|NSUBJ 4|1|ACL-RELCL 5|4|XCOMP 6|2|CASE 7|5|ADVMOD 8|1|PUNCT
+*PAR:	the water's spilling over the sink . 10236_12099
+%mor:	det|the-Def-Art noun|water-Plur verb|spill-Ger-S adp|over det|the-Def-Art noun|sink .
+%gra:	1|2|DET 2|3|NSUBJ 3|0|ROOT 4|6|CASE 5|6|DET 6|3|OBL 7|3|PUNCT
+*PAR:	and stool's tipping when the boy's tryin(g) to get a cookie . [+ gram] 13061_18811
+%mor:	cconj|and verb|stool-Fin-Ind-Pres-S3 noun|tipping-Acc-Ger adv|when det|the-Def-Art noun|boy-Plur verb|try-Ger-S part|to verb|get-Inf-S det|a-Ind-Art noun|cookie-Acc .
+%gra:	1|2|CC 2|0|ROOT 3|2|OBJ 4|7|ADVMOD 5|6|DET 6|7|NSUBJ 7|2|ADVCL 8|9|MARK 9|7|XCOMP 10|11|DET 11|9|OBJ 12|2|PUNCT
+*PAR:	(.) mother's drying the dishes . 24481_25849
+%mor:	noun|mother-Plur verb|drying-Ger-S det|the-Def-Art noun|dish-Plur-Acc .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*PAR:	&-uh the girl's askin(g) for another cookie . 26100_30970
+%mor:	det|the-Def-Art noun|girl-Plur verb|ask-Ger-S adp|for det|another-Def-Ind noun|cookie .
+%gra:	1|2|DET 2|0|ROOT 3|2|ACL 4|6|CASE 5|6|DET 6|3|OBL 7|2|PUNCT
+*PAR:	you can see outside into the garden . 32927_34810
+%mor:	pron|you-Prs-Nom-S2 aux|can-Fin-S verb|see-Inf-S adv|outside adp|into det|the-Def-Art noun|garden .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|3|ADVMOD 5|7|CASE 6|7|DET 7|3|OBL 8|3|PUNCT
+*PAR:	do you want more ? [+ exc] 39834_40415
+%mor:	aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|want-Inf-S adj|more-Cmp-S1 ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*INV:	no that's [//] if you're done then +/. 42098_43348
+%mor:	intj|no sconj|if pron|your-Prs-Acc-S2 verb|do-Part-Past-S-irr adv|then +/.
+%gra:	1|4|DISCOURSE 2|4|MARK 3|4|NSUBJ 4|0|ROOT 5|4|ADVMOD 6|4|PUNCT
+*PAR:	mhm . [+ exc]
+%mor:	intj|mhm .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	okay good . 44335_44860
+%mor:	intj|okay adj|good-S1 .
+%gra:	1|2|DISCOURSE 2|0|ROOT 3|2|PUNCT
+@End

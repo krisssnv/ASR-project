@@ -1,0 +1,49 @@
+@UTF8
+@PID:	11312/a-00090558-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|65;|female|ProbableAD||Participant|17||
+@Media:	488-1, audio
+@G:	Cookie
+*INV:	happening . 260_680
+%mor:	verb|happen-Part-Pres-S .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	everything that you see happening in that picture . 800_3151
+%mor:	pron|everything-Tot-S1 pron|that-Rel pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|happen-Ger-S adp|in det|that-Def-Dem-Sing noun|picture .
+%gra:	1|0|ROOT 2|5|OBJ 3|4|NSUBJ 4|1|ACL-RELCL 5|4|XCOMP 6|8|CASE 7|8|DET 8|5|OBL 9|1|PUNCT
+*INV:	what's going on in that picture ? 3603_5288
+%mor:	pron|what-Int-S1 verb|go-Part-Pres-S adp|on adp|in det|that-Def-Dem-Sing noun|picture ?
+%gra:	1|0|ROOT 2|1|ACL 3|2|COMPOUND-PRT 4|6|CASE 5|6|DET 6|2|OBL 7|1|PUNCT
+*PAR:	the [/] the water's flowing on the floor . 6226_8234
+%mor:	det|the-Def-Art noun|water-Plur verb|flow-Ger-S adp|on det|the-Def-Art noun|floor .
+%gra:	1|2|DET 2|0|ROOT 3|2|ACL 4|6|CASE 5|6|DET 6|3|OBL 7|2|PUNCT
+*INV:	uhhuh . 8659_8929
+%mor:	intj|uhhuh .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	what else ? 9129_9750
+%mor:	pron|what-Int-S1 adv|else ?
+%gra:	1|0|ROOT 2|1|ADVMOD 3|1|PUNCT
+*PAR:	and she's drying dishes . 11751_12956
+%mor:	cconj|and pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|drying-Part-Pres-S noun|dish-Plur .
+%gra:	1|5|CC 2|5|NSUBJ 3|5|COP 4|5|AMOD 5|0|ROOT 6|5|PUNCT
+*INV:	mhm . 13384_13533
+%mor:	intj|mhm .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	and he's up in the cookie jar . 14819_16409
+%mor:	cconj|and verb|he-Fin-Ind-Pres-S3 adp|up adp|in det|the-Def-Art noun|cookie noun|jar .
+%gra:	1|2|CC 2|0|ROOT 3|2|COMPOUND-PRT 4|7|CASE 5|7|DET 6|7|COMPOUND 7|2|OBL 8|2|PUNCT
+*PAR:	(...) and she's drying dishes . 27871_29573
+%mor:	cconj|and pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|drying-Part-Pres-S noun|dish-Plur .
+%gra:	1|5|CC 2|5|NSUBJ 3|5|COP 4|5|AMOD 5|0|ROOT 6|5|PUNCT
+*INV:	mhm .
+%mor:	intj|mhm .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	okay good . 31653_32211
+%mor:	intj|okay adj|good-S1 .
+%gra:	1|2|DISCOURSE 2|0|ROOT 3|2|PUNCT
+*PAR:	thank you very much . [+ exc] 32477_33100
+%mor:	verb|thank-Fin-Ind-Pres-S1 pron|you-Prs-Acc-S2 adv|very adv|much .
+%gra:	1|0|ROOT 2|1|OBJ 3|4|ADVMOD 4|1|ADVMOD 5|1|PUNCT
+@End

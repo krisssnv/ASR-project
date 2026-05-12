@@ -1,0 +1,61 @@
+@UTF8
+@PID:	11312/a-00090380-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|73;|female|ProbableAD||Participant|20||
+@Media:	067-1, audio
+@G:	Cookie
+*INV:	there it is . 1412_1950
+%mor:	pron|there-Int-S1 pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Pres-S3 .
+%gra:	1|3|EXPL 2|3|NSUBJ 3|0|ROOT 4|3|PUNCT
+*PAR:	that's it . [+ exc] 1996_2296
+%mor:	aux|that-Fin-Ind-Pres-S3 pron|it-Prs-Nom-S3 .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+*PAR:	well the girl's dryin(g) the [/] the plate . 2629_11349
+%mor:	intj|well det|the-Def-Art noun|girl-Plur verb|drying-Ger-S det|the-Def-Art noun|plate-Acc .
+%gra:	1|3|DISCOURSE 2|3|DET 3|0|ROOT 4|3|ACL 5|6|DET 6|4|OBJ 7|3|PUNCT
+*PAR:	and she's overflowin(g) the water in the &=laughs sink . 12708_15878
+%mor:	cconj|and noun|she verb|overflow-Part-Pres-S det|the-Def-Art noun|water-Acc adp|in det|the-Def-Art noun|sink .
+%gra:	1|2|CC 2|0|ROOT 3|2|ACL 4|5|DET 5|3|OBJ 6|8|CASE 7|8|DET 8|3|OBL 9|2|PUNCT
+*INV:	(..) okay .
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	there's a boy up on a stool and he's fallin(g) off of it . 24163_27563
+%mor:	verb|there-Fin-Ind-Pres-S3 det|a-Ind-Art noun|boy-Acc adp|up adp|on det|a-Ind-Art noun|stool cconj|and noun|he-Plur verb|fall-Part-Pres-S adp|off adp|of pron|it-Prs-Acc-S3 .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|COMPOUND-PRT 5|7|CASE 6|7|DET 7|1|OBL 8|10|CC 9|7|CONJ 10|9|ACL 11|13|CASE 12|13|CASE 13|10|OBL 14|1|PUNCT
+*PAR:	tryin(g) to get a cake or somethin(g) . [+ gram]
+%mor:	verb|try-Part-Pres-S part|to verb|get-Inf-S det|a-Ind-Art noun|cake-Acc cconj|or pron|something-Ind-S1 .
+%gra:	1|0|ROOT 2|3|MARK 3|1|XCOMP 4|5|DET 5|3|OBJ 6|7|CC 7|5|CONJ 8|1|PUNCT
+*PAR:	(..) in the cupboard . [+ gram]
+%mor:	adp|in det|the-Def-Art noun|cupboard .
+%gra:	1|3|CASE 2|3|DET 3|0|ROOT 4|3|PUNCT
+*PAR:	see he's trying to get this and he's gonna fall off of there . [+ es] 38580_41980
+%mor:	verb|see-Fin-Imp-S noun|he-Plur-Acc verb|try-Ger-S part|to verb|get-Inf-S pron|this-Dem-S1 cconj|and noun|he-Plur adv|gonna verb|fall-Inf-S adp|off adp|of adv|there .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|XCOMP 4|5|MARK 5|3|XCOMP 6|5|OBJ 7|10|CC 8|10|NSUBJ 9|10|ADVMOD 10|5|CONJ 11|10|OBL 12|13|CASE 13|10|OBL 14|1|PUNCT
+*INV:	mhm , okay . 42105_43306
+%mor:	intj|mhm cm|cm intj|okay .
+%gra:	1|0|ROOT 2|3|PUNCT 3|1|DISCOURSE 4|1|PUNCT
+*PAR:	+< so +...
+%mor:	adv|so +...
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	and the mother's water's all coming down out of her &=laughs sink there . 47793_51890
+%mor:	cconj|and det|the-Def-Art noun|mother noun|water-Plur det|all-Def-Tot verb|come-Part-Pres-S adp|down adp|out adp|of pron|her-Prs-Gen-S3 noun|sink adv|there .
+%gra:	1|4|CC 2|4|DET 3|4|COMPOUND 4|0|ROOT 5|4|DET 6|4|ACL 7|6|COMPOUND-PRT 8|11|CASE 9|8|FIXED 10|11|NMOD-POSS 11|6|OBL 12|6|ADVMOD 13|4|PUNCT
+*INV:	mhm . 52000_52318
+%mor:	intj|mhm .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	what's happening here ? 53245_54035
+%mor:	pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 verb|happen-Part-Pres-S adv|here ?
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|3|ADVMOD 5|3|PUNCT
+*PAR:	the little girl is puttin(g) her hand up to the boy . 56106_60138
+%mor:	det|the-Def-Art adj|little-S1 noun|girl aux|be-Fin-Ind-Pres-S3 verb|put-Part-Pres-S pron|her-Prs-Gen-S3 noun|hand-Acc adp|up adp|to det|the-Def-Art noun|boy .
+%gra:	1|3|DET 2|3|AMOD 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|7|NMOD-POSS 7|5|OBJ 8|5|COMPOUND-PRT 9|11|CASE 10|11|DET 11|5|OBL 12|5|PUNCT
+*PAR:	they're gonna get something out of that jar , a pineapple jar or something . 61163_64471
+%mor:	aux|their-Fin-S adv|gonna verb|get-Inf-S pron|something-Ind-S1 adp|out adp|of det|that-Def-Dem-Sing noun|jar cm|cm det|a-Ind-Art noun|pineapple noun|jar cconj|or pron|something-Ind-S1 .
+%gra:	1|3|AUX 2|3|ADVMOD 3|0|ROOT 4|3|OBJ 5|8|CASE 6|8|CASE 7|8|DET 8|3|OBL 9|12|PUNCT 10|12|DET 11|12|COMPOUND 12|8|CONJ 13|14|CC 14|12|CONJ 15|3|PUNCT
+*INV:	okay .
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+@End

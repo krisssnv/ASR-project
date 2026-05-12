@@ -1,0 +1,40 @@
+@UTF8
+@PID:	11312/a-00090617-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|69;|female|PossibleAD||Participant|23||
+@Media:	681-0, audio
+@G:	Cookie
+*INV:	I'm going to ask you to take a look at this picture . 1330_3720
+%mor:	aux|be-Fin-Ind-Pres-S1 verb|go-Part-Pres-S part|to verb|ask-Inf-S pron|you-Prs-Acc-S2 part|to verb|take-Inf-S det|a-Ind-Art noun|look-Acc adp|at det|this-Def-Dem-Sing noun|picture .
+%gra:	1|2|AUX 2|0|ROOT 3|4|MARK 4|2|XCOMP 5|4|IOBJ 6|7|MARK 7|4|XCOMP 8|9|DET 9|7|OBJ 10|12|CASE 11|12|DET 12|9|NMOD 13|2|PUNCT
+*INV:	tell me everything that you see happening in that picture , everything that's going on there . 6356_10882
+%mor:	verb|tell-Fin-Imp-S pron|I-Prs-Acc-S1 pron|everything-Tot-S1 pron|that-Rel pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|happen-Ger-S adp|in det|that-Def-Dem-Sing noun|picture cm|cm pron|everything-Tot-S1 pron|that-Rel-S1 verb|go-Ger-S adp|on adv|there .
+%gra:	1|0|ROOT 2|1|IOBJ 3|1|OBJ 4|7|OBJ 5|6|NSUBJ 6|3|ACL-RELCL 7|6|XCOMP 8|10|CASE 9|10|DET 10|7|OBL 11|12|PUNCT 12|3|APPOS 13|14|NSUBJ 14|12|ACL-RELCL 15|14|COMPOUND-PRT 16|14|ADVMOD 17|1|PUNCT
+*PAR:	it's a family affair , a mother and the children . 14887_17757
+%mor:	pron|its-Prs-Gen-S3 det|a-Ind-Art noun|family noun|affair cm|cm det|a-Ind-Art noun|mother cconj|and det|the-Def-Art noun|child-Plur .
+%gra:	1|4|NSUBJ 2|4|DET 3|4|COMPOUND 4|0|ROOT 5|7|PUNCT 6|7|DET 7|4|CONJ 8|10|CC 9|10|DET 10|7|CONJ 11|4|PUNCT
+*PAR:	and &-uh they're each busy at [/] at &-uh something . [+ es] 18610_24794
+%mor:	cconj|and verb|their-Fin-Imp-Pres-S det|each-Def-Tot adj|busy-S1 adp|at pron|something-Ind-S1 .
+%gra:	1|2|CC 2|0|ROOT 3|4|DET 4|2|XCOMP 5|6|CASE 6|4|OBL 7|2|PUNCT
+*PAR:	and the [//] &-um (.) &-uh they seem oblivious to the water falling [//] &=laughs &-uh &-uh overflowing . 35931_42218
+%mor:	cconj|and pron|they-Prs-Nom-P3 verb|seem-Fin-Ind-Pres-P3 adj|oblivious-S1 adp|to det|the-Def-Art noun|water noun|overflow-Ger .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|3|XCOMP 5|8|CASE 6|8|DET 7|8|COMPOUND 8|4|OBL 9|3|PUNCT
+*PAR:	(.) but they seem happy in doing their own thing . 47494_50714
+%mor:	cconj|but pron|they-Prs-Nom-P3 verb|seem-Fin-Ind-Pres-P3 adj|happy-S1 sconj|in verb|do-Part-Pres-S pron|their-Prs-Gen-P3 adj|own-S1 noun|thing-Acc-Ger .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|3|XCOMP 5|6|MARK 6|4|ADVCL 7|9|NMOD-POSS 8|9|AMOD 9|6|OBJ 10|3|PUNCT
+*PAR:	(..) <I don't think I> [//] I lost that . [+ exc] 65262_66423
+%mor:	pron|I-Prs-Nom-S1 verb|lose-Fin-Ind-Past-S1-irr pron|that-Dem .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*PAR:	I think I +... [+ exc] 66666_66906
+%mor:	pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Pres-S1 pron|I-Prs-Nom-S1 +...
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*INV:	+< okay .
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	that was fine . 67282_67326
+%mor:	pron|that-Dem aux|be-Fin-Ind-Past-S3-irr adj|fine-S1 .
+%gra:	1|3|NSUBJ 2|3|COP 3|0|ROOT 4|3|PUNCT
+@End

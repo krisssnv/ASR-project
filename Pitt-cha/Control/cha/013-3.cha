@@ -1,0 +1,57 @@
+@UTF8
+@PID:	11312/a-00090642-0
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt|PAR|65;00.|female|Control||Participant|||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	013-3, audio
+@Comment:	age is educated estimate , extrapolated from incomplete demographic data
+@G:	Cookie
+*PAR:	www . [+ exc]
+*INV:	and there's the picture .
+%mor:	cconj|and verb|there-Fin-Ind-Pres-S3 det|the-Def-Art noun|picture-Acc .
+%gra:	1|2|CC 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*PAR:	the boy's getting cookies out o(f) the cookie jar . 5680_7810
+%mor:	det|the-Def-Art noun|boy-Plur verb|get-Ger-S noun|cookie-Plur-Acc adp|out adp|of det|the-Def-Art noun|cookie noun|jar .
+%gra:	1|2|DET 2|3|NSUBJ 3|0|ROOT 4|3|OBJ 5|9|CASE 6|9|CASE 7|9|DET 8|9|COMPOUND 9|3|OBL 10|3|PUNCT
+*PAR:	he's handing one to a girl . 7926_9839
+%mor:	noun|he-Plur verb|hand-Part-Pres-S num|one adp|to det|a-Ind-Art noun|girl .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|OBJ 4|6|CASE 5|6|DET 6|2|OBL 7|2|PUNCT
+*PAR:	the [/] &+lad the stool he's standing on is falling . 11134_13140
+%mor:	det|the-Def-Art noun|stool noun|he-Plur verb|stand-Ger-S adp|on aux|be-Fin-Ind-Pres-S3 verb|fall-Part-Pres-S .
+%gra:	1|3|DET 2|3|COMPOUND 3|7|NSUBJ 4|3|ACL 5|4|OBL 6|7|COP 7|0|ROOT 8|7|PUNCT
+*PAR:	the lady's drying dishes . 14164_15944
+%mor:	det|the-Def-Art noun|lady-Plur noun|drying-Ger noun|dish-Plur .
+%gra:	1|4|DET 2|4|COMPOUND 3|4|COMPOUND 4|0|ROOT 5|4|PUNCT
+*PAR:	the sink is running over . 16108_18048
+%mor:	det|the-Def-Art noun|sink aux|be-Fin-Ind-Pres-S3 verb|run-Part-Pres-S adv|over .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|4|ADVMOD 6|4|PUNCT
+*PAR:	the water's turned on full . 18895_20539
+%mor:	det|the-Def-Art noun|water-Plur verb|turn-Fin-Ind-Past-P3 adp|on adj|full-S1 .
+%gra:	1|2|DET 2|3|NSUBJ 3|0|ROOT 4|3|CASE 5|3|OBL 6|3|PUNCT
+*PAR:	&-um (.) cups are sitting on the counter , plates sitting on the counter . 27234_30671
+%mor:	noun|cup-Plur aux|be-Fin-Ind-Pres-P3 verb|sit-Part-Pres-S adp|on det|the-Def-Art noun|counter cm|cm noun|plate-Plur verb|sit-Ger-S adp|on det|the-Def-Art noun|counter .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|6|CASE 5|6|DET 6|3|OBL 7|8|PUNCT 8|6|APPOS 9|8|ACL 10|12|CASE 11|12|DET 12|9|OBL 13|3|PUNCT
+*PAR:	puddle of water's on the floor . [+ gram] 31542_33397
+%mor:	noun|puddle adp|of noun|water-Plur adp|on det|the-Def-Art noun|floor .
+%gra:	1|0|ROOT 2|3|CASE 3|1|NMOD 4|6|CASE 5|6|DET 6|1|NMOD 7|1|PUNCT
+*PAR:	little girl is sayin(g) +"/. [+ gram] 34231_35398
+%mor:	adj|little-S1 noun|girl aux|be-Fin-Ind-Pres-S3 verb|say-Part-Pres-S +"/.
+%gra:	1|2|AMOD 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|4|PUNCT
+*PAR:	+" shh@o don't tell anybody &=laughs .
+%mor:	o|shh adv|dont verb|tell-Inf-S pron|anybody-Ind-S1 .
+%gra:	1|3|DISCOURSE 2|3|ADVMOD 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*PAR:	&=sighs and the cookie jar looks like it's ready to fall out . 42012_44194
+%mor:	cconj|and det|the-Def-Art noun|cookie noun|jar verb|look-Fin-Ind-Pres-S3 adp|like pron|its-Prs-Gen-S3 adj|ready-S1 part|to verb|fall-Inf-S adp|out .
+%gra:	1|5|CC 2|4|DET 3|4|COMPOUND 4|5|NSUBJ 5|0|ROOT 6|8|CASE 7|8|NMOD-POSS 8|5|OBL 9|10|MARK 10|8|XCOMP 11|10|COMPOUND-PRT 12|5|PUNCT
+*PAR:	and the cookie jar is full , clear full . 44816_47220
+%mor:	cconj|and det|the-Def-Art noun|cookie noun|jar aux|be-Fin-Ind-Pres-S3 adj|full-S1 cm|cm adj|clear-S1 adj|full-S1 .
+%gra:	1|6|CC 2|4|DET 3|4|COMPOUND 4|6|NSUBJ 5|6|COP 6|0|ROOT 7|9|PUNCT 8|9|AMOD 9|6|CONJ 10|6|PUNCT
+*PAR:	(.) that's about all I see that's goin(g) on . [+ exc] 55018_56848
+%mor:	aux|that-Fin-Ind-Pres-S3 adv|about det|all-Def-Tot pron|I-Prs-Nom-S1 verb|see-Fin-Ind-Pres-S1 pron|that-Prs-S1 verb|go-Ger-S adp|on .
+%gra:	1|3|COP 2|3|ADVMOD 3|7|NSUBJ 4|5|NSUBJ 5|3|ACL-RELCL 6|5|OBJ 7|0|ROOT 8|7|COMPOUND-PRT 9|7|PUNCT
+*INV:	okay that's fine . 57200_57443
+%mor:	intj|okay pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adj|fine-S1 .
+%gra:	1|4|DISCOURSE 2|4|NSUBJ 3|4|COP 4|0|ROOT 5|4|PUNCT
+@End

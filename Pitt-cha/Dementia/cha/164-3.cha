@@ -1,0 +1,46 @@
+@UTF8
+@PID:	11312/a-00090420-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|56;|male|ProbableAD||Participant|18||
+@Media:	164-3, audio
+@G:	Cookie
+*INV:	xxx getting in the picture .
+%mor:	verb|get-Part-Pres-S adp|in det|the-Def-Art noun|picture .
+%gra:	1|0|ROOT 2|4|CASE 3|4|DET 4|1|OBL 5|1|PUNCT
+*INV:	all the action .
+%mor:	det|all-Def-Tot det|the-Def-Art noun|action .
+%gra:	1|3|DET-PREDET 2|3|DET 3|0|ROOT 4|3|PUNCT
+*PAR:	okay the boy's in the cookie jar . 5177_6780
+%mor:	intj|okay det|the-Def-Art noun|boy-Plur adp|in det|the-Def-Art noun|cookie noun|jar .
+%gra:	1|3|DISCOURSE 2|3|DET 3|0|ROOT 4|7|CASE 5|7|DET 6|7|COMPOUND 7|3|NMOD 8|3|PUNCT
+*PAR:	he's [/] (.) he's gonna fall off his stool . 6851_12471
+%mor:	noun|he-Plur adv|gonna verb|fall-Inf-S adp|off pron|his-Prs-Gen-S3 noun|stool .
+%gra:	1|3|NSUBJ 2|3|ADVMOD 3|0|ROOT 4|6|CASE 5|6|NMOD-POSS 6|3|OBL 7|3|PUNCT
+*PAR:	the mother's (.) tub's running over (..) on the floor . 18066_26086
+%mor:	det|the-Def-Art noun|mother noun|tub-Plur verb|run-Ger-S adp|over adp|on det|the-Def-Art noun|floor .
+%gra:	1|3|DET 2|3|COMPOUND 3|0|ROOT 4|3|ACL 5|4|COMPOUND-PRT 6|8|CASE 7|8|DET 8|4|OBL 9|3|PUNCT
+*PAR:	kid's gonna hit on the floor &=laughs . 27776_29189
+%mor:	noun|kid-Plur adv|gonna verb|hit-Fin-Ind-Past-P3-irr adp|on det|the-Def-Art noun|floor .
+%gra:	1|3|NSUBJ 2|3|ADVMOD 3|0|ROOT 4|6|CASE 5|6|DET 6|3|OBL 7|3|PUNCT
+*INV:	mhm . 30579_30811
+%mor:	intj|mhm .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	where's the girl at there ? [+ exc] 31420_32281
+%mor:	verb|where-Fin-Ind-Pres-S3 det|the-Def-Art noun|girl-Acc adp|at adv|there ?
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|5|CASE 5|1|OBL 6|1|PUNCT
+*PAR:	an(d) she's [/] she reachin(g) for &-uh a cookie . 32861_39151
+%mor:	cconj|and pron|she-Prs-Nom-S3 verb|reach-Part-Pres-S adp|for det|a-Ind-Art noun|cookie .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|6|CASE 5|6|DET 6|3|OBL 7|3|PUNCT
+*PAR:	(.) poor ol(d) mom gotta &+g get her &=grunts +... 44650_46790
+%mor:	adj|poor-S1 adj|old-S1 noun|mom aux|getta-Fin-S verb|get-Inf-S pron|her-Prs-Acc-S3 +...
+%gra:	1|3|AMOD 2|3|AMOD 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|5|OBJ 7|5|PUNCT
+*PAR:	that's about it , huh ? [+ exc] 49281_49931
+%mor:	verb|that-Fin-Ind-Pres-S3 adp|about pron|it-Prs-Acc-S3 cm|cm intj|huh ?
+%gra:	1|0|ROOT 2|3|CASE 3|1|OBL 4|5|PUNCT 5|1|VOCATIVE 6|1|PUNCT
+*INV:	okay . 50214_50702
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+@End

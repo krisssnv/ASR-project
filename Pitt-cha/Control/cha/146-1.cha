@@ -1,0 +1,67 @@
+@UTF8
+@PID:	11312/a-00090765-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|73;|male|Control||Participant|28||
+@Media:	146-1, audio
+@G:	Cookie
+*INV:	tell me everything that you see going on in the picture .
+%mor:	verb|tell-Fin-Imp-S pron|I-Prs-Acc-S1 pron|everything-Tot-S1 pron|that-Rel pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|go-Ger-S adp|on adp|in det|the-Def-Art noun|picture .
+%gra:	1|0|ROOT 2|1|IOBJ 3|1|OBJ 4|7|OBJ 5|6|NSUBJ 6|3|ACL-RELCL 7|6|XCOMP 8|7|COMPOUND-PRT 9|11|CASE 10|11|DET 11|7|OBL 12|1|PUNCT
+*INV:	just tell me what's happening there .
+%mor:	adv|just verb|tell-Fin-Imp-S pron|I-Prs-Acc-S1 pron|what-Int-S1 verb|happen-Ger-S adv|there .
+%gra:	1|2|ADVMOD 2|0|ROOT 3|2|IOBJ 4|5|NSUBJ 5|2|CCOMP 6|5|ADVMOD 7|2|PUNCT
+*PAR:	well , &-uh for one thing this boy's on the stool gettin(g) cookies .
+%mor:	intj|well cm|cm adp|for num|one noun|thing-Ger det|this-Def-Dem-Sing noun|boy-Plur adp|on det|the-Def-Art noun|stool verb|get-Ger-S noun|cookie-Plur-Acc .
+%gra:	1|10|DISCOURSE 2|1|PUNCT 3|5|CASE 4|5|NUMMOD 5|11|OBL 6|7|DET 7|11|NSUBJ 8|10|CASE 9|10|DET 10|11|NSUBJ 11|0|ROOT 12|11|OBJ 13|11|PUNCT
+*PAR:	and his stool's (a)bout to fall .
+%mor:	cconj|and pron|his-Prs-Gen-S3 noun|stool-Plur adv|about part|to verb|fall-Inf-S .
+%gra:	1|3|CC 2|3|NMOD-POSS 3|0|ROOT 4|6|ADVMOD 5|6|MARK 6|3|ACL 7|3|PUNCT
+*PAR:	and [/] and the little girl's reaching for some cookies . 13109_14929
+%mor:	cconj|and det|the-Def-Art adj|little-S1 noun|girl-Plur verb|reach-Ger-S adp|for det|some-Def-Ind noun|cookie-Plur .
+%gra:	1|4|CC 2|4|DET 3|4|AMOD 4|0|ROOT 5|4|ACL 6|8|CASE 7|8|DET 8|5|OBL 9|4|PUNCT
+*PAR:	she got her finger in her mouth . 15025_16335
+%mor:	pron|she-Prs-Nom-S3 verb|get-Fin-Ind-Past-S3-irr pron|her-Prs-Gen-S3 noun|finger-Acc adp|in pron|her-Prs-Gen-S3 noun|mouth .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|4|NMOD-POSS 4|2|OBJ 5|7|CASE 6|7|NMOD-POSS 7|2|OBL 8|2|PUNCT
+*PAR:	&-um the mother's dryin(g) dishes and water's runnin(g) over . 18828_21936
+%mor:	det|the-Def-Art noun|mother noun|drying-Ger noun|dish-Plur cconj|and noun|water-Plur verb|run-Ger-S adv|over .
+%gra:	1|4|DET 2|4|COMPOUND 3|4|COMPOUND 4|0|ROOT 5|6|CC 6|4|CONJ 7|4|ACL 8|7|ADVMOD 9|4|PUNCT
+*PAR:	<she got her> [//] &+pl yeah and she dryin(g) dishes water's runnin(g) over . 22526_24696
+%mor:	intj|yeah cconj|and pron|she-Prs-Nom-S3 verb|drying-Ger-Pres-S noun|dish-Plur noun|water-Plur-Acc verb|run-Ger-S adv|over .
+%gra:	1|4|DISCOURSE 2|4|CC 3|4|NSUBJ 4|0|ROOT 5|6|COMPOUND 6|4|OBJ 7|4|ADVCL 8|7|ADVMOD 9|4|PUNCT
+*PAR:	she's standin(g) in water . 24774_25704
+%mor:	noun|she noun|standing-Ger adp|in noun|water .
+%gra:	1|2|COMPOUND 2|0|ROOT 3|4|CASE 4|2|NMOD 5|2|PUNCT
+*PAR:	there's a sink there . 26428_27458
+%mor:	verb|there-Fin-Ind-Pres-S3 det|a-Ind-Art noun|sink-Acc adv|there .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|ADVMOD 5|1|PUNCT
+*PAR:	plate and a cup . [+ gram] 28638_29920
+%mor:	noun|plate cconj|and det|a-Ind-Art noun|cup .
+%gra:	1|0|ROOT 2|4|CC 3|4|DET 4|1|CONJ 5|1|PUNCT
+*PAR:	outside you can see outside there the [/] the walkway and hedges , a window , tree . 31237_38147
+%mor:	adv|outside pron|you-Prs-Nom-S2 aux|can-Fin-S verb|see-Inf-S adp|outside adv|there det|the-Def-Art noun|walkway-Acc cconj|and noun|hedge-Plur cm|cm det|a-Ind-Art noun|window cm|cm noun|tree .
+%gra:	1|4|ADVMOD 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|6|CASE 6|4|OBL 7|8|DET 8|4|OBJ 9|10|CC 10|8|CONJ 11|13|PUNCT 12|13|DET 13|8|CONJ 14|15|PUNCT 15|13|CONJ 16|4|PUNCT
+*PAR:	and &-uh <outside the> [//] &+cup the cookie jar would hafta be in the cupboard . 40073_43993
+%mor:	cconj|and det|the-Def-Art noun|cookie noun|jar aux|would-Fin-S part|hafta aux|be-Inf-S adp|in det|the-Def-Art noun|cupboard .
+%gra:	1|10|CC 2|4|DET 3|4|COMPOUND 4|10|NSUBJ 5|10|AUX 6|10|ADVMOD 7|10|COP 8|10|CASE 9|10|DET 10|0|ROOT 11|10|PUNCT
+*PAR:	and there's a <what you call it> [//] the counter on in the kitchen . [+ gram] 44879_49979
+%mor:	cconj|and verb|there-Fin-Ind-Pres-S3 det|a-Ind-Art det|the-Def-Art noun|counter-Acc adp|on adp|in det|the-Def-Art noun|kitchen .
+%gra:	1|2|CC 2|0|ROOT 3|5|DET 4|5|DET 5|2|OBJ 6|2|ADVMOD 7|9|CASE 8|9|DET 9|2|OBL 10|2|PUNCT
+*PAR:	that's [//] and the curtains . [+ gram] 50951_51991
+%mor:	cconj|and det|the-Def-Art noun|curtain-Plur .
+%gra:	1|3|CC 2|3|DET 3|0|ROOT 4|3|PUNCT
+*INV:	mhm . 52384_52523
+%mor:	intj|mhm .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	and the window . [+ gram] 53024_53585
+%mor:	cconj|and det|the-Def-Art noun|window .
+%gra:	1|3|CC 2|3|DET 3|0|ROOT 4|3|PUNCT
+*INV:	okay ?
+%mor:	intj|okay ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	great .
+%mor:	adj|great-S1 .
+%gra:	1|0|ROOT 2|1|PUNCT
+@End

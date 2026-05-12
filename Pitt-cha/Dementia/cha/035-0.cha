@@ -1,0 +1,52 @@
+@UTF8
+@PID:	11312/a-00090351-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|62;|female|ProbableAD||Participant|23||
+@Media:	035-0, audio
+@G:	Cookie
+*INV:	that's the picture .
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 det|the-Masc-Def-Art noun|picture .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|DET 4|0|ROOT 5|4|PUNCT
+*PAR:	+< oh . [+ exc]
+%mor:	intj|oh .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	&=laughs oh great &=laughs . [+ exc]
+%mor:	intj|oh adj|great-S1 .
+%gra:	1|2|DISCOURSE 2|0|ROOT 3|2|PUNCT
+*PAR:	oh the boy is taking cookies . 8859_9788
+%mor:	intj|oh det|the-Def-Art noun|boy aux|be-Fin-Ind-Pres-S3 verb|take-Part-Pres-S noun|cookie-Plur-Acc .
+%gra:	1|5|DISCOURSE 2|3|DET 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|5|OBJ 7|5|PUNCT
+*PAR:	&-uh and he's also going to fall off his stepstool . 11881_15841
+%mor:	cconj|and aux|he-Fin-Ind-Pres-S3 adv|also verb|go-Part-Pres-S part|to verb|fall-Inf-S adp|off pron|his-Prs-Gen-S3 noun|stepstool .
+%gra:	1|4|CC 2|4|AUX 3|4|ADVMOD 4|0|ROOT 5|6|MARK 6|4|XCOMP 7|9|CASE 8|9|NMOD-POSS 9|6|OBL 10|4|PUNCT
+*PAR:	&-uh his [//] &+sis I gather it's his sister is reaching for the cookies . 17469_23738
+%mor:	pron|I-Prs-Nom-S1 verb|gather-Fin-Ind-Pres-S1 pron|its-Prs-Gen-S3 pron|his-Prs-Gen-S3 noun|sister aux|be-Fin-Ind-Pres-S3 verb|reach-Part-Pres-S adp|for det|the-Def-Art noun|cookie-Plur .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|5|NMOD-POSS 4|5|NMOD-POSS 5|7|NSUBJ 6|7|AUX 7|2|CCOMP 8|10|CASE 9|10|DET 10|7|OBL 11|2|PUNCT
+*PAR:	the mother is &-uh drying the dishes and obviously &-uh has her mind on somewhere [: something] [* s:r-ret] [//] &+el something else because the water's coming down off [//] out of the sink onto the floor . 24973_41273
+%mor:	det|the-Def-Art noun|mother aux|be-Fin-Ind-Pres-S3 verb|drying-Part-Pres-S det|the-Def-Art noun|dish-Plur-Acc cconj|and adv|obviously verb|have-Fin-Ind-Pres-S3 pron|her-Prs-Gen-S3 noun|mind-Acc adp|on pron|something-Ind-S1 adj|else-S1 sconj|because det|the-Def-Art noun|water-Plur verb|come-Ger-S adp|down adp|out adp|of det|the-Def-Art noun|sink adp|onto det|the-Def-Art noun|floor .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|6|DET 6|4|OBJ 7|9|CC 8|9|ADVMOD 9|4|CONJ 10|11|NMOD-POSS 11|9|OBJ 12|13|CASE 13|9|OBL 14|13|AMOD 15|18|MARK 16|17|DET 17|18|NSUBJ 18|9|ADVCL 19|18|COMPOUND-PRT 20|23|CASE 21|23|CASE 22|23|DET 23|18|OBL 24|26|CASE 25|26|DET 26|23|NMOD 27|4|PUNCT
+*PAR:	and she is also standing <in some> [//] in water . 41987_44747
+%mor:	cconj|and pron|she-Prs-Nom-S3 aux|be-Fin-Ind-Pres-S3 adv|also verb|stand-Part-Pres-S adp|in noun|water .
+%gra:	1|5|CC 2|5|NSUBJ 3|5|AUX 4|5|ADVMOD 5|0|ROOT 6|7|CASE 7|5|OBL 8|5|PUNCT
+*PAR:	&-uh (..) I don't know . [+ exc]
+%mor:	pron|I-Prs-Nom-S1 adv|dont verb|know-Fin-Ind-Pres-S1 .
+%gra:	1|3|NSUBJ 2|3|ADVMOD 3|0|ROOT 4|3|PUNCT
+*PAR:	that's [/] that's it . [+ exc]
+%mor:	aux|that-Fin-Ind-Pres-S3 pron|it-Prs-Nom-S3 .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+*PAR:	I didn't hear what he said then because <it's too> [//] it's +... [+ exc] 57444_63014
+%mor:	pron|I-Prs-Nom-S1 adv|didnt verb|hear-Inf-S pron|what-Rel-S1 pron|he-Prs-Nom-S3 verb|say-Fin-Ind-Past-S3-irr adv|then adp|because pron|its-Prs-Gen-S3 +...
+%gra:	1|3|NSUBJ 2|3|ADVMOD 3|0|ROOT 4|3|OBJ 5|6|NSUBJ 6|4|ACL-RELCL 7|6|ADVMOD 8|9|CASE 9|3|OBL 10|3|PUNCT
+*PAR:	(..) that is all that I can see here . [+ exc] 70174_71856
+%mor:	pron|that-Dem aux|be-Fin-Ind-Pres-S3 det|all-Def-Tot pron|that-Rel pron|I-Prs-Nom-S1 aux|can-Fin-S verb|see-Inf-S adv|here .
+%gra:	1|3|NSUBJ 2|3|COP 3|0|ROOT 4|7|OBJ 5|7|NSUBJ 6|7|AUX 7|3|ACL-RELCL 8|7|ADVMOD 9|3|PUNCT
+*INV:	okay . 72557_73057
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	thank you . 73103_73138
+%mor:	verb|thank-Fin-Ind-Pres-S1 pron|you-Prs-Acc-S2 .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+@End

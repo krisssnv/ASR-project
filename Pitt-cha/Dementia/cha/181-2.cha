@@ -1,0 +1,44 @@
+@UTF8
+@PID:	11312/a-00090431-0
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt|PAR|80;00.|female|ProbableAD||Participant|||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	181-2, audio
+@Comment:	age is educated estimate , extrapolated from incomplete demographic data
+@G:	Cookie
+*PAR:	&-uh she's &-um &+w &+w &+w washing dishes . 3792_4812
+%mor:	pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|wash-Part-Pres-S noun|dish-Plur-Acc .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*INV:	okay .
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	and this one , he's trying to get up in the cupboard , cookie jar . 7875_10178
+%mor:	cconj|and det|this-Def-Dem-Sing noun|one cm|cm adv|hes verb|try-Part-Pres-S part|to verb|get-Inf-S adp|up adp|in det|the-Def-Art noun|cupboard cm|cm noun|cookie noun|jar .
+%gra:	1|6|CC 2|3|DET 3|6|REPARANDUM 4|6|PUNCT 5|6|ADVMOD 6|0|ROOT 7|8|MARK 8|6|XCOMP 9|8|COMPOUND-PRT 10|12|CASE 11|12|DET 12|8|OBL 13|15|PUNCT 14|15|COMPOUND 15|12|APPOS 16|6|PUNCT
+*PAR:	&+th that doesn't make (th)em alike . [+ es] 15131_16441
+%mor:	pron|that-Dem adv|doesnt verb|make-Inf-S pron|they-Prs-Acc-P3 adj|alike-S1 .
+%gra:	1|3|NSUBJ 2|3|ADVMOD 3|0|ROOT 4|3|OBJ 5|3|XCOMP 6|3|PUNCT
+*INV:	okay , anything else you see going on ? 18287_20147
+%mor:	intj|okay cm|cm pron|anything-Ind-S1 adj|else-S1 pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|go-Ger-S adp|on ?
+%gra:	1|3|DISCOURSE 2|1|PUNCT 3|0|ROOT 4|3|AMOD 5|6|NSUBJ 6|3|ACL-RELCL 7|6|XCOMP 8|7|COMPOUND-PRT 9|3|PUNCT
+*PAR:	he's fallin(g) off of the stool . 24550_25953
+%mor:	noun|he-Plur verb|fall-Part-Pres-S adp|off adp|of det|the-Def-Art noun|stool .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|COMPOUND-PRT 4|6|CASE 5|6|DET 6|2|OBL 7|2|PUNCT
+*INV:	okay .
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	and the sink's running over . 30316_31386
+%mor:	cconj|and det|the-Def-Art noun|sink-Plur noun|running-Ger adp|over .
+%gra:	1|4|CC 2|3|DET 3|4|COMPOUND 4|0|ROOT 5|4|COMPOUND-PRT 6|4|PUNCT
+*PAR:	water . [+ gram] 32975_33305
+%mor:	noun|water .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	I guess that's it , huh ? [+ exc] 37879_38748
+%mor:	pron|I-Prs-Nom-S1 verb|guess-Fin-Ind-Pres-S1 aux|that-Fin-Ind-Pres-S3 pron|it-Prs-Acc-S3 cm|cm intj|huh ?
+%gra:	1|2|NSUBJ 2|0|ROOT 3|4|COP 4|2|OBJ 5|6|PUNCT 6|2|PARATAXIS 7|2|PUNCT
+*INV:	okay .
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+@End

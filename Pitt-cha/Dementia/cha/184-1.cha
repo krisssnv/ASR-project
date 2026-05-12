@@ -1,0 +1,70 @@
+@UTF8
+@PID:	11312/a-00090438-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|64;|male|ProbableAD||Participant|27||
+@Media:	184-1, audio
+@G:	Cookie
+*INV:	okay .
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	all of the action .
+%mor:	det|all-Def-Tot adp|of det|the-Def-Art noun|action .
+%gra:	1|0|ROOT 2|4|CASE 3|4|DET 4|1|NMOD 5|1|PUNCT
+*PAR:	okay , I see a boy in the cookie jar . 6665_7999
+%mor:	intj|okay cm|cm pron|I-Prs-Nom-S1 verb|see-Fin-Ind-Pres-S1 det|a-Ind-Art noun|boy-Acc adp|in det|the-Def-Art noun|cookie noun|jar .
+%gra:	1|4|DISCOURSE 2|1|PUNCT 3|4|NSUBJ 4|0|ROOT 5|6|DET 6|4|OBJ 7|10|CASE 8|10|DET 9|10|COMPOUND 10|4|OBL 11|4|PUNCT
+*PAR:	I see he has the lid off . 8940_10209
+%mor:	pron|I-Prs-Nom-S1 verb|see-Fin-Ind-Pres-S1 pron|he-Prs-Nom-S3 verb|have-Fin-Ind-Pres-S3 det|the-Def-Art noun|lid-Acc adp|off .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|4|NSUBJ 4|2|CCOMP 5|6|DET 6|4|OBJ 7|4|COMPOUND-PRT 8|2|PUNCT
+*PAR:	I see that he is standing on a three legged stool and he's about to depart from that three legged stool . 12238_19478
+%mor:	pron|I-Prs-Nom-S1 verb|see-Fin-Ind-Pres-S1 sconj|that pron|he-Prs-Nom-S3 aux|be-Fin-Ind-Pres-S3 verb|stand-Part-Pres-S adp|on det|a-Ind-Art num|three adj|legged-S1 noun|stool cconj|and verb|he-Fin-Ind-Pres-S3 adv|about part|to verb|depart-Inf-S adp|from det|that-Def-Dem-Sing num|three adj|legged-S1 noun|stool .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|6|MARK 4|6|NSUBJ 5|6|AUX 6|2|CCOMP 7|11|CASE 8|11|DET 9|11|NUMMOD 10|11|AMOD 11|6|OBL 12|13|CC 13|6|CONJ 14|13|ADVMOD 15|16|MARK 16|13|XCOMP 17|21|CASE 18|21|DET 19|21|NUMMOD 20|21|AMOD 21|16|OBL 22|2|PUNCT
+*PAR:	he has one cookie in his hand , handin(g) it down to his sister and she's reaching up for it . 21146_25491
+%mor:	pron|he-Prs-Nom-S3 verb|have-Fin-Ind-Pres-S3 num|one noun|cookie-Acc adp|in pron|his-Prs-Gen-S3 noun|hand cm|cm verb|hand-Part-Pres-S pron|it-Prs-Acc-S3 adp|down adp|to pron|his-Prs-Gen-S3 noun|sister cconj|and noun|she-Plur verb|reach-Part-Pres-S adp|up adp|for pron|it-Prs-Acc-S3 .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|4|NUMMOD 4|2|OBJ 5|7|CASE 6|7|NMOD-POSS 7|2|OBL 8|9|PUNCT 9|2|ADVCL 10|9|OBJ 11|9|COMPOUND-PRT 12|14|CASE 13|14|NMOD-POSS 14|9|OBL 15|16|CC 16|14|CONJ 17|14|ACL 18|17|COMPOUND-PRT 19|20|CASE 20|17|OBL 21|2|PUNCT
+*PAR:	and I think she's indicating to the boy to keep still so his mother doesn't hear what's going on . 27319_33999
+%mor:	cconj|and pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Pres-S1 noun|she-Plur-Acc verb|indicate-Ger-S adp|to det|the-Def-Art noun|boy part|to verb|keep-Inf-S adv|still sconj|so pron|his-Prs-Gen-S3 noun|mother adv|doesnt verb|hear-Inf-S pron|what-Rel-S1 verb|go-Ger-S adp|on .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|3|OBJ 5|3|CCOMP 6|8|CASE 7|8|DET 8|5|OBL 9|10|MARK 10|5|XCOMP 11|10|ADVMOD 12|16|MARK 13|14|NMOD-POSS 14|16|NSUBJ 15|16|ADVMOD 16|10|ADVCL 17|16|OBJ 18|17|ACL 19|18|COMPOUND-PRT 20|3|PUNCT
+*PAR:	I see the mother . 36245_37607
+%mor:	pron|I-Prs-Nom-S1 verb|see-Fin-Ind-Pres-S1 det|the-Def-Art noun|mother-Acc .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*PAR:	&-uh I guess she's drying the dishes and she's not paying attention because she's &-uh leavin(g) the sink run over and it's spillin(g) all over the floor . 41192_51541
+%mor:	pron|I-Prs-Nom-S1 verb|guess-Fin-Ind-Pres-S1 noun|she verb|drying-Ger-S det|the-Def-Art noun|dish-Plur-Acc cconj|and sconj|shes part|not verb|pay-Part-Pres-S noun|attention-Acc sconj|because noun|she-Plur verb|leave-Part-Pres-S det|the-Def-Art noun|sink-Acc verb|run-Part-Past-S-irr adp|over cconj|and pron|its-Prs-Gen-S3 verb|spill-Ger-S adv|all adp|over det|the-Def-Art noun|floor .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|4|NSUBJ 4|2|CCOMP 5|6|DET 6|4|OBJ 7|10|CC 8|10|MARK 9|10|ADVMOD 10|4|CONJ 11|10|OBJ 12|14|MARK 13|14|NSUBJ 14|10|ADVCL 15|16|DET 16|14|OBJ 17|14|XCOMP 18|17|COMPOUND-PRT 19|21|CC 20|21|NSUBJ 21|17|CONJ 22|21|ADVMOD 23|25|CASE 24|25|DET 25|21|OBL 26|2|PUNCT
+*PAR:	and she must not be conscious because she's standing in it and doesn't know it . 51682_54866
+%mor:	cconj|and pron|she-Prs-Nom-S3 aux|must-Fin-S part|not aux|be-Inf-S adj|conscious-S1 sconj|because noun|she-Plur verb|stand-Part-Pres-S adp|in pron|it-Prs-Acc-S3 cconj|and adv|doesnt verb|know-Inf-S pron|it-Prs-Acc-S3 .
+%gra:	1|6|CC 2|6|NSUBJ 3|6|AUX 4|6|ADVMOD 5|6|COP 6|0|ROOT 7|9|MARK 8|9|NSUBJ 9|6|ADVCL 10|11|CASE 11|9|OBL 12|14|CC 13|14|ADVMOD 14|9|CONJ 15|14|OBJ 16|6|PUNCT
+*PAR:	&-um &+sh <I think she must> [//] I think she's probably lookin(g) out the window as I take the second look . 58090_61935
+%mor:	pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Pres-S1 noun|she adv|probably verb|look-Part-Pres-S adp|out det|the-Def-Art noun|window sconj|as pron|I-Prs-Nom-S1 verb|take-Fin-Ind-Pres-S1 det|the-Def-Art adj|second-S1 noun|look-Acc .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|5|NSUBJ 4|5|ADVMOD 5|2|CCOMP 6|8|CASE 7|8|DET 8|5|OBL 9|11|MARK 10|11|NSUBJ 11|5|ADVCL 12|14|DET 13|14|AMOD 14|11|OBJ 15|2|PUNCT
+*PAR:	and I see apparently a couple dirty dishes on the tabletop . 63173_68395
+%mor:	cconj|and pron|I-Prs-Nom-S1 verb|see-Fin-Ind-Pres-S1 adv|apparently det|a-Ind-Art noun|couple adj|dirty-S1 noun|dish-Plur-Acc adp|on det|the-Def-Art noun|tabletop .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|8|ADVMOD 5|6|DET 6|7|OBL-UNMARKED 7|8|AMOD 8|3|OBJ 9|11|CASE 10|11|DET 11|8|NMOD 12|3|PUNCT
+*PAR:	I see the cupboards . 70437_72399
+%mor:	pron|I-Prs-Nom-S1 verb|see-Fin-Ind-Pres-S1 det|the-Def-Art noun|cupboard-Plur-Acc .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*PAR:	&-uh I don't know whether they all have knobs on them or not . 73452_76162
+%mor:	pron|I-Prs-Nom-S1 adv|dont verb|know-Fin-Ind-Pres-S1 sconj|whether pron|they-Prs-Nom-P3 det|all-Def-Tot verb|have-Fin-Ind-Pres-P3 noun|knob-Plur-Acc adp|on pron|they-Prs-Acc-P3 cconj|or part|not .
+%gra:	1|3|NSUBJ 2|3|ADVMOD 3|0|ROOT 4|7|MARK 5|7|NSUBJ 6|5|DET 7|3|CCOMP 8|7|OBJ 9|10|CASE 10|7|OBL 11|12|CC 12|10|CONJ 13|3|PUNCT
+*PAR:	doesn't look like the two where the boy and the girl are have knobs on the cupboard door . 77859_83119
+%mor:	adv|doesnt verb|look-Fin-Imp-S adp|like det|the-Def-Art num|two adv|where det|the-Def-Art noun|boy cconj|and det|the-Def-Art noun|girl aux|be-Fin-Ind-Pres-P3 verb|have-Inf-S noun|knob-Plur-Acc adp|on det|the-Def-Art noun|cupboard noun|door .
+%gra:	1|2|ADVMOD 2|0|ROOT 3|5|CASE 4|5|DET 5|2|OBL 6|13|ADVMOD 7|8|DET 8|13|NSUBJ 9|11|CC 10|11|DET 11|8|CONJ 12|13|AUX 13|5|ACL-RELCL 14|13|OBJ 15|18|CASE 16|18|DET 17|18|COMPOUND 18|13|OBL 19|2|PUNCT
+*PAR:	and I see outside . 85045_86035
+%mor:	cconj|and pron|I-Prs-Nom-S1 verb|see-Fin-Ind-Pres-S1 adv|outside .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|3|ADVMOD 5|3|PUNCT
+*PAR:	I see &-uh apparently it's a tree , some shrubbery and some hedges . 86146_90635
+%mor:	pron|I-Prs-Nom-S1 verb|see-Fin-Ind-Pres-S1 adv|apparently pron|its-Prs-Gen-S3 det|a-Ind-Art noun|tree-Acc cm|cm det|some-Def-Ind noun|shrubbery cconj|and det|some-Def-Ind noun|hedge-Plur .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|6|ADVMOD 4|6|NMOD-POSS 5|6|DET 6|2|OBJ 7|9|PUNCT 8|9|DET 9|6|CONJ 10|12|CC 11|12|DET 12|9|CONJ 13|2|PUNCT
+*INV:	okay ?
+%mor:	intj|okay ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	about it ? [+ exc]
+%mor:	adp|about pron|it-Prs-Acc-S3 ?
+%gra:	1|2|CASE 2|0|ROOT 3|2|PUNCT
+*INV:	okay good .
+%mor:	intj|okay adj|good-S1 .
+%gra:	1|2|DISCOURSE 2|0|ROOT 3|2|PUNCT
+@End

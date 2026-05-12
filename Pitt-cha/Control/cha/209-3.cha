@@ -1,0 +1,88 @@
+@UTF8
+@PID:	11312/a-00090799-0
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt|PAR|69;|female|Control||Participant|30||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	209-3, audio
+@G:	Cookie
+*PAR:	&-uh the sink's runnin(g) over . 270_2020
+%mor:	det|the-Def-Art noun|sink-Plur verb|run-Ger-S adp|over .
+%gra:	1|2|DET 2|0|ROOT 3|2|ACL 4|3|COMPOUND-PRT 5|2|PUNCT
+*PAR:	the water's goin(g) all over the floor . 3973_5722
+%mor:	det|the-Def-Art noun|water-Plur verb|go-Ger-S adv|all adp|over det|the-Def-Art noun|floor .
+%gra:	1|2|DET 2|0|ROOT 3|2|ACL 4|7|ADVMOD 5|7|CASE 6|7|DET 7|3|OBL 8|2|PUNCT
+*PAR:	here <the boy> [//] the stepladder [: stepstool] [* s:r] is turnin(g) under his legs and he's stealin(g) cookies out of the cookie jar . 6676_13663
+%mor:	adv|here det|the-Def-Art noun|stepstool aux|be-Fin-Ind-Pres-S3 verb|turn-Part-Pres-S adp|under pron|his-Prs-Gen-S3 noun|leg-Plur cconj|and noun|he-Plur verb|steal-Ger-S noun|cookie-Plur-Acc adp|out adp|of det|the-Def-Art noun|cookie noun|jar .
+%gra:	1|0|ROOT 2|3|DET 3|5|NSUBJ 4|5|AUX 5|1|CCOMP 6|8|CASE 7|8|NMOD-POSS 8|5|OBL 9|11|CC 10|8|CONJ 11|5|CONJ 12|11|OBJ 13|17|CASE 14|17|CASE 15|17|DET 16|17|COMPOUND 17|11|OBL 18|1|PUNCT
+*PAR:	and she's begging for cookies the girl is . 15343_18343
+%mor:	cconj|and noun|she-Plur verb|begg-Ger-S adp|for noun|cookie-Plur det|the-Def-Art noun|girl-Acc aux|be-Fin-Ind-Pres-S3 .
+%gra:	1|2|CC 2|0|ROOT 3|2|ACL 4|5|CASE 5|3|OBL 6|7|DET 7|3|OBJ 8|3|COP 9|2|PUNCT
+*PAR:	coming back to the sink let's see here . [+ exc] 19804_21844
+%mor:	verb|come-Part-Pres-S adv|back adp|to det|the-Def-Art noun|sink noun|let-Plur verb|see-Fin-Imp-S adv|here .
+%gra:	1|7|CSUBJ 2|1|ADVMOD 3|6|CASE 4|6|DET 5|6|COMPOUND 6|1|OBL 7|0|ROOT 8|7|ADVMOD 9|7|PUNCT
+*PAR:	aw mama's steppin(g) in the water . 23989_25403
+%mor:	intj|aw noun|mama-Plur verb|step-Ger-S adp|in det|the-Def-Art noun|water .
+%gra:	1|2|DISCOURSE 2|3|NSUBJ 3|0|ROOT 4|6|CASE 5|6|DET 6|3|OBL 7|3|PUNCT
+*PAR:	and I [/] &+s &=clears:throat I said the sink was running over . 25530_29033
+%mor:	cconj|and pron|I-Prs-Nom-S1 verb|say-Fin-Ind-Past-S1-irr det|the-Def-Art noun|sink aux|be-Fin-Ind-Past-S3-irr verb|run-Part-Pres-S adv|over .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|5|DET 5|7|NSUBJ 6|7|AUX 7|3|CCOMP 8|7|ADVMOD 9|3|PUNCT
+*PAR:	she's dryin(g) dishes . 29549_30779
+%mor:	intj|shes noun|drying-Ger noun|dish-Plur .
+%gra:	1|3|DISCOURSE 2|3|COMPOUND 3|0|ROOT 4|3|PUNCT
+*PAR:	wait a minute . [+ exc] 32042_32332
+%mor:	verb|wait-Fin-Imp-S det|a-Ind-Art noun|minute .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBL-UNMARKED 4|1|PUNCT
+*PAR:	what the devil is xxx ? [+ exc] 32505_33685
+%mor:	pron|what-Int-S1 det|the-Def-Art propn|devil aux|be-Fin-Ind-Pres-S3 ?
+%gra:	1|0|ROOT 2|3|DET 3|1|NSUBJ 4|1|COP 5|1|PUNCT
+*PAR:	(.) there is some(th)in(g) but I don't know what it is written on the grass it seems . 38484_43393
+%mor:	pron|there-Int-S1 verb|be-Fin-Ind-Pres-S3 pron|something-Ind-S1 cconj|but pron|I-Prs-Nom-S1 adv|dont verb|know-Fin-Ind-Pres-S1 pron|what-Rel-S1 pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Pres-S3 verb|write-Part-Past-S-irr adp|on det|the-Def-Art noun|grass pron|it-Prs-Nom-S3 verb|seem-Fin-Ind-Pres-S3 .
+%gra:	1|2|EXPL 2|0|ROOT 3|2|NSUBJ 4|7|CC 5|7|NSUBJ 6|7|ADVMOD 7|2|CONJ 8|11|OBJ 9|11|NSUBJ-PASS 10|11|AUX-PASS 11|7|CCOMP 12|14|CASE 13|14|DET 14|11|OBL 15|16|NSUBJ 16|14|ACL-RELCL 17|2|PUNCT
+*INV:	&=laughs I never noticed that . 45406_45996
+%mor:	pron|I-Prs-Nom-S1 adv|never verb|notice-Fin-Ind-Past-S1 pron|that-Dem .
+%gra:	1|3|NSUBJ 2|3|ADVMOD 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*PAR:	+< what is that ? [+ exc] 46012_46412
+%mor:	pron|what-Int-S1 aux|be-Fin-Ind-Pres-S3 pron|that-Dem ?
+%gra:	1|0|ROOT 2|1|COP 3|1|NSUBJ 4|1|PUNCT
+*INV:	I don't know . 46707_47250
+%mor:	pron|I-Prs-Nom-S1 adv|dont verb|know-Fin-Ind-Pres-S1 .
+%gra:	1|3|NSUBJ 2|3|ADVMOD 3|0|ROOT 4|3|PUNCT
+*PAR:	and (.) the curtains . [+ gram] 49169_52150
+%mor:	cconj|and det|the-Def-Art noun|curtain-Plur .
+%gra:	1|3|CC 2|3|DET 3|0|ROOT 4|3|PUNCT
+*PAR:	that's a p@l p@l somethin(g) there . [+ es] 55476_57614
+%mor:	aux|that-Fin-Ind-Pres-S3 det|a-Ind-Art l|p l|p pron|something-Ind-S1 adv|there .
+%gra:	1|5|COP 2|4|DET 3|4|COMPOUND 4|5|COMPOUND 5|0|ROOT 6|5|ADVMOD 7|5|PUNCT
+*PAR:	hm (...) &=coughs let's see . [+ exc]
+%mor:	intj|hm verb|let-Fin-Imp-S~pron|we-Prs-Acc-P1 verb|see-Inf-S .
+%gra:	1|2|DISCOURSE 2|0|ROOT 3|2|OBJ 4|2|XCOMP 5|2|PUNCT
+*PAR:	I don't see anything else there . [+ exc] 75411_76891
+%mor:	pron|I-Prs-Nom-S1 adv|dont verb|see-Fin-Ind-Pres-S1 pron|anything-Ind-S1 adj|else-S1 adv|there .
+%gra:	1|3|NSUBJ 2|3|ADVMOD 3|0|ROOT 4|3|OBJ 5|4|AMOD 6|3|ADVMOD 7|3|PUNCT
+*PAR:	she's steppin(g) in the water . 78192_79569
+%mor:	noun|she verb|step-Part-Pres-S adp|in det|the-Def-Art noun|water .
+%gra:	1|0|ROOT 2|1|ACL 3|5|CASE 4|5|DET 5|2|OBL 6|1|PUNCT
+*PAR:	the sink's runnin(g) over . 80904_82054
+%mor:	det|the-Def-Art noun|sink-Plur verb|run-Ger-S adp|over .
+%gra:	1|2|DET 2|0|ROOT 3|2|ACL 4|3|COMPOUND-PRT 5|2|PUNCT
+*PAR:	(..) that spells somethin(g) down there but I can't see it . 89813_92363
+%mor:	pron|that-Dem verb|spell-Fin-Ind-Pres-S3 pron|something-Ind-S1 adp|down adv|there cconj|but pron|I-Prs-Nom-S1 aux|cant-Fin-S verb|see-Inf-S pron|it-Prs-Acc-S3 .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|OBJ 4|2|COMPOUND-PRT 5|2|ADVMOD 6|9|CC 7|9|NSUBJ 8|9|AUX 9|2|CONJ 10|9|OBJ 11|2|PUNCT
+*PAR:	&=coughs xxx so far xxx . [+ exc]
+%mor:	adv|so adv|far .
+%gra:	1|2|ADVMOD 2|0|ROOT 3|2|PUNCT
+*PAR:	and he's on a [/] a stool that's gonna fall over while they're stealin(g) cookies . 100608_106488
+%mor:	cconj|and noun|he-Plur adp|on det|a-Ind-Art noun|stool pron|that-Prs-S1 part|go verb|fall-Inf-S adv|over sconj|while sconj|their verb|steal-Part-Pres-S noun|cookie-Plur-Acc .
+%gra:	1|8|CC 2|8|NSUBJ 3|5|CASE 4|5|DET 5|8|OBL 6|8|NSUBJ 7|8|AUX 8|0|ROOT 9|8|ADVMOD 10|12|MARK 11|12|MARK 12|8|ADVCL 13|12|OBJ 14|8|PUNCT
+*PAR:	and there's a plate and two cups on the sink and she's got a plate in her hand . 109056_113854
+%mor:	cconj|and verb|there-Fin-Ind-Pres-S3 det|a-Ind-Art noun|plate-Acc cconj|and num|two noun|cup-Plur adp|on det|the-Def-Art noun|sink cconj|and noun|she-Plur verb|get-Fin-Ind-Past-S3-irr det|a-Ind-Art noun|plate-Acc adp|in pron|her-Prs-Gen-S3 noun|hand .
+%gra:	1|2|CC 2|0|ROOT 3|4|DET 4|2|OBJ 5|7|CC 6|7|NUMMOD 7|4|CONJ 8|10|CASE 9|10|DET 10|7|NMOD 11|13|CC 12|13|NSUBJ 13|2|CONJ 14|15|DET 15|13|OBJ 16|18|CASE 17|18|NMOD-POSS 18|13|OBL 19|2|PUNCT
+*PAR:	(.) I don't see anything else . [+ exc] 118626_119806
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|see-Inf-S pron|anything-Ind-S1 adj|else-S1 .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|0|ROOT 5|4|OBJ 6|5|AMOD 7|4|PUNCT
+*INV:	okay . 120246_120506
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+@End

@@ -1,0 +1,53 @@
+@UTF8
+@PID:	11312/a-00090848-0
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt|PAR|65;00.|male|Control||Participant|||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	297-2, audio
+@Comment:	age is educated estimate , extrapolated from incomplete demographic data
+@G:	Cookie
+*PAR:	there's a girl waiting to get a cookie from I guess her brother . 1520_6550
+%mor:	verb|there-Fin-Ind-Pres-S3 det|a-Ind-Art noun|girl-Acc verb|wait-Ger-S part|to verb|get-Inf-S det|a-Ind-Art noun|cookie-Acc sconj|from pron|I-Prs-Nom-S1 verb|guess-Fin-Ind-Pres-S1 pron|her-Prs-Gen-S3 noun|brother-Acc .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|3|ACL 5|6|MARK 6|4|XCOMP 7|8|DET 8|6|OBJ 9|11|MARK 10|11|NSUBJ 11|6|ADVCL 12|13|NMOD-POSS 13|11|OBJ 14|1|PUNCT
+*PAR:	the chair's [: stool's] [* s:r] tippin(g) over where <he's in> [//] he's into the cookie jar in the cupboard . 7031_12202
+%mor:	det|the-Def-Art noun|stool-Plur noun|tipping-Ger adp|over adv|where noun|he-Plur adp|into det|the-Def-Art noun|cookie noun|jar adp|in det|the-Def-Art noun|cupboard .
+%gra:	1|2|DET 2|3|NSUBJ 3|0|ROOT 4|5|CASE 5|3|OBL 6|3|ADVCL 7|10|CASE 8|10|DET 9|10|COMPOUND 10|3|OBL 11|13|CASE 12|13|DET 13|10|NMOD 14|3|PUNCT
+*PAR:	woman's washing dishes . [+ gram] 13847_15228
+%mor:	noun|woman-Plur noun|washing-Ger noun|dish-Plur .
+%gra:	1|3|COMPOUND 2|3|COMPOUND 3|0|ROOT 4|3|PUNCT
+*PAR:	sink's overflowing . [+ gram] 15531_16431
+%mor:	noun|sink noun|overflow-Ger .
+%gra:	1|2|COMPOUND 2|0|ROOT 3|2|PUNCT
+*PAR:	window's open . [+ gram] 18318_19397
+%mor:	noun|window-Plur adj|open-S1 .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|PUNCT
+*PAR:	(..) where the kid's into the cookie jar the lid's off o(f) course . 29418_32218
+%mor:	adv|where det|the-Def-Art noun|kid-Plur adp|into det|the-Def-Art noun|cookie verb|jar-Fin-Ind-Pres-S3 det|the-Def-Art noun|lid-Plur-Acc adp|off adp|of noun|course .
+%gra:	1|7|ADVMOD 2|3|DET 3|7|NSUBJ 4|6|CASE 5|6|DET 6|3|NMOD 7|0|ROOT 8|9|DET 9|7|OBJ 10|12|CASE 11|12|CASE 12|7|OBL 13|7|PUNCT
+*INV:	mhm .
+%mor:	intj|mhm .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	I don't know whether the curtains are blowing or not . 36432_38316
+%mor:	pron|I-Prs-Nom-S1 adv|dont verb|know-Fin-Ind-Pres-S1 sconj|whether det|the-Def-Art noun|curtain-Plur aux|be-Fin-Ind-Pres-P3 verb|blow-Part-Pres-S cconj|or part|not .
+%gra:	1|3|NSUBJ 2|3|ADVMOD 3|0|ROOT 4|8|MARK 5|6|DET 6|8|NSUBJ 7|8|AUX 8|3|CCOMP 9|10|CC 10|8|CONJ 11|3|PUNCT
+*PAR:	(..) these are the action things you want right ? [+ exc] 47944_49704
+%mor:	pron|this-Dem-P1 aux|be-Fin-Ind-Pres-P3 det|the-Def-Art noun|action noun|thing-Plur pron|you-Prs-Nom-S2 verb|want-Fin-Ind-Pres-S2 adv|right ?
+%gra:	1|5|NSUBJ 2|5|COP 3|5|DET 4|5|COMPOUND 5|0|ROOT 6|7|NSUBJ 7|5|ACL-RELCL 8|5|ADVMOD 9|5|PUNCT
+*INV:	+< right . 49626_49710
+%mor:	adj|right-S1 .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	anything else ?
+%mor:	pron|anything-Ind-S1 adj|else-S1 ?
+%gra:	1|0|ROOT 2|1|AMOD 3|1|PUNCT
+*PAR:	no I don't see anything else . [+ exc] 56857_58148
+%mor:	intj|no pron|I-Prs-Nom-S1 adv|dont verb|see-Inf-S pron|anything-Ind-S1 adj|else-S1 .
+%gra:	1|4|DISCOURSE 2|4|NSUBJ 3|4|ADVMOD 4|0|ROOT 5|4|OBJ 6|5|AMOD 7|4|PUNCT
+*PAR:	what (di)d I miss ? [+ exc] 58240_58850
+%mor:	pron|what-Int-S1 aux|do-Fin-Ind-Past-S1-irr pron|I-Prs-Nom-S1 verb|miss-Inf-S ?
+%gra:	1|4|OBJ 2|4|AUX 3|4|NSUBJ 4|0|ROOT 5|4|PUNCT
+*INV:	no you did fine &=laughs . 59293_59500
+%mor:	intj|no pron|you-Prs-Nom-S2 aux|do-Fin-Ind-Past-S2-irr adj|fine-S1 .
+%gra:	1|3|DISCOURSE 2|3|NSUBJ 3|0|ROOT 4|3|ADVMOD 5|3|PUNCT
+@End

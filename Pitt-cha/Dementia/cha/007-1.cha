@@ -1,0 +1,61 @@
+@UTF8
+@PID:	11312/a-00090325-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|73;|female|ProbableAD||Participant|19||
+@Media:	007-1, audio
+@G:	Cookie
+*INV:	www .
+%exp:	recording prep
+*INV:	there it is . 2159_2699
+%mor:	pron|there-Int-S1 pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Pres-S3 .
+%gra:	1|3|EXPL 2|3|NSUBJ 3|0|ROOT 4|3|PUNCT
+*PAR:	xxx . [+ exc]
+*INV:	yeah .
+%mor:	intj|yeah .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	can I look at it and tell you ? [+ exc]
+%mor:	aux|can-Fin-S pron|I-Prs-Nom-S1 verb|look-Inf-S adp|at pron|it-Prs-Acc-S3 cconj|and verb|tell-Inf-S pron|you-Prs-Acc-S2 ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|0|ROOT 4|5|CASE 5|3|OBL 6|7|CC 7|3|CONJ 8|7|IOBJ 9|3|PUNCT
+*INV:	just tell me as you see it there mhm . 13955_15685
+%mor:	adv|just verb|tell-Fin-Imp-S pron|I-Prs-Acc-S1 sconj|as pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 pron|it-Prs-Acc-S3 adv|there intj|mhm .
+%gra:	1|2|ADVMOD 2|0|ROOT 3|2|IOBJ 4|6|MARK 5|6|NSUBJ 6|2|ADVCL 7|6|OBJ 8|6|ADVMOD 9|2|DISCOURSE 10|2|PUNCT
+*PAR:	+< oh okay . [+ exc]
+%mor:	intj|oh intj|okay .
+%gra:	1|2|DISCOURSE 2|0|ROOT 3|2|PUNCT
+*PAR:	well there's a girl and a boy and the boy's in the cookie jar . 15997_18954
+%mor:	intj|well verb|there-Fin-Ind-Pres-S3 det|a-Ind-Art noun|girl-Acc cconj|and det|a-Ind-Art noun|boy cconj|and det|the-Def-Art noun|boy-Plur adp|in det|the-Def-Art noun|cookie noun|jar .
+%gra:	1|2|DISCOURSE 2|0|ROOT 3|4|DET 4|2|OBJ 5|7|CC 6|7|DET 7|4|CONJ 8|10|CC 9|10|DET 10|4|CONJ 11|14|CASE 12|14|DET 13|14|COMPOUND 14|10|NMOD 15|2|PUNCT
+*PAR:	and he's standing on a stool that's tipping over . 19020_22360
+%mor:	cconj|and noun|he-Plur verb|stand-Ger-S adp|on det|a-Ind-Art noun|stool noun|that-Plur verb|tip-Ger-S adp|over .
+%gra:	1|3|CC 2|0|ROOT 3|2|ACL 4|7|CASE 5|7|DET 6|7|COMPOUND 7|3|OBL 8|7|ACL 9|8|COMPOUND-PRT 10|2|PUNCT
+*PAR:	and he's in the kitchen . 22624_23523
+%mor:	cconj|and noun|he-Plur adp|in det|the-Def-Art noun|kitchen .
+%gra:	1|2|CC 2|0|ROOT 3|5|CASE 4|5|DET 5|2|NMOD 6|2|PUNCT
+*PAR:	and the mother's in the kitchen running the water at the sink . 23869_26449
+%mor:	cconj|and det|the-Def-Art noun|mother-Plur adp|in det|the-Def-Art noun|kitchen verb|run-Ger-S det|the-Def-Art noun|water-Acc adp|at det|the-Def-Art noun|sink .
+%gra:	1|3|CC 2|3|DET 3|0|ROOT 4|6|CASE 5|6|DET 6|3|NMOD 7|3|ACL 8|9|DET 9|7|OBJ 10|12|CASE 11|12|DET 12|7|OBL 13|3|PUNCT
+*PAR:	and the water's running over and it's all over the floor . 30615_30675
+%mor:	cconj|and det|the-Def-Art noun|water-Plur verb|run-Ger-S adp|over cconj|and pron|its-Prs-Gen-S3 adv|all adp|over det|the-Def-Art noun|floor .
+%gra:	1|3|CC 2|3|DET 3|0|ROOT 4|3|ACL 5|4|COMPOUND-PRT 6|7|CC 7|11|NMOD-POSS 8|11|ADVMOD 9|11|CASE 10|11|DET 11|4|OBL 12|3|PUNCT
+*PAR:	and there are curtains at the windows .
+%mor:	cconj|and pron|there-Int-S1 verb|be-Fin-Ind-Pres-P3 noun|curtain-Plur adp|at det|the-Def-Art noun|window-Plur .
+%gra:	1|3|CC 2|3|EXPL 3|0|ROOT 4|3|NSUBJ 5|7|CASE 6|7|DET 7|4|NMOD 8|3|PUNCT
+*PAR:	and there are cups and a plate on the &-uh pantry . 34290_34989
+%mor:	cconj|and pron|there-Int-S1 verb|be-Fin-Ind-Pres-P3 noun|cup-Plur cconj|and det|a-Ind-Art noun|plate adp|on det|the-Def-Art noun|pantry .
+%gra:	1|3|CC 2|3|EXPL 3|0|ROOT 4|3|NSUBJ 5|7|CC 6|7|DET 7|4|CONJ 8|10|CASE 9|10|DET 10|7|NMOD 11|3|PUNCT
+*PAR:	and &-uh &-uh the [/] the [//] outside the window there's a path leading to a garage it looks like . 42421_46741
+%mor:	cconj|and adp|outside det|the-Def-Art noun|window verb|there-Fin-Ind-Pres-S3 det|a-Ind-Art noun|path-Acc verb|lead-Ger-S adp|to det|a-Ind-Art noun|garage pron|it-Prs-Nom-S3 verb|look-Fin-Ind-Pres-S3 adp|like .
+%gra:	1|5|CC 2|4|CASE 3|4|DET 4|5|OBL 5|0|ROOT 6|7|DET 7|5|OBJ 8|7|ACL 9|11|CASE 10|11|DET 11|8|OBL 12|13|NSUBJ 13|11|ACL-RELCL 14|13|OBL 15|5|PUNCT
+*PAR:	and there are curtains there . 46982_47732
+%mor:	cconj|and pron|there-Int-S1 verb|be-Fin-Ind-Pres-P3 noun|curtain-Plur adv|there .
+%gra:	1|3|CC 2|3|EXPL 3|0|ROOT 4|3|NSUBJ 5|3|ADVMOD 6|3|PUNCT
+*PAR:	and &-uh that's about all there . [+ exc] 50372_51122
+%mor:	cconj|and aux|that-Fin-Ind-Pres-S3 adv|about det|all-Def-Tot adv|there .
+%gra:	1|4|CC 2|4|COP 3|4|ADVMOD 4|5|ADVMOD 5|0|ROOT 6|5|PUNCT
+*INV:	okay . 53016_53306
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+@End

@@ -1,0 +1,35 @@
+@UTF8
+@PID:	11312/a-00090333-0
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt|PAR|67;|male|MCI||Participant|28||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	016-0, audio
+@G:	Cookie
+*PAR:	guy or a boy reaching for a cookie jar &-uh tilting on the stool . [+ gram] 3490_10186
+%mor:	noun|guy cconj|or det|a-Ind-Art noun|boy verb|reach-Ger-S adp|for det|a-Ind-Art noun|cookie noun|jar verb|tilt-Ger-S adp|on det|the-Def-Art noun|stool .
+%gra:	1|0|ROOT 2|4|CC 3|4|DET 4|1|CONJ 5|4|ACL 6|9|CASE 7|9|DET 8|9|COMPOUND 9|5|OBL 10|9|ACL 11|13|CASE 12|13|DET 13|10|OBL 14|1|PUNCT
+*PAR:	and a girl asking for one pointing to her mouth . [+ gram] 10841_15161
+%mor:	cconj|and det|a-Ind-Art noun|girl verb|ask-Ger-S adp|for num|one verb|point-Ger-S adp|to pron|her-Prs-Gen-S3 noun|mouth .
+%gra:	1|3|CC 2|3|DET 3|0|ROOT 4|3|ACL 5|6|CASE 6|4|OBL 7|6|ACL 8|10|CASE 9|10|NMOD-POSS 10|7|OBL 11|3|PUNCT
+*INV:	&=laughs .
+*PAR:	a woman washing [//] &-uh drying dishes . [+ gram] 16328_20914
+%mor:	det|a-Ind-Art noun|woman verb|drying-Ger-S noun|dish-Plur .
+%gra:	1|4|DET 2|4|COMPOUND 3|4|AMOD 4|0|ROOT 5|4|PUNCT
+*PAR:	&-uh outdoors I don't see anything going on but there is a walkway and &-uh grass , shrubs , and &-uh looks like some sort of a pattern on the wall . 31529_46048
+%mor:	noun|outdoors-Plur pron|I-Prs-Nom-S1 adv|dont verb|see-Fin-Ind-Pres-S1 pron|anything-Ind-S1 verb|go-Ger-S adp|on cconj|but pron|there-Int-S1 verb|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|walkway cconj|and noun|grass cm|cm noun|shrub-Plur cm|cm cconj|and verb|look-Fin-Ind-Pres-S3 adp|like det|some-Def-Ind noun|sort adp|of det|a-Ind-Art noun|pattern adp|on det|the-Def-Art noun|wall .
+%gra:	1|0|ROOT 2|4|NSUBJ 3|4|ADVMOD 4|1|ACL-RELCL 5|4|OBJ 6|5|ACL 7|6|COMPOUND-PRT 8|10|CC 9|10|EXPL 10|4|CONJ 11|12|DET 12|10|NSUBJ 13|14|CC 14|12|CONJ 15|16|PUNCT 16|12|CONJ 17|19|PUNCT 18|19|CC 19|10|CONJ 20|22|CASE 21|22|DET 22|19|OBL 23|25|CASE 24|25|DET 25|22|NMOD 26|28|CASE 27|28|DET 28|25|NMOD 29|1|PUNCT
+*PAR:	and there's a tree which you can see through the half open window . 48459_51819
+%mor:	cconj|and verb|there-Fin-Ind-Pres-S3 det|a-Ind-Art noun|tree-Acc pron|which-Rel-S1 pron|you-Prs-Nom-S2 aux|can-Fin-S verb|see-Inf-S adp|through det|the-Def-Art noun|half adj|open-S1 noun|window .
+%gra:	1|2|CC 2|0|ROOT 3|4|DET 4|2|OBJ 5|8|OBJ 6|8|NSUBJ 7|8|AUX 8|4|ACL-RELCL 9|13|CASE 10|13|DET 11|12|COMPOUND 12|13|AMOD 13|8|OBL 14|2|PUNCT
+*INV:	okay ?
+%mor:	intj|okay ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	mhm . [+ exc]
+%mor:	intj|mhm .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	okay thank you .
+%mor:	intj|okay verb|thank-Fin-Ind-Pres-S1 pron|you-Prs-Acc-S2 .
+%gra:	1|2|DISCOURSE 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+@End

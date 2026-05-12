@@ -1,0 +1,83 @@
+@UTF8
+@PID:	11312/a-00090800-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|68;|male|Control||Participant|29||
+@Media:	210-1, audio
+@G:	Cookie
+*INV:	tell me all the action you see going on in the picture .
+%mor:	verb|tell-Fin-Imp-S pron|I-Prs-Acc-S1 det|all-Def-Tot det|the-Def-Art noun|action-Acc pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|go-Ger-S adp|on adp|in det|the-Def-Art noun|picture .
+%gra:	1|0|ROOT 2|1|IOBJ 3|5|DET-PREDET 4|5|DET 5|1|OBJ 6|7|NSUBJ 7|5|ACL-RELCL 8|7|XCOMP 9|8|COMPOUND-PRT 10|12|CASE 11|12|DET 12|8|OBL 13|1|PUNCT
+*PAR:	mother's dryin(g) the dishes . 5066_6286
+%mor:	noun|mother-Plur verb|drying-Ger-S det|the-Def-Art noun|dish-Plur-Acc .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*PAR:	Junior's in the cookie jar handin(g) a cookie to his little sister . 7359_11859
+%mor:	noun|punior-Plur adp|in det|the-Def-Art noun|cookie noun|jar verb|hand-Ger-S det|a-Ind-Art noun|cookie-Acc adp|to pron|his-Prs-Gen-S3 adj|little-S1 noun|sister .
+%gra:	1|0|ROOT 2|5|CASE 3|5|DET 4|5|COMPOUND 5|1|NMOD 6|5|ACL 7|8|DET 8|6|OBJ 9|12|CASE 10|12|NMOD-POSS 11|12|AMOD 12|6|OBL 13|1|PUNCT
+*PAR:	the water's spilling out o(f) the sink . 12486_14289
+%mor:	det|the-Def-Art noun|water-Plur verb|spill-Ger-S adp|out adp|of det|the-Def-Art noun|sink .
+%gra:	1|2|DET 2|3|NSUBJ 3|0|ROOT 4|7|CASE 5|7|CASE 6|7|DET 7|3|OBL 8|3|PUNCT
+*PAR:	the window is open . 14591_15681
+%mor:	det|the-Def-Art noun|window aux|be-Fin-Ind-Pres-S3 adj|open-S1 .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|COP 4|0|ROOT 5|4|PUNCT
+*PAR:	the door to the cupboard where the cookie jar is open and the [/] the top of the cookie jar is off . 15772_22759
+%mor:	det|the-Def-Art noun|door adp|to det|the-Def-Art noun|cupboard adv|where det|the-Def-Art noun|cookie noun|jar aux|be-Fin-Ind-Pres-S3 adj|open-S1 cconj|and det|the-Def-Art noun|top adp|of det|the-Def-Art noun|cookie noun|jar aux|be-Fin-Ind-Pres-S3 adv|off .
+%gra:	1|2|DET 2|0|ROOT 3|5|CASE 4|5|DET 5|2|NMOD 6|11|ADVMOD 7|9|DET 8|9|COMPOUND 9|11|NSUBJ 10|11|COP 11|5|ACL-RELCL 12|20|CC 13|14|DET 14|20|NSUBJ 15|18|CASE 16|18|DET 17|18|COMPOUND 18|14|NMOD 19|20|COP 20|2|CONJ 21|2|PUNCT
+*PAR:	cookie jar is quite full . [+ gram] 23205_24738
+%mor:	noun|cookie noun|jar aux|be-Fin-Ind-Pres-S3 adv|quite adj|full-S1 .
+%gra:	1|2|COMPOUND 2|5|NSUBJ 3|5|COP 4|5|ADVMOD 5|0|ROOT 6|5|PUNCT
+*PAR:	mother has two cups and a dish on the sink . 25785_29315
+%mor:	noun|mother verb|have-Fin-Ind-Pres-S3 num|two noun|cup-Plur-Acc cconj|and det|a-Ind-Art noun|dish adp|on det|the-Def-Art noun|sink .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|4|NUMMOD 4|2|OBJ 5|7|CC 6|7|DET 7|4|CONJ 8|10|CASE 9|10|DET 10|7|NMOD 11|2|PUNCT
+*PAR:	looks like a nice day . [+ gram] 30507_32027
+%mor:	verb|look-Fin-Ind-Pres-S3 adp|like det|a-Ind-Art adj|nice-S1 noun|day .
+%gra:	1|0|ROOT 2|5|CASE 3|5|DET 4|5|AMOD 5|1|OBL 6|1|PUNCT
+*PAR:	&-uh action we're lookin(g) for action . [+ exc] 33603_35543
+%mor:	noun|action noun|were verb|look-Part-Pres-S adp|for noun|action .
+%gra:	1|2|COMPOUND 2|0|ROOT 3|2|ACL 4|5|CASE 5|3|OBL 6|2|PUNCT
+*PAR:	the kitchen stool that Junior's on is about ready to fall over . 35611_39696
+%mor:	det|the-Def-Art noun|kitchen noun|stool pron|that-Rel propn|Junior adp|on aux|be-Fin-Ind-Pres-S3 adv|about adj|ready-S1 part|to verb|fall-Inf-S adv|over .
+%gra:	1|3|DET 2|3|COMPOUND 3|9|NSUBJ 4|11|OBJ 5|6|NSUBJ 6|3|ACL-RELCL 7|9|COP 8|9|ADVMOD 9|0|ROOT 10|11|MARK 11|9|XCOMP 12|11|ADVMOD 13|9|PUNCT
+*PAR:	what else do we have ? [+ exc] 42299_43199
+%mor:	pron|what-Int-S1 adv|else aux|do-Fin-Ind-Pres-P1 pron|we-Prs-Nom-P1 verb|have-Inf-S ?
+%gra:	1|5|OBJ 2|1|ADVMOD 3|5|AUX 4|5|NSUBJ 5|0|ROOT 6|5|PUNCT
+*PAR:	&-uh that's all the action I see . [+ exc] 45890_48060
+%mor:	aux|that-Fin-Ind-Pres-S3 det|all-Def-Tot det|the-Def-Art noun|action pron|I-Prs-Nom-S1 verb|see-Fin-Ind-Pres-S1 .
+%gra:	1|4|COP 2|4|DET-PREDET 3|4|DET 4|0|ROOT 5|6|NSUBJ 6|4|ACL-RELCL 7|4|PUNCT
+*PAR:	oh &-uh Sissy is holdin(g) her finger up to her mouth like +"/. 48575_52923
+%mor:	intj|oh propn|Sissy aux|be-Fin-Ind-Pres-S3 verb|hold-Part-Pres-S pron|her-Prs-Gen-S3 noun|finger-Acc adp|up adp|to pron|her-Prs-Gen-S3 noun|mouth adp|like +"/.
+%gra:	1|4|DISCOURSE 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|6|NMOD-POSS 6|4|OBJ 7|4|COMPOUND-PRT 8|10|CASE 9|10|NMOD-POSS 10|4|OBL 11|4|OBL 12|4|PUNCT
+*PAR:	+" don't make any noise or mother (wi)ll turn around . 53285_55811
+%mor:	adv|dont verb|make-Fin-Imp-S det|any-Def-Ind noun|noise-Acc cconj|or noun|mother aux|will-Fin-S verb|turn-Inf-S adv|around .
+%gra:	1|2|ADVMOD 2|0|ROOT 3|4|DET 4|2|OBJ 5|6|CC 6|4|CONJ 7|8|AUX 8|2|XCOMP 9|8|ADVMOD 10|2|PUNCT
+*PAR:	(.) I [//] (.) I've already said he's reachin(g) a cookie to her and goin(g) for another one just before the stool falls down . 61956_68865
+%mor:	aux|be-Fin-Ind-Pres-S1 adv|already verb|say-Fin-Ind-Past-S1-irr noun|he-Plur verb|reach-Ger-S det|a-Ind-Art noun|cookie-Acc adp|to pron|her-Prs-Acc-S3 cconj|and verb|go-Part-Pres-S adp|for det|another-Def-Ind noun|one adv|just sconj|before det|the-Def-Art noun|stool verb|fall-Fin-Ind-Pres-S3 adp|down .
+%gra:	1|3|AUX 2|3|ADVMOD 3|0|ROOT 4|5|NSUBJ 5|3|CCOMP 6|7|DET 7|5|OBJ 8|9|CASE 9|5|OBL 10|11|CC 11|5|CONJ 12|14|CASE 13|14|DET 14|11|OBL 15|19|ADVMOD 16|19|MARK 17|18|DET 18|19|NSUBJ 19|11|ADVCL 20|19|COMPOUND-PRT 21|3|PUNCT
+*PAR:	his socks are droopin(g) . 70362_71519
+%mor:	pron|his-Prs-Gen-S3 noun|sock-Plur aux|be-Fin-Ind-Pres-P3 verb|droop-Part-Pres-S .
+%gra:	1|2|NMOD-POSS 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|4|PUNCT
+*PAR:	does that count &=laughs ? [+ exc] 71623_72384
+%mor:	aux|do-Fin-Ind-Pres-S3 det|that-Def-Dem-Sing noun|count-Acc ?
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*INV:	&=laughs .
+*PAR:	&-uh I don't see anything outside . 76293_78194
+%mor:	pron|I-Prs-Nom-S1 adv|dont verb|see-Inf-Pres-S pron|anything-Ind-S1 adv|outside .
+%gra:	1|3|NSUBJ 2|3|ADVMOD 3|0|ROOT 4|3|OBJ 5|3|ADVMOD 6|3|PUNCT
+*PAR:	&-uh &-uh the curtains don't look like they're blowin(g) or anything . 78737_82695
+%mor:	det|the-Def-Art noun|curtain-Plur adv|dont verb|look-Fin-Ind-Pres-P3 sconj|like pron|their-Prs-Nom-P3 verb|blow-Part-Pres-S cconj|or pron|anything-Ind-S1 .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|ADVMOD 4|0|ROOT 5|7|MARK 6|7|NSUBJ 7|4|ADVCL 8|9|CC 9|7|CONJ 10|4|PUNCT
+*PAR:	mother's just standin(g) lookin(g) . 84164_85727
+%mor:	noun|mother-Plur adv|just noun|standing-Ger verb|look-Part-Pres-S .
+%gra:	1|4|NSUBJ 2|4|ADVMOD 3|4|COMPOUND 4|0|ROOT 5|4|PUNCT
+*PAR:	she's gonna get her feet wet in a minute . 85987_87618
+%mor:	verb|she-Fin-Imp-S3 adv|gonna verb|get-Inf-S pron|her-Prs-Gen-S3 noun|foot-Plur-Acc adj|wet-S1 adp|in det|a-Ind-Art noun|minute .
+%gra:	1|0|ROOT 2|3|ADVMOD 3|1|XCOMP 4|5|NMOD-POSS 5|3|OBJ 6|3|XCOMP 7|9|CASE 8|9|DET 9|6|OBL 10|1|PUNCT
+*INV:	okay that's fine . 88432_88550
+%mor:	intj|okay pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adj|fine-S1 .
+%gra:	1|4|DISCOURSE 2|4|NSUBJ 3|4|COP 4|0|ROOT 5|4|PUNCT
+*PAR:	okay . [+ exc] 89782_90243
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+@End

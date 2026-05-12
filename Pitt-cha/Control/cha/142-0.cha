@@ -1,0 +1,58 @@
+@UTF8
+@PID:	11312/a-00090759-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|58;|female|Control||Participant|30||
+@Media:	142-0, audio
+@G:	Cookie
+*INV:	here's the picture .
+%mor:	verb|here-Fin-Ind-Pres-S3 det|the-Def-Art noun|picture-Acc .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*INV:	tell me all of the action .
+%mor:	verb|tell-Fin-Imp-S pron|I-Prs-Acc-S1 det|all-Def-Tot adp|of det|the-Def-Art noun|action .
+%gra:	1|0|ROOT 2|1|IOBJ 3|1|OBJ 4|6|CASE 5|6|DET 6|3|NMOD 7|1|PUNCT
+*PAR:	&-uh there's a boy reaching &=clears:throat on [/] he's on a stool reaching for cookies . 9398_11421
+%mor:	verb|there-Fin-Ind-Pres-S3 det|a-Ind-Art noun|boy-Acc verb|reach-Ger-S noun|he-Plur-Acc adp|on det|a-Ind-Art noun|stool verb|reach-Ger-S adp|for noun|cookie-Plur .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|3|ACL 5|4|OBJ 6|8|CASE 7|8|DET 8|4|OBL 9|8|ACL 10|11|CASE 11|9|OBL 12|1|PUNCT
+*PAR:	and the stool is ready to fall over .
+%mor:	cconj|and det|the-Def-Art noun|stool aux|be-Fin-Ind-Pres-S3 adj|ready-S1 part|to verb|fall-Inf-S adv|over .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|COP 5|0|ROOT 6|7|MARK 7|5|XCOMP 8|7|ADVMOD 9|5|PUNCT
+*PAR:	&-uh he's got one hand in the cookie jar . 18421_18621
+%mor:	noun|he-Plur verb|get-Fin-Ind-Past-P3-irr num|one noun|hand-Acc adp|in det|the-Def-Art noun|cookie noun|jar .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|4|NUMMOD 4|2|OBJ 5|8|CASE 6|8|DET 7|8|COMPOUND 8|2|OBL 9|2|PUNCT
+*PAR:	and he's got a cookie in the left hand .
+%mor:	cconj|and noun|he-Plur verb|get-Fin-Ind-Past-S-irr det|a-Ind-Art noun|cookie-Acc adp|in det|the-Def-Art adj|left-S1 noun|hand .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|9|CASE 7|9|DET 8|9|AMOD 9|3|OBL 10|3|PUNCT
+*PAR:	and his girl's standing beside him . 23269_24291
+%mor:	cconj|and pron|his-Prs-Gen-S3 noun|girl-Plur noun|standing-Ger adp|beside pron|he-Prs-Acc-S3 .
+%gra:	1|4|CC 2|3|NMOD-POSS 3|4|COMPOUND 4|0|ROOT 5|6|CASE 6|4|NMOD 7|4|PUNCT
+*INV:	&*PAR:am_I_going_too_fast go ahead .
+%mor:	verb|go-Fin-Imp-S adv|ahead .
+%gra:	1|0|ROOT 2|1|ADVMOD 3|1|PUNCT
+*PAR:	and &-uh she's reaching for the cookie that he has in his hand . 29604_30744
+%mor:	cconj|and noun|she verb|reach-Part-Pres-S adp|for det|the-Def-Art noun|cookie pron|that-Rel pron|he-Prs-Nom-S3 verb|have-Fin-Ind-Pres-S3 adp|in pron|his-Prs-Gen-S3 noun|hand .
+%gra:	1|2|CC 2|0|ROOT 3|2|ACL 4|6|CASE 5|6|DET 6|3|OBL 7|9|OBJ 8|9|NSUBJ 9|6|ACL-RELCL 10|12|CASE 11|12|NMOD-POSS 12|9|OBL 13|2|PUNCT
+*PAR:	and she has her right finger up to her lips . 32847_35348
+%mor:	cconj|and pron|she-Prs-Nom-S3 verb|have-Fin-Ind-Pres-S3 pron|her-Prs-Gen-S3 adj|right-S1 noun|finger-Acc adp|up adp|to pron|her-Prs-Gen-S3 noun|lip-Plur .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|6|NMOD-POSS 5|6|AMOD 6|3|OBJ 7|3|COMPOUND-PRT 8|10|CASE 9|10|NMOD-POSS 10|3|OBL 11|3|PUNCT
+*PAR:	&-uh there's a woman presumably the mother standing at the sink drying dishes . 38030_43194
+%mor:	verb|there-Fin-Ind-Pres-S3 det|a-Ind-Art noun|woman-Acc adv|presumably det|the-Def-Art noun|mother verb|stand-Ger-S adp|at det|the-Def-Art noun|sink noun|drying-Ger noun|dish-Plur .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|6|ADVMOD 5|6|DET 6|3|APPOS 7|6|ACL 8|12|CASE 9|12|DET 10|12|COMPOUND 11|12|COMPOUND 12|7|OBL 13|1|PUNCT
+*PAR:	and the sink is overflowing with water onto the floor . 46097_47919
+%mor:	cconj|and det|the-Def-Art noun|sink aux|be-Fin-Ind-Pres-S3 verb|overflow-Part-Pres-S adp|with noun|water adp|onto det|the-Def-Art noun|floor .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|7|CASE 7|5|OBL 8|10|CASE 9|10|DET 10|5|OBL 11|5|PUNCT
+*PAR:	&-um you just want the action &*INV:mhm ? [+ exc] 52160_52720
+%mor:	pron|you-Prs-Nom-S2 adv|just verb|want-Fin-Ind-Pres-S2 det|the-Def-Art noun|action-Acc ?
+%gra:	1|3|NSUBJ 2|3|ADVMOD 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*PAR:	you just want the action . [+ exc]
+%mor:	pron|you-Prs-Nom-S2 adv|just verb|want-Fin-Ind-Pres-S2 det|the-Def-Art noun|action-Acc .
+%gra:	1|3|NSUBJ 2|3|ADVMOD 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*PAR:	<the faucet> [//] the water's coming out of the faucet . 59794_60931
+%mor:	det|the-Def-Art noun|water-Plur verb|come-Ger-S adp|out adp|of det|the-Def-Art noun|faucet .
+%gra:	1|2|DET 2|0|ROOT 3|2|ACL 4|7|CASE 5|7|CASE 6|7|DET 7|3|OBL 8|2|PUNCT
+*INV:	okay good thank you .
+%mor:	intj|okay adj|good-S1 verb|thank-Fin-Ind-Pres-S1 pron|you-Prs-Acc-S2 .
+%gra:	1|2|DISCOURSE 2|0|ROOT 3|2|PARATAXIS 4|3|OBJ 5|2|PUNCT
+@End

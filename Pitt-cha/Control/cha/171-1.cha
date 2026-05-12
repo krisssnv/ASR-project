@@ -1,0 +1,37 @@
+@UTF8
+@PID:	11312/a-00090783-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|66;|female|Control||Participant|30||
+@Media:	171-1, audio
+@G:	Cookie
+*INV:	and there's the picture . 260_840
+%mor:	cconj|and verb|there-Fin-Ind-Pres-S3 det|the-Def-Art noun|picture-Acc .
+%gra:	1|2|CC 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*PAR:	well let's see . [+ exc] 5186_5622
+%mor:	intj|well verb|let-Fin-Imp-S~pron|we-Prs-Acc-P1 verb|see-Inf-S .
+%gra:	1|2|DISCOURSE 2|0|ROOT 3|2|OBJ 4|2|XCOMP 5|2|PUNCT
+*PAR:	the boy is taking cookies out of the cookie jar . 5673_8550
+%mor:	det|the-Def-Art noun|boy aux|be-Fin-Ind-Pres-S3 verb|take-Part-Pres-S noun|cookie-Plur-Acc adp|out adp|of det|the-Def-Art noun|cookie noun|jar .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|10|CASE 7|10|CASE 8|10|DET 9|10|COMPOUND 10|4|OBL 11|4|PUNCT
+*PAR:	and the little girl is laughing . 9485_10593
+%mor:	cconj|and det|the-Def-Art adj|little-S1 noun|girl aux|be-Fin-Ind-Pres-S3 verb|laugh-Part-Pres-S .
+%gra:	1|6|CC 2|4|DET 3|4|AMOD 4|6|NSUBJ 5|6|COP 6|0|ROOT 7|6|PUNCT
+*PAR:	and the boy is falling off the stool . 10714_12645
+%mor:	cconj|and det|the-Def-Art noun|boy aux|be-Fin-Ind-Pres-S3 verb|fall-Part-Pres-S adp|off det|the-Def-Art noun|stool .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|8|CASE 7|8|DET 8|5|OBL 9|5|PUNCT
+*PAR:	and the mother's washing dishes . 12757_14219
+%mor:	cconj|and det|the-Def-Art noun|mother noun|washing-Ger noun|dish-Plur .
+%gra:	1|5|CC 2|5|DET 3|5|COMPOUND 4|5|COMPOUND 5|0|ROOT 6|5|PUNCT
+*PAR:	and the water is running over . 16143_16463
+%mor:	cconj|and det|the-Def-Art noun|water aux|be-Fin-Ind-Pres-S3 verb|run-Part-Pres-S adv|over .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|5|ADVMOD 7|5|PUNCT
+*PAR:	and (..) I don't know whether the wind is blowing or not &=laughs . [+ exc] 25109_26729
+%mor:	cconj|and pron|I-Prs-Nom-S1 adv|dont verb|know-Fin-Ind-Pres-S1 sconj|whether det|the-Def-Art noun|wind aux|be-Fin-Ind-Pres-S3 verb|blow-Part-Pres-S cconj|or part|not .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|ADVMOD 4|0|ROOT 5|9|MARK 6|7|DET 7|9|NSUBJ 8|9|AUX 9|4|CCOMP 10|11|CC 11|9|CONJ 12|4|PUNCT
+*INV:	okay . 31421_31538
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+@End

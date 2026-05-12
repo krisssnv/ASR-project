@@ -1,0 +1,62 @@
+@UTF8
+@PID:	11312/a-00090862-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|50;|male|Control||Participant|29||
+@Media:	336-1, audio
+@G:	Cookie
+*INV:	now I want you to tell me everything you see happening there . 260_2740
+%mor:	adv|now pron|I-Prs-Nom-S1 verb|want-Fin-Ind-Pres-S1 pron|you-Prs-Acc-S2 part|to verb|tell-Inf-S pron|I-Prs-Acc-S1 pron|everything-Tot-S1 pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|happen-Ger-S adv|there .
+%gra:	1|3|ADVMOD 2|3|NSUBJ 3|0|ROOT 4|3|OBJ 5|6|MARK 6|3|XCOMP 7|6|IOBJ 8|6|OBJ 9|10|NSUBJ 10|8|ACL-RELCL 11|10|XCOMP 12|11|ADVMOD 13|3|PUNCT
+*INV:	everything that you see going on in that picture . 3387_5553
+%mor:	pron|everything-Tot-S1 pron|that-Rel pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|go-Ger-S adp|on adp|in det|that-Def-Dem-Sing noun|picture .
+%gra:	1|0|ROOT 2|5|OBL 3|4|NSUBJ 4|1|ACL-RELCL 5|4|XCOMP 6|5|COMPOUND-PRT 7|9|CASE 8|9|DET 9|5|OBL 10|1|PUNCT
+*PAR:	&-uh (...) inside the room or every place ? [+ exc] 20952_22475
+%mor:	adp|inside det|the-Def-Art noun|room cconj|or det|every-Def-Tot noun|place ?
+%gra:	1|3|CASE 2|3|DET 3|0|ROOT 4|6|CC 5|6|DET 6|3|CONJ 7|3|PUNCT
+*INV:	anything that you see happening , (.) going on . 23610_26000
+%mor:	pron|anything-Ind-S1 pron|that-Rel pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|happen-Ger-S cm|cm verb|go-Part-Pres-S adp|on .
+%gra:	1|0|ROOT 2|5|OBJ 3|4|NSUBJ 4|1|ACL-RELCL 5|4|XCOMP 6|7|PUNCT 7|1|PARATAXIS 8|7|COMPOUND-PRT 9|1|PUNCT
+*PAR:	&=sighs . [+ exc]
+*INV:	just say it out loud . 35081_35990
+%mor:	adv|just verb|say-Fin-Imp-S pron|it-Prs-Acc-S3 adp|out adv|loud .
+%gra:	1|2|ADVMOD 2|0|ROOT 3|2|OBJ 4|2|COMPOUND-PRT 5|2|ADVMOD 6|2|PUNCT
+*PAR:	<oh I can> [//] oh you don't want me to memorize it ! [+ exc] 36421_37985
+%mor:	intj|oh pron|you-Prs-Nom-S2 aux|dont-Fin-S verb|want-Inf-S pron|I-Prs-Acc-S1 part|to verb|memorize-Inf-S pron|it-Prs-Acc-S3 !
+%gra:	1|4|DISCOURSE 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|7|MARK 7|4|XCOMP 8|7|OBJ 9|4|PUNCT
+*INV:	no [/] no [/] no I just want you to tell me what's going on in that picture . 38000_39343
+%mor:	intj|no pron|I-Prs-Nom-S1 adv|just verb|want-Fin-Ind-Pres-S1 pron|you-Prs-Acc-S2 part|to verb|tell-Inf-S pron|I-Prs-Acc-S1 pron|what-Int-S1 verb|go-Ger-S adp|on adp|in det|that-Def-Dem-Sing noun|picture .
+%gra:	1|4|DISCOURSE 2|4|NSUBJ 3|4|ADVMOD 4|0|ROOT 5|4|OBJ 6|7|MARK 7|4|XCOMP 8|7|IOBJ 9|10|NSUBJ 10|7|CCOMP 11|10|COMPOUND-PRT 12|14|CASE 13|14|DET 14|10|OBL 15|4|PUNCT
+*PAR:	+< oh . [+ exc]
+%mor:	intj|oh .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	okay , the [/] the little girl askin(g) for the cookie from the boy who's about to fall on his head . [+ gram] 40584_44980
+%mor:	intj|okay cm|cm det|the-Def-Art adj|little-S1 noun|girl verb|ask-Ger-S adp|for det|the-Def-Art noun|cookie adp|from det|the-Def-Art noun|boy noun|whose adj|about-S1 part|to verb|fall-Inf-S adp|on pron|his-Prs-Gen-S3 noun|head .
+%gra:	1|5|DISCOURSE 2|1|PUNCT 3|5|DET 4|5|AMOD 5|0|ROOT 6|5|ACL 7|9|CASE 8|9|DET 9|6|OBL 10|12|CASE 11|12|DET 12|13|COMPOUND 13|9|NMOD 14|13|AMOD 15|16|MARK 16|14|XCOMP 17|19|CASE 18|19|NMOD-POSS 19|16|OBL 20|5|PUNCT
+*PAR:	and she's goin(g) I guess “shush” or “give me one” . 45107_47810
+%mor:	cconj|and noun|she verb|go-Part-Pres-S pron|I-Prs-Nom-S1 verb|guess-Fin-Ind-Pres-S1 verb|shush-Inf-S cconj|or verb|give-Fin-Ind-Pres-S1 pron|I-Prs-Acc-S1 num|one .
+%gra:	1|5|CC 2|5|NSUBJ 3|2|ACL 4|5|NSUBJ 5|0|ROOT 6|5|XCOMP 7|8|CC 8|6|CONJ 9|8|IOBJ 10|8|OBJ 11|5|PUNCT
+*PAR:	the mother's &=laughs we don't think she might be on drugs (be)cause &-uh &=laughs she's off someplace (be)cause the sink's runnin(g) over . [+ gram] 49158_56868
+%mor:	det|the-Def-Art noun|mother-Plur-Acc pron|we-Prs-Nom-P1 aux|dont-Fin-S verb|think-Inf-Pres-S pron|she-Prs-Nom-S3 aux|might-Fin-S aux|be-Inf-S adp|on noun|drug-Plur sconj|because verb|she-Fin-Ind-Pres-S3 adp|off adv|someplace sconj|because det|the-Def-Art noun|sink-Plur verb|run-Ger-S adp|over .
+%gra:	1|2|DET 2|5|OBJ 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|10|NSUBJ 7|10|AUX 8|10|COP 9|10|CASE 10|5|CCOMP 11|12|MARK 12|10|ADVCL 13|12|COMPOUND-PRT 14|12|ADVMOD 15|18|MARK 16|17|DET 17|18|NSUBJ 18|12|ADVCL 19|18|COMPOUND-PRT 20|5|PUNCT
+*PAR:	and &-uh it's summer outside because the window's open and <the grasses or> [//] the bushes look healthy +... 57887_63214
+%mor:	cconj|and pron|its-Prs-Gen-S3 noun|summer adv|outside sconj|because det|the-Def-Art noun|window-Plur verb|open-Fin-Ind-Pres-P3 cconj|and det|the-Def-Art noun|bush-Plur verb|look-Fin-Ind-Pres-P3 adj|healthy-S1 +...
+%gra:	1|3|CC 2|3|NMOD-POSS 3|0|ROOT 4|3|ADVMOD 5|8|MARK 6|7|DET 7|8|NSUBJ 8|3|ADVCL 9|12|CC 10|11|DET 11|12|NSUBJ 12|8|CONJ 13|12|XCOMP 14|3|PUNCT
+*PAR:	and &-uh (..) she's dryin(g) dishes with her apron on . 63377_67937
+%mor:	cconj|and adj|shes-S1 noun|drying-Ger noun|dish-Plur adp|with pron|her-Prs-Gen-S3 noun|apron adp|on .
+%gra:	1|4|CC 2|4|AMOD 3|4|COMPOUND 4|0|ROOT 5|7|CASE 6|7|NMOD-POSS 7|4|NMOD 8|4|NMOD 9|4|PUNCT
+*PAR:	(.) and the cookie jar's lookin(g) full . 69948_71438
+%mor:	cconj|and det|the-Def-Art noun|cookie noun|jar-Plur verb|look-Ger-S adj|full-S1 .
+%gra:	1|4|CC 2|4|DET 3|4|COMPOUND 4|0|ROOT 5|4|ACL 6|5|XCOMP 7|4|PUNCT
+*INV:	(..) okay .
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	that's it . [+ exc] 75491_75881
+%mor:	aux|that-Fin-Ind-Pres-S3 pron|it-Prs-Nom-S3 .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+*INV:	alright thanks . 76558_77139
+%mor:	intj|alright noun|thanks .
+%gra:	1|2|DISCOURSE 2|0|ROOT 3|2|PUNCT
+@End

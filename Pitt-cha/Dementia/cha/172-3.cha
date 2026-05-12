@@ -1,0 +1,47 @@
+@UTF8
+@PID:	11312/a-00090425-0
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt|PAR|75;00.|female|MCI||Participant|||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	172-3, audio
+@Comment:	age is educated estimate , extrapolated from incomplete demographic data
+@G:	Cookie
+*PAR:	okay . [+ exc] 290_730
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	little boy is reaching for the cookie jar . 2353_4078
+%mor:	adj|little-S1 noun|boy aux|be-Fin-Ind-Pres-S3 verb|reach-Part-Pres-S adp|for det|the-Def-Art noun|cookie noun|jar .
+%gra:	1|2|AMOD 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|8|CASE 6|8|DET 7|8|COMPOUND 8|4|OBL 9|4|PUNCT
+*PAR:	<in so doing he's tipping over the> [//] &+s and he's handing them to his sister , the cookies . 4175_8140
+%mor:	cconj|and noun|he-Plur verb|hand-Part-Pres-S pron|they-Prs-Acc-P3 adp|to pron|his-Prs-Gen-S3 noun|sister cm|cm det|the-Def-Art noun|cookie-Plur .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|3|OBJ 5|7|CASE 6|7|NMOD-POSS 7|3|OBL 8|10|PUNCT 9|10|DET 10|7|APPOS 11|3|PUNCT
+*PAR:	so doing he's tipping over the stool <in the> [//] &-uh in front of the open cupboard . 8622_14251
+%mor:	adv|so verb|do-Part-Pres-S noun|he-Acc verb|tip-Ger-S adp|over det|the-Def-Art noun|stool adp|in noun|front adp|of det|the-Def-Art adj|open-S1 noun|cupboard .
+%gra:	1|2|ADVMOD 2|0|ROOT 3|2|OBJ 4|2|XCOMP 5|7|CASE 6|7|DET 7|4|OBL 8|9|CASE 9|4|OBL 10|13|CASE 11|13|DET 12|13|AMOD 13|9|NMOD 14|2|PUNCT
+*PAR:	&-uh the mother is washing dishes . 14998_17088
+%mor:	det|the-Def-Art noun|mother aux|be-Fin-Ind-Pres-S3 verb|wash-Part-Pres-S noun|dish-Plur-Acc .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*PAR:	and at that time water is overflowing from the sink . 17220_21210
+%mor:	cconj|and adp|at det|that-Def-Dem-Sing noun|time noun|water aux|be-Fin-Ind-Pres-S3 verb|overflow-Part-Pres-S adp|from det|the-Def-Art noun|sink .
+%gra:	1|7|CC 2|4|CASE 3|4|DET 4|7|OBL 5|7|NSUBJ 6|7|AUX 7|0|ROOT 8|10|CASE 9|10|DET 10|7|OBL 11|7|PUNCT
+*PAR:	she's wiping a dish at the time . 23487_25149
+%mor:	noun|she verb|wipe-Part-Pres-S det|a-Ind-Art noun|dish-Acc adp|at det|the-Def-Art noun|time .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|7|CASE 6|7|DET 7|2|OBL 8|2|PUNCT
+*PAR:	and that's what I +//. [+ exc] 26710_27171
+%mor:	cconj|and aux|that-Fin-Ind-Pres-S3 pron|what-Int-S1 pron|I-Prs-Nom-S1 +//.
+%gra:	1|3|CC 2|3|COP 3|0|ROOT 4|3|NSUBJ 5|3|PUNCT
+*PAR:	her feet are in the water . 27431_28558
+%mor:	pron|her-Prs-Gen-S3 noun|foot-Plur aux|be-Fin-Ind-Pres-P3 adp|in det|the-Def-Art noun|water .
+%gra:	1|2|NMOD-POSS 2|6|NSUBJ 3|6|COP 4|6|CASE 5|6|DET 6|0|ROOT 7|6|PUNCT
+*PAR:	and that's as much as I see . [+ exc] 28714_29774
+%mor:	cconj|and verb|that-Fin-Ind-Pres-S3 adv|as adj|much-S1 sconj|as pron|I-Prs-Nom-S1 verb|see-Fin-Ind-Pres-S1 .
+%gra:	1|2|CC 2|0|ROOT 3|4|ADVMOD 4|2|ADVMOD 5|7|MARK 6|7|NSUBJ 7|4|ADVCL 8|2|PUNCT
+*PAR:	her back is to the boy and to the girl . 30250_32189
+%mor:	pron|her-Prs-Gen-S3 noun|back aux|be-Fin-Ind-Pres-S3 adp|to det|the-Def-Art noun|boy cconj|and adp|to det|the-Def-Art noun|girl .
+%gra:	1|2|NMOD-POSS 2|6|NSUBJ 3|6|COP 4|6|CASE 5|6|DET 6|0|ROOT 7|10|CC 8|10|CASE 9|10|DET 10|6|CONJ 11|6|PUNCT
+*INV:	okay .
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+@End

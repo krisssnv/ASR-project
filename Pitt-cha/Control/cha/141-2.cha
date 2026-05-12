@@ -1,0 +1,46 @@
+@UTF8
+@PID:	11312/a-00090757-0
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt|PAR|56;|female|Control||Participant|30||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	141-2, audio
+@G:	Cookie
+*PAR:	oh goodness sakes . [+ exc] 2551_3530
+%mor:	intj|oh noun|goodness noun|sake-Plur .
+%gra:	1|3|DISCOURSE 2|3|COMPOUND 3|0|ROOT 4|3|PUNCT
+*PAR:	the little girl is saying +"/. 5490_6600
+%mor:	det|the-Def-Art adj|little-S1 noun|girl aux|be-Fin-Ind-Pres-S3 verb|say-Part-Pres-S +"/.
+%gra:	1|3|DET 2|3|AMOD 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|5|PUNCT
+*PAR:	+" be quiet (be)cause we don't want mother to know we're in the cookie jar . 6939_10126
+%mor:	aux|be-Fin-Imp-S adj|quiet-S1 sconj|because pron|we-Prs-Nom-P1 aux|dont-Fin-Ind-Pres-S1 verb|want-Fin-Ind-Pres-P1 noun|mother-Acc part|to verb|know-Inf-S noun|were-Acc adp|in det|the-Def-Art noun|cookie noun|jar .
+%gra:	1|2|COP 2|0|ROOT 3|6|MARK 4|6|NSUBJ 5|6|AUX 6|2|ADVCL 7|6|OBJ 8|9|MARK 9|6|XCOMP 10|9|OBJ 11|14|CASE 12|14|DET 13|14|COMPOUND 14|9|OBL 15|2|PUNCT
+*PAR:	the boy is getting cookies and he's going to have an accident because the stool is going to go &=laughs quite off . 10295_15685
+%mor:	det|the-Def-Art noun|boy aux|be-Fin-Ind-Pres-S3 verb|get-Part-Pres-S noun|cookie-Plur-Acc cconj|and aux|he-Fin-Ind-Pres-S3 verb|go-Part-Pres-S part|to verb|have-Inf-S det|a-Ind-Art noun|accident-Acc sconj|because det|the-Def-Art noun|stool aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S part|to verb|go-Inf-S adv|quite adv|off .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|8|CC 7|8|AUX 8|4|CONJ 9|10|MARK 10|8|XCOMP 11|12|DET 12|10|OBJ 13|17|MARK 14|15|DET 15|17|NSUBJ 16|17|AUX 17|10|ADVCL 18|19|MARK 19|17|XCOMP 20|21|ADVMOD 21|19|ADVMOD 22|4|PUNCT
+*PAR:	the mother is in dream world somewhere because &=laughs she's drying dishes and the water's coming out over the floor . 15800_22179
+%mor:	det|the-Def-Art noun|mother aux|be-Fin-Ind-Pres-S3 adp|in noun|dream noun|world adv|somewhere sconj|because noun|she-Plur noun|drying-Ger noun|dish-Plur cconj|and det|the-Def-Art noun|water-Plur verb|come-Ger-S adp|out adp|over det|the-Def-Art noun|floor .
+%gra:	1|2|DET 2|6|NSUBJ 3|6|COP 4|6|CASE 5|6|COMPOUND 6|0|ROOT 7|6|ADVMOD 8|15|MARK 9|11|COMPOUND 10|11|COMPOUND 11|6|NSUBJ 12|14|CC 13|14|DET 14|11|CONJ 15|14|ACL 16|15|COMPOUND-PRT 17|19|CASE 18|19|DET 19|15|OBL 20|6|PUNCT
+*PAR:	&-um she's standing in the water even . 23344_25904
+%mor:	noun|she verb|stand-Ger-S adp|in det|the-Def-Art noun|water adv|even .
+%gra:	1|0|ROOT 2|1|ACL 3|5|CASE 4|5|DET 5|2|OBL 6|2|ADVMOD 7|1|PUNCT
+*PAR:	my goodness sakes . [+ exc] 26361_27781
+%mor:	pron|my-Prs-Gen-S1 noun|goodness noun|sake-Plur .
+%gra:	1|3|NMOD-POSS 2|3|COMPOUND 3|0|ROOT 4|3|PUNCT
+*PAR:	the (.) &-hm +... 29007_31568
+%mor:	det|the-Def-Art +...
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	there's nothin(g) the matter with those dishes . 40358_42220
+%mor:	verb|there-Fin-Ind-Pres-S3 pron|nothing-Neg-S1 det|the-Def-Art noun|matter-Acc adp|with det|that-Def-Dem-Plur noun|dish-Plur .
+%gra:	1|0|ROOT 2|1|OBJ 3|4|DET 4|1|OBJ 5|7|CASE 6|7|DET 7|4|NMOD 8|1|PUNCT
+*PAR:	I guess you could look out the window and see that . [+ exc] 47625_49665
+%mor:	pron|I-Prs-Nom-S1 verb|guess-Fin-Ind-Pres-S1 pron|you-Prs-Nom-S2 aux|could-Fin-S verb|look-Inf-S adp|out det|the-Def-Art noun|window cconj|and verb|see-Inf-S pron|that-Dem .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|5|NSUBJ 4|5|AUX 5|2|CCOMP 6|8|CASE 7|8|DET 8|5|OBL 9|10|CC 10|5|CONJ 11|10|OBJ 12|2|PUNCT
+*PAR:	&-hm I don't know Karen that's +/. [+ exc] 50193_52870
+%mor:	pron|I-Prs-Nom-S1 adv|dont verb|know-Fin-Ind-Pres-S1 propn|Karen-Acc pron|that-Prs-S1 +/.
+%gra:	1|3|NSUBJ 2|3|ADVMOD 3|0|ROOT 4|3|OBJ 5|3|PUNCT 6|3|PUNCT
+*INV:	okay that's fine . 52932_53652
+%mor:	intj|okay pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adj|fine-S1 .
+%gra:	1|4|DISCOURSE 2|4|NSUBJ 3|4|COP 4|0|ROOT 5|4|PUNCT
+@End

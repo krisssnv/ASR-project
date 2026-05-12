@@ -1,0 +1,31 @@
+@UTF8
+@PID:	11312/a-00090492-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|80;|female|ProbableAD||Participant|23||
+@Media:	271-2, audio
+@G:	Cookie
+*INV:	tell me what's going on in the picture . 100_1760
+%mor:	verb|tell-Fin-Imp-S pron|I-Prs-Acc-S1 pron|what-Int-S1 verb|go-Ger-S adp|on adp|in det|the-Def-Art noun|picture .
+%gra:	1|0|ROOT 2|1|IOBJ 3|4|NSUBJ 4|1|CCOMP 5|4|COMPOUND-PRT 6|8|CASE 7|8|DET 8|4|OBL 9|1|PUNCT
+*PAR:	(..) the little boy is in the cookie jar and standing on a stool that's falling out from under him . 6959_15347
+%mor:	det|the-Def-Art adj|little-S1 noun|boy aux|be-Fin-Ind-Pres-S3 adp|in det|the-Def-Art noun|cookie noun|jar cconj|and verb|stand-Part-Pres-S adp|on det|a-Ind-Art noun|stool noun|that verb|fall-Ger-S adp|out adp|from adp|under pron|he-Prs-Acc-S3 .
+%gra:	1|3|DET 2|3|AMOD 3|8|NSUBJ 4|8|COP 5|8|CASE 6|8|DET 7|8|COMPOUND 8|0|ROOT 9|10|CC 10|8|CONJ 11|14|CASE 12|14|DET 13|14|COMPOUND 14|10|OBL 15|10|ADVCL 16|15|COMPOUND-PRT 17|19|CASE 18|19|CASE 19|15|OBL 20|8|PUNCT
+*PAR:	(.) and the mother has [//] (.) is washing dishes in the kitchen sink but she doesn't have the plug in . 18213_25983
+%mor:	cconj|and det|the-Def-Art noun|mother aux|be-Fin-Ind-Pres-S3 verb|wash-Part-Pres-S noun|dish-Plur-Acc adp|in det|the-Def-Art noun|kitchen noun|sink cconj|but pron|she-Prs-Nom-S3 adv|doesnt verb|have-Inf-Ind-S det|the-Def-Art noun|plug-Acc adp|in .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|5|OBJ 7|10|CASE 8|10|DET 9|10|COMPOUND 10|5|OBL 11|14|CC 12|14|NSUBJ 13|14|ADVMOD 14|5|CONJ 15|16|DET 16|14|OBJ 17|14|COMPOUND-PRT 18|5|PUNCT
+*PAR:	and she's having a flood . 26058_27398
+%mor:	cconj|and verb|she-Fin-Ind-Pres-S3 verb|have-Part-Pres-S det|a-Ind-Art noun|flood-Acc .
+%gra:	1|2|CC 2|0|ROOT 3|2|XCOMP 4|5|DET 5|3|OBJ 6|2|PUNCT
+*INV:	(..) okay .
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	that's it . [+ exc] 36122_36635
+%mor:	aux|that-Fin-Ind-Pres-S3 pron|it-Prs-Nom-S3 .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+*INV:	okay .
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+@End

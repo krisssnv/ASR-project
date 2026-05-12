@@ -1,0 +1,44 @@
+@UTF8
+@PID:	11312/a-00090439-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|65;00.|male|ProbableAD||Participant|||
+@Media:	184-2, audio
+@Comment:	age is educated estimate , extrapolated from incomplete demographic data
+@G:	Cookie
+*INV:	what I'm gonna do now , is I'm gonna show you a picture . 350_2471
+%mor:	pron|what-Int-S1 pron|im-Prs-Nom-S2 part|go verb|do-Inf-S adv|now cm|cm aux|be-Fin-Ind-Pres-S3 pron|im-Prs-Nom-S3 adv|gonna verb|show-Inf-S pron|you-Prs-Acc-S2 det|a-Ind-Art noun|picture-Acc .
+%gra:	1|10|NSUBJ-OUTER 2|4|NSUBJ 3|4|AUX 4|1|ACL-RELCL 5|4|ADVMOD 6|1|PUNCT 7|10|COP 8|10|NSUBJ 9|10|ADVMOD 10|0|ROOT 11|10|IOBJ 12|13|DET 13|10|OBJ 14|10|PUNCT
+*INV:	and in the picture there's a [//] &+l some action taking place . 3473_6504
+%mor:	cconj|and adp|in det|the-Def-Art noun|picture verb|there-Fin-Ind-Pres-S3 det|some-Def-Ind noun|action verb|take-Ger-S noun|place-Acc .
+%gra:	1|5|CC 2|4|CASE 3|4|DET 4|5|OBL 5|0|ROOT 6|7|DET 7|5|NSUBJ 8|7|ACL 9|8|OBJ 10|5|PUNCT
+*INV:	there's some things going on , okay . 6590_8340
+%mor:	verb|there-Fin-Ind-Pres-S3 det|some-Def-Ind noun|thing-Plur-Acc verb|go-Ger-S adp|on cm|cm intj|okay .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|3|ACL 5|4|COMPOUND-PRT 6|7|PUNCT 7|1|DISCOURSE 8|1|PUNCT
+*INV:	what I want you to do is look at the picture and tell me anything you see that's going on . 9096_13426
+%mor:	pron|what-Int-S1 pron|I-Prs-Nom-S1 verb|want-Fin-Ind-Pres-S1 pron|you-Prs-Acc-S2 part|to verb|do-Inf-S aux|be-Fin-Ind-Pres-S3 verb|look-Inf-S adp|at det|the-Def-Art noun|picture cconj|and verb|tell-Inf-S pron|I-Prs-Acc-S1 pron|anything-Ind-S1 pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 pron|that-Dem-S1 verb|go-Ger-S adp|on .
+%gra:	1|8|NSUBJ-OUTER 2|3|NSUBJ 3|1|ACL-RELCL 4|3|OBJ 5|6|MARK 6|3|XCOMP 7|8|COP 8|0|ROOT 9|11|CASE 10|11|DET 11|8|OBL 12|13|CC 13|8|CONJ 14|13|IOBJ 15|13|OBJ 16|17|NSUBJ 17|15|ACL-RELCL 18|19|NSUBJ 19|17|XCOMP 20|19|COMPOUND-PRT 21|8|PUNCT
+*PAR:	&=clears:throat okay Junior's in the <kɪkɪ@u [: cookie] [* pn-ret] jar> [//] cookie jar . 19258_22233
+%mor:	intj|okay propn|Junior adp|in det|the-Def-Art noun|cookie noun|jar .
+%gra:	1|2|DISCOURSE 2|0|ROOT 3|6|CASE 4|6|DET 5|6|COMPOUND 6|2|NMOD 7|2|PUNCT
+*PAR:	and he's just about to go &=laughs have himself an accident . 25605_29249
+%mor:	cconj|and aux|he-Fin-Ind-Pres-S3 adv|just adv|about part|to verb|go-Inf-S verb|have-Inf-S pron|himself-Prs-Acc-reflx-S3 det|a-Ind-Art noun|accident-Acc .
+%gra:	1|6|CC 2|6|AUX 3|6|ADVMOD 4|6|ADVMOD 5|6|MARK 6|0|ROOT 7|6|XCOMP 8|7|IOBJ 9|10|DET 10|7|OBJ 11|6|PUNCT
+*PAR:	his sister's standin(g) down below waitin(g) for a handful of cookies . 30344_33484
+%mor:	pron|his-Prs-Gen-S3 noun|sister-Plur noun|standing-Ger adp|down sconj|below verb|wait-Part-Pres-S adp|for det|a-Ind-Art noun|handful adp|of noun|cookie-Plur .
+%gra:	1|2|NMOD-POSS 2|3|NSUBJ 3|0|ROOT 4|3|COMPOUND-PRT 5|6|MARK 6|3|ADVCL 7|9|CASE 8|9|DET 9|6|OBL 10|11|CASE 11|9|NMOD 12|3|PUNCT
+*PAR:	and &-uh his mom's washin(g) [//] &+wash dryin(g) the dishes I think . 35086_43551
+%mor:	cconj|and pron|his-Prs-Gen-S3 noun|mom-Plur verb|drying-Ger-S det|the-Def-Art noun|dish-Plur-Acc pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Pres-S1 .
+%gra:	1|3|CC 2|3|NMOD-POSS 3|8|NSUBJ 4|3|ACL 5|6|DET 6|4|OBJ 7|8|NSUBJ 8|0|ROOT 9|8|PUNCT
+*PAR:	and she's havin(g) problems because the sink's running over and she's standing in a puddle of water , some empty dishes on the counter . 44663_54811
+%mor:	cconj|and noun|she-Plur verb|have-Part-Pres-S noun|problem-Plur-Acc sconj|because det|the-Def-Art noun|sink-Plur verb|run-Ger-S adp|over cconj|and noun|she verb|stand-Ger-S adp|in det|a-Ind-Art noun|puddle adp|of noun|water cm|cm det|some-Def-Ind adj|empty-S1 noun|dish-Plur adp|on det|the-Def-Art noun|counter .
+%gra:	1|2|CC 2|3|NSUBJ 3|0|ROOT 4|3|OBJ 5|12|MARK 6|7|DET 7|12|NSUBJ 8|7|ACL 9|8|COMPOUND-PRT 10|11|CC 11|8|CONJ 12|3|ADVCL 13|15|CASE 14|15|DET 15|12|OBL 16|17|CASE 17|15|NMOD 18|21|PUNCT 19|21|DET 20|21|AMOD 21|15|APPOS 22|24|CASE 23|24|DET 24|21|NMOD 25|3|PUNCT
+*PAR:	&-um as far as the action that's just about it . [+ exc] 57385_60055
+%mor:	adv|as adv|far adp|as det|the-Def-Art noun|action aux|that-Fin-Ind-Pres-S3 adv|just adp|about pron|it-Prs-Acc-S3 .
+%gra:	1|2|ADVMOD 2|0|ROOT 3|5|CASE 4|5|DET 5|2|OBL 6|2|ADVCL 7|9|ADVMOD 8|9|CASE 9|2|ADVCL 10|2|PUNCT
+*INV:	okay .
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+@End

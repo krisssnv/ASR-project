@@ -1,0 +1,34 @@
+@UTF8
+@PID:	11312/a-00090615-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|Pitt|INV|||||Investigator|||
+@ID:	eng|Pitt|PAR|79;|female|ProbableAD||Participant|8||
+@Media:	674-0, audio
+@G:	Cookie
+*INV:	I want you to take a look at this picture . 391_1970
+%mor:	pron|I-Prs-Nom-S1 verb|want-Fin-Ind-Pres-S1 pron|you-Prs-Acc-S2 part|to verb|take-Inf-S det|a-Ind-Art noun|look-Acc adp|at det|this-Def-Dem-Sing noun|picture .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|OBJ 4|5|MARK 5|2|XCOMP 6|7|DET 7|5|OBJ 8|10|CASE 9|10|DET 10|7|NMOD 11|2|PUNCT
+*INV:	tell me everything you see happening in that picture , everything that's going on . 3421_7354
+%mor:	verb|tell-Fin-Imp-S pron|I-Prs-Acc-S1 pron|everything-Tot-S1 pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|happen-Ger-S adp|in det|that-Def-Dem-Sing noun|picture cm|cm pron|everything-Tot-S1 noun|that verb|go-Ger-S adp|on .
+%gra:	1|0|ROOT 2|1|IOBJ 3|1|OBJ 4|5|NSUBJ 5|3|ACL-RELCL 6|5|XCOMP 7|9|CASE 8|9|DET 9|6|OBL 10|11|PUNCT 11|1|PARATAXIS 12|13|NSUBJ 13|11|ACL-RELCL 14|13|COMPOUND-PRT 15|1|PUNCT
+*PAR:	boy's &+t &+t touchin(g) a cake [: cookie] [* s:r] . [+ gram] 14202_16582
+%mor:	noun|boy-Plur verb|touch-Ger-S det|a-Ind-Art noun|cookie-Acc .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*PAR:	he's [//] girl's reachin(g) <his hand up> [//] her hand up . [+ gram] 17064_20854
+%mor:	noun|girl-Plur verb|reach-Ger-S pron|her-Prs-Gen-S3 noun|hand-Acc adp|up .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|4|NMOD-POSS 4|2|OBJ 5|2|COMPOUND-PRT 6|2|PUNCT
+*PAR:	and that woman's dryin(g) the dishes [/] dishes . 20987_23810
+%mor:	cconj|and sconj|that noun|woman-Plur verb|drying-Ger-S det|the-Def-Art noun|dish-Plur-Acc .
+%gra:	1|4|CC 2|4|MARK 3|4|NSUBJ 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+*PAR:	the &-uh water's falling [//] flowing over the sink . 25159_29479
+%mor:	det|the-Def-Art noun|water-Plur verb|flow-Ger-S adp|over det|the-Def-Art noun|sink .
+%gra:	1|2|DET 2|0|ROOT 3|2|ACL 4|6|CASE 5|6|DET 6|3|OBL 7|2|PUNCT
+*PAR:	there's cups and a plate on the sink . 34411_37071
+%mor:	verb|there-Fin-Ind-Pres-S3 noun|cup-Plur-Acc cconj|and det|a-Ind-Art noun|plate adp|on det|the-Def-Art noun|sink .
+%gra:	1|0|ROOT 2|1|OBJ 3|5|CC 4|5|DET 5|2|CONJ 6|8|CASE 7|8|DET 8|5|NMOD 9|1|PUNCT
+*INV:	okay thanks . 42751_43540
+%mor:	intj|okay noun|thanks .
+%gra:	1|2|DISCOURSE 2|0|ROOT 3|2|PUNCT
+@End

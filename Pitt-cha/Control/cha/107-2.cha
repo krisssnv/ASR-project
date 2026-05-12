@@ -1,0 +1,38 @@
+@UTF8
+@PID:	11312/a-00090710-0
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt|PAR|59;00.|male|Control||Participant|||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	107-2, audio
+@Comment:	age is educated estimate , extrapolated from incomplete demographic data
+@G:	Cookie
+*PAR:	a girl's reachin(g) for a cookie . 420_1930
+%mor:	det|a-Ind-Art noun|girl-Plur verb|reach-Ger-S adp|for det|a-Ind-Art noun|cookie .
+%gra:	1|2|DET 2|0|ROOT 3|2|ACL 4|6|CASE 5|6|DET 6|3|OBL 7|2|PUNCT
+*PAR:	the boy's takin(g) a cookie out of the cookie jar . 2881_5874
+%mor:	det|the-Def-Art noun|boy-Plur verb|take-Ger-S det|a-Ind-Art noun|cookie-Acc adp|out adp|of det|the-Def-Art noun|cookie noun|jar .
+%gra:	1|2|DET 2|3|NSUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|10|CASE 7|10|CASE 8|10|DET 9|10|COMPOUND 10|3|OBL 11|3|PUNCT
+*PAR:	the bench is tumblin(g) . 6883_8104
+%mor:	det|the-Def-Art noun|bench aux|be-Fin-Ind-Pres-S3 verb|tumble-Part-Pres-S .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|COP 4|0|ROOT 5|4|PUNCT
+*PAR:	the sink is runnin(g) over water . 9666_10886
+%mor:	det|the-Def-Art noun|sink aux|be-Fin-Ind-Pres-S3 verb|run-Part-Pres-S adp|over noun|water .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|6|CASE 6|4|OBL 7|4|PUNCT
+*PAR:	the mother's wipin(g) the plate . 11999_15249
+%mor:	det|the-Def-Art noun|mother-Plur verb|wipe-Ger-S det|the-Def-Art noun|plate-Acc .
+%gra:	1|2|DET 2|0|ROOT 3|2|ACL 4|5|DET 5|3|OBJ 6|2|PUNCT
+*PAR:	she's also lookin(g) out the window . 18066_19217
+%mor:	verb|she-Fin-Ind-Pres-S3 adv|also verb|look-Part-Pres-S adp|out det|the-Def-Art noun|window-Acc .
+%gra:	1|0|ROOT 2|3|ADVMOD 3|1|XCOMP 4|3|COMPOUND-PRT 5|6|DET 6|3|OBJ 7|1|PUNCT
+*PAR:	and she's standin(g) in water . 22643_23753
+%mor:	cconj|and pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|stand-Part-Pres-S adp|in noun|water .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|6|CASE 6|4|OBL 7|4|PUNCT
+*PAR:	and that's it . [+ exc] 27099_27399
+%mor:	cconj|and pron|that-Dem~aux|be-Fin-Ind-Pres-S3 pron|it-Prs-Nom-S3 .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|COP 4|0|ROOT 5|4|PUNCT
+*INV:	okay . 27854_27880
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+@End
