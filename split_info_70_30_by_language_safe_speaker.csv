@@ -1,0 +1,7 @@
+language,label_name,n_speakers_total,n_speakers_train,n_speakers_test,n_files_total,n_files_train,n_files_test
+English,Control,99,69,30,242,168,74
+English,MCI,194,135,59,309,224,85
+Greek,Control,2,1,1,2,1,1
+Greek,MCI,56,39,17,56,39,17
+Mandarin,Control,42,29,13,126,87,39
+Mandarin,MCI,45,31,14,133,91,42
