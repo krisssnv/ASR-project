@@ -18,8 +18,9 @@ This repository contains notebooks and analysis scripts for automatic speech det
 ## Typical Workflow
 
 1. Run preprocessing and feature extraction to prepare the dataset.
-2. Train models for the feature sets you want to compare, using the predefined datasplits
-3. Collect the generated CSV metrics and predictions.
-4. Use the plotting notebook to summarize and visualize results.
+2. Split data into TRAIN/TEST 
+3. Train models for the feature sets you want to compare, using the predefined datasplits
+4. Collect the generated CSV metrics and predictions.
+5. Use the plotting notebook to summarize and visualize results.
 
 ## Data used is from DementiaBank corpus.
