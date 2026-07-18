@@ -9,7 +9,7 @@ This repository contains notebooks and analysis scripts for automatic speech det
 - `Train_eGeMAPS_and_ComParE2016_combined_commented.ipynb` - training interpretable baseline models.
 - `Interpretable features/modelstrain.ipynb` - training and evaluating interpretable feature-based models.
 - `plotting(1).ipynb` - plotting and comparison of results.
--                     - prepares data splits
+-   `split_clean.ipynb`     - prepares data splits
 ## Data And Results
 
 - `Interpretable features/` stores model outputs, metrics CSVs, and analysis notebooks for interpretable experiments.
